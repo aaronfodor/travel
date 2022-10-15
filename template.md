@@ -19,7 +19,7 @@ Desciption.
 
 Description.
 
-<img src="https://user-images.githubusercontent.com/37120889/195999721-2626066c-b81f-41a0-abed-93cfb7705710.jpg" alt="placeholder" width="800" />
+<img src="https://user-images.githubusercontent.com/37120889/195999721-2626066c-b81f-41a0-abed-93cfb7705710.jpg" alt="public transport system" width="800" />
 
 
 ## What to do💡
@@ -74,6 +74,8 @@ Description.
 - [ ] **Something**
 
     Desciption.
+
+    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="placeholder" width="400" />
 
 ### Main dishes
 

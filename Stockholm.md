@@ -1,6 +1,6 @@
 # Stockholm
 
-Last updated: 09/10/2022
+Last updated: 15/10/2022
 
 ## Prices📈
 
@@ -13,363 +13,514 @@ Sweden uses Swedish Kronor (SEK). 1 SEK ~ 0.1 € ~ 38 HUF. They don’t accept 
 
 ### Arlanda
 
-![https://www.travelnews.se/wp-content/uploads/2016/04/arlandaexpress.jpg](https://www.travelnews.se/wp-content/uploads/2016/04/arlandaexpress.jpg)
-
 Read a great summary [here](https://www.sweetsweden.com/tourism-travel-sweden/the-cheapest-way-to-travel-between-arlanda-airport-and-stockholm/).
 
 - If you want to go cheap, you can travel for free with public transport ticket, but you need to take bus line 583, then a commuter train at Märsta Station (if you go to Stockholm). It takes roughly 90 minutes.
+
 - If you wanna go relatively cheap, there is [FlixBus](https://global.flixbus.com/) or [Flygbussarna](https://www.flygbussarna.se/) between Arlanda and T-Centralen (Stockholm City Center). It takes around 50 minutes, costs around 110 SEK.
+
 - If you wanna go super fast but expensive, take the [Arlanda Express](https://www.arlandaexpress.com/). It is a high-speed train making the way only in 18 minutes, costs 149 SEK.
 
-### Skavsta
+<img src="https://user-images.githubusercontent.com/37120889/196000265-02e6f7ea-2696-443e-a468-00bf9b81182b.jpg" alt="Arlanda Express" width="400" />
 
-[](https://dms-api.ntm.eu/api/v1/images/er9y4w5l/smart/width/1200/height/675)[https://dms-api.ntm.eu/api/v1/images/er9y4w5l/smart/width/1200/height/675](https://dms-api.ntm.eu/api/v1/images/er9y4w5l/smart/width/1200/height/675)
+### Skavsta
 
 There are good and bad news: Skavsta airport is actually not anywhere close to Stockholm, but 100 km away. The good part: the airport is small, the security check-in is not that strict, and you cannot get lost. You need around 1.5 hour from Stockholm city center to get there.
 
 - I recommend [Flygbussarna](https://www.flygbussarna.se/) between Skavsta and T-Centralen (Stockholm City Center). It takes around 90 minutes, costs around 210 SEK. Buy your ticket before getting to the station, because it costs more there.
 
+<img src="https://user-images.githubusercontent.com/37120889/196000146-c4cb4a04-056d-43fd-88f6-47a8e0b482e5.jpg" alt="Flygbussarna" width="400" />
+
 
 ## Public Transport🚇
 
-[](https://www.red-dot.org/index.php?f=43019&token=b78ddcfdd22f4fe49ba45b852572547351ca629e&eID=tx_solr_image&size=large&usage=slider)[https://www.red-dot.org/index.php?f=43019&token=b78ddcfdd22f4fe49ba45b852572547351ca629e&eID=tx_solr_image&size=large&usage=slider](https://www.red-dot.org/index.php?f=43019&token=b78ddcfdd22f4fe49ba45b852572547351ca629e&eID=tx_solr_image&size=large&usage=slider)
-
 You should buy a ticket with the SL company (like BKV, but in Stockholm). It is expensive, but the service is great, and you can get anywhere for free (including ferries, commuter trains within Stockholm county). [Tickets](https://sl.se/privat/biljetter/kop-biljett) (The 72 hour ticket is 330 SEK, the 7 day ticket costs 420 SEK). Unfortunatelly the student ticket is only valid with a Mecenat card, no international or EU compatible student ID is accepted. Download the [SL app](https://play.google.com/store/apps/details?id=com.sl.SLBiljetter) to buy your ticket (you can travel with it while being offline).
 
+<img src="https://user-images.githubusercontent.com/37120889/195999721-2626066c-b81f-41a0-abed-93cfb7705710.jpg" alt="public transport system" width="800" />
 
 ## What to do💡
 
 ### Walking and sightseeing
 
-- **Gamla Stan (with Stortorget and Mårten Trotzigs Gränd)** 🆓
+- [ ] **Gamla Stan (with Stortorget and Mårten Trotzigs Gränd)** 🆓
+
     The old city with historical and medieval streets, souvenir shops, fika places, and with the tightest street in Stockholm.
     
-    ![https://a.cdn-hotels.com/gdcs/production150/d1539/6aeb3fe2-5b6f-4d95-990c-07d2e9406465.jpg](https://a.cdn-hotels.com/gdcs/production150/d1539/6aeb3fe2-5b6f-4d95-990c-07d2e9406465.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196000575-33ab72a6-d38c-4aed-8680-c9a9f8bf136a.jpg" alt="Stortorget" width="400" />
     
-    ![http://www.skulptur.stockholm.se/Database/images_guided_tours/Marten Trotzigs grand.jpg](http://www.skulptur.stockholm.se/Database/images_guided_tours/Marten%20Trotzigs%20grand.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002140-f5de2e18-3797-4863-818a-672053b462e5.jpg" alt="Mårten Trotzigs Gränd" width="400" />
     
-- **Kungsträdgården** 🆓
-    Nice park with water, seagulls, and green areas. They sell great churros nearby. The origin of the Stockholm Syndrome is originated from a bank robbery which happened nearby.
+- [ ] **Kungsträdgården** 🆓
+
+    Very nice park with water, seagulls, and green areas. There are cultural events and concerts in the park. During winter, there is an ice-skating ring there. In April-May the park is pink thanks to cherry blossom. They sell great churros nearby. The origin of the Stockholm Syndrome is originated from a bank robbery which happened nearby.
     
-    ![https://via.tt.se/data/images/00056/bcf7ea2a-43c7-4653-944f-153ba91b2588.png](https://via.tt.se/data/images/00056/bcf7ea2a-43c7-4653-944f-153ba91b2588.png)
+    <img src="https://user-images.githubusercontent.com/37120889/196000701-40b51f46-5552-49d7-a9ac-7ca99d67d59e.jpg" alt="Kungsträdgården" width="400" />
     
-- **Sergels Torg** 🆓
+- [ ] **Sergels Torg** 🆓
+
     The square right above T-Centralen. One of the busiest area of the city.
     
-    ![https://wwwvasakronanse.cdn.triggerfish.cloud/uploads/2021/05/sergelhusen-1900x864-1.jpg](https://wwwvasakronanse.cdn.triggerfish.cloud/uploads/2021/05/sergelhusen-1900x864-1.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196000884-dc279edb-ad23-4184-a4e1-a514d6978952.jpg" alt="Sergels Torg" width="400" />
+
+- [ ] **Drottninggatan** 🆓
     
-- **Södermalm, and the lookout** 🆓
-    This is a huge island near central Stockholm, with nice areas and wonderful lookouts, especially around sunset.
+    A major pedestrian street with many shops and restaurants. The busiest street of the city.
     
-    ![https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/2c/f8/6f.jpg](https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/2c/f8/6f.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196001079-02d053ab-7688-46f9-98c8-246eb3e5e584.jpg" alt="Drottninggatan" width="400" />
     
-- **Djurgården ferry** 🆓
-    Start the ride from Slussen. Free with an SL ticket, and gives a nice overview of the inner city. You can see Gröna Lund too and hear people screaming on the way.
+- [ ] **Södermalm and the lookout** 🆓
+
+    This is a huge island near central Stockholm, with nice areas and wonderful lookouts, especially during sunset.
     
-    [](https://pbs.twimg.com/media/CttaU9nWYAATBy1?format=jpg&name=4096x4096)[https://pbs.twimg.com/media/CttaU9nWYAATBy1?format=jpg&name=4096x4096](https://pbs.twimg.com/media/CttaU9nWYAATBy1?format=jpg&name=4096x4096)
+    <img src="https://user-images.githubusercontent.com/37120889/196001183-baf7aeae-3fe4-4263-a47c-73e3134e8766.jpg" alt="Södermalm" width="400" />
     
-- **Djurgården** 🆓
-    One of my favourite places in the city. It is a very nice island with tons of museums. Apart from them, I usually come here to the park walk around and enjoy the sun. It used to be a hunting venue of the royal family.
+- [ ] **Djurgårdsfärjan (Djurgården ferry)** 🆓
+
+    Start the ride from Slussen. Free with an SL ticket, and gives a nice overview of the inner city. You can see Gröna Lund and hear people screaming on the way. It stops in Slussen, Djurgården, and Skeppsholmen.
     
-    ![http://www.notabletravels.com/wp-content/uploads/2020/02/Djurgarden-blue-gates-Stockholm-Sweden-1024x720.jpg](http://www.notabletravels.com/wp-content/uploads/2020/02/Djurgarden-blue-gates-Stockholm-Sweden-1024x720.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196001348-4b786c54-5ae0-4b3b-8ff7-9d97b60e10b2.jpg" alt="" width="400" />
     
-- **Drottninggatan** 🆓
-    It is a major pedestrian street with many shops and restaurants. Quite busy.
+- [ ] **Djurgården** 🆓
+
+    One of my favourite places in the city. It is a very nice island with tons of museums. Apart from them, I usually come here to the park walk around and enjoy the sun. It used to be a hunting venue for the royal family.
     
-    ![https://live.staticflickr.com/2815/33112059944_3ffc15f8b1_b.jpg](https://live.staticflickr.com/2815/33112059944_3ffc15f8b1_b.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196001452-5345e4ab-84d9-411a-81f6-9b2a38045a5e.jpg" alt="" width="400" />
     
-- **Short trip at Kungliga Tekniska Högskolan** 🆓
+- [ ] **Kungliga Tekniska Högskolan (KTH Royal Institute of Technology)** 🆓
+
     This is the Technical University where I studied. I recommend to visit the main campus, the garden in front of it, and the library. The libary is open during weekdays usually, but check the opening hours (https://www.kth.se/en/biblioteket).
     
-    ![https://studyinsweden.se/transformations/2013/10/KTH-Borggården_Jann-Lipka-870x579-1.jpg-1920x.jpg](https://studyinsweden.se/transformations/2013/10/KTH-Borgg%C3%A5rden_Jann-Lipka-870x579-1.jpg-1920x.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196001504-82d8f707-5b8a-4a44-ae9f-97f15f1b7cbb.jpg" alt="The main campus" width="400" />
+
+    <img src="https://user-images.githubusercontent.com/37120889/196001592-85eb95d3-5b13-42f3-9b4a-df79affe3d70.jpg" alt="The library" width="400" />
     
-- **Skeppsholmen** 🆓
-    It is a small island next to Djurgarden, with a fortress and a nice lookout. The Djurgården ferry stops here.
+- [ ] **Skeppsholmen** 🆓
+
+    It is a small island next to Djurgården, with a fortress and a nice lookout. The Djurgården ferry stops here.
     
-    ![https://vadhanderistockholm.se/wp-content/uploads/sites/2/2021/07/Skeppsholmen.png](https://vadhanderistockholm.se/wp-content/uploads/sites/2/2021/07/Skeppsholmen.png)
+    <img src="https://user-images.githubusercontent.com/37120889/196001649-b6794868-cfab-4136-b797-d9b28c876d10.png" alt="" width="400" />
     
-- **Långholmen** 🆓
-    It is a smaller island with nice area and green places. There used to be a prison here which is a museum and a hotel nowadays.
+- [ ] **Långholmen** 🆓
+
+    It is an island with nice area and green places. There used to be a prison here which is a museum and a hotel nowadays.
     
-    ![https://trippa.se/sites/default/files/styles/iphone_trip/public/stockholm-langholmen-strandbadet-2100-1400-44_0.jpg?itok=0JFVH8lX](https://trippa.se/sites/default/files/styles/iphone_trip/public/stockholm-langholmen-strandbadet-2100-1400-44_0.jpg?itok=0JFVH8lX)
+    <img src="https://user-images.githubusercontent.com/37120889/196001694-0586f62c-a1db-489a-823c-7c8dab15cd66.jpg" alt="" width="400" />
     
-- **Svampen** 🆓
+- [ ] **Svampen** 🆓
+
     A popular meeting place in Stockholm. This is the area where Avicii grew up. Svampen means mushroom.
     
-    ![https://preview.redd.it/c0bonjzkujq61.jpg?auto=webp&s=243f4d46131b23f24e042eb353b7ff5d50fd746b](https://preview.redd.it/c0bonjzkujq61.jpg?auto=webp&s=243f4d46131b23f24e042eb353b7ff5d50fd746b)
+    <img src="https://user-images.githubusercontent.com/37120889/196001724-f2e18358-5b2c-4fe6-be37-ded56ae6a018.jpg" alt="" width="400" />
     
-
 ### Activities
 
-- **Spotify HQ visit** 🆓
-    I can show you around the HQ, where we can also play games, have karaoke, and enjoy the view of Stockholm.
+- [ ] **Spotify HQ visit** 🆓
+
+    The HQ is in Stockholm. A Spotify employee can have visitors if the office. There are games (pool, table tennis, shuffleboard, darts), a karaoke and a gaming room. The view of Stockholm is really nice from there.
     
-    ![https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/DSC_0470.jpg](https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/DSC_0470.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196001905-9cfb10d0-0bcb-4448-899a-c8fbb553de33.jpg" alt="" width="400" />
     
-- **Gröna Lund** around 500 SEK (prices vary)
+- [ ] **Gröna Lund** around 500 SEK (prices vary)
+
     An amazing amusement park. They offer half day tickets (Ticket to Ride), almost every ride is for free. The ticket is expensive, but personally I liked this place very much. They have a night option too (Night Rider) for even higher prices. They have seasonal events as well, like Oktoberfest or Halloween. [Link](https://www.google.com/search?q=gr%C3%B6na+lund)
     
-    ![https://images.ctfassets.net/ds6dz7ilx8up/ZXtEBRQQw4xqpoG1ZRNtx/8eb066ca70a8b4ac2a48244ef90b887a/gronan-vybild-social-media-image-1200x630.jpg](https://images.ctfassets.net/ds6dz7ilx8up/ZXtEBRQQw4xqpoG1ZRNtx/8eb066ca70a8b4ac2a48244ef90b887a/gronan-vybild-social-media-image-1200x630.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002171-7f369916-8012-483a-ba0b-9913d687b6ad.jpg" alt="" width="400" />
     
-- **Vaxholm by ferry** 🆓
+- [ ] **Vaxholmsbolaget (Vaxholm ferry)** 🆓
+
     [Vaxholm](https://www.google.com/search?q=vaxholm+fortress) is a fortress in the archipelago. The fortress itself is not that extraordinary, but the ferry ride and the area is. One can get there by ferry for free with an SL pass during weekdays ([line 83](https://appassets.mvtdev.com/map/155/l/1083/26618759.pdf)). On weekends, a ticket is needed. It is relatively far, takes around 80 minutes to get there, so it is a (half)day trip going there and coming back. I do not necessarily recommend to go to the fortress museum, it costs 100 SEK. It is possible to take a bus to/from Vaxholm too.
     
     There are good restaurants there, like Boulangerie Bistro (Italian/Swedish food), Hamnkrogen (Swedish dishes).
     
-    ![https://www.stromma.com/globalassets/sweden/stockholm/bloggbilder/inlaggesbilder/vaxholms-kastell.jpg](https://www.stromma.com/globalassets/sweden/stockholm/bloggbilder/inlaggesbilder/vaxholms-kastell.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002274-1d5db6da-e5c6-44ac-be63-064f9aeecef8.jpg" alt="" width="400" />
     
-- **Hiking at Tyresta National Park** 🆓
+- [ ] **Tyresta National Park Hiking** 🆓
+
     Stockholm has numerous great hiking venues all around the city. Tyresta is a National Park having many hiking trails starting from 5 km to even 30 km. I hiked on the short trail, it took me around 2 hours. This is definitely a (half)day activity as it takes around 1-1,5 hour to get there by public transport. [Link](https://www.google.com/search?q=gr%C3%B6na+lund)
     
-    ![https://sverigesnationalparker.se/globalassets/tyresta/upplevelser-945x500/tyresta-nationalpark-vandring.jpg](https://sverigesnationalparker.se/globalassets/tyresta/upplevelser-945x500/tyresta-nationalpark-vandring.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002320-a8d463f1-4992-4285-88ee-8a46e31250ce.jpg" alt="" width="400" />
+
+    <img src="https://user-images.githubusercontent.com/37120889/196002345-16ceeb0d-8070-4b99-8545-c9fcdce9cacc.jpg" alt="" width="400" />
     
-- **Drottningholm slott** 💸
-    Versailles of Sweden. As everything is relatively small in Stockholm, don’t expect too much, and it is a bit far from the city center (around 40 minutes). The royal family lives there, but the castle can be visited with a ticket (it costs around 110-200 SEK, depending on the type). The whole castle is on an island, which served as a hunting venue for the royal family. It has a nice green area with lakes and fountains, just as you would expect from a royal family. There are also other buildings nearby, such as the chinese pavilion. [Link](https://www.kungligaslotten.se/english/royal-palaces-and-sites/drottningholm-palace.html)
+- [ ] **Drottningholm slott** 💸
+
+    Versailles of Sweden. As everything is relatively small in Stockholm, don’t expect too much, and it is a bit far from the city center (around 40 minutes). The royal family lives there, but half of the castle can be visited with a ticket (it costs around 110-200 SEK, depending on the type). The whole castle is on an island, which served as a hunting venue for the royal family. It has a nice green area with lakes and fountains (as you would expect from a royal family). There are also other buildings nearby, such as the chinese pavilion. [Link](https://www.kungligaslotten.se/english/royal-palaces-and-sites/drottningholm-palace.html)
     
-    ![https://img.guidebook-sweden.com/ekeroe-kommun/drottningholms-slott.jpg](https://img.guidebook-sweden.com/ekeroe-kommun/drottningholms-slott.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002513-7bbc3796-13e4-44f4-8314-5dc527d5c9b5.jpg" alt="" width="400" />
     
-- **Sigtuna 🆓**
-    A cozy little viking village around 1-1,5 hour from Stockholm by public transport. This was the old capital of Sweden, which lost its influence after Stockholm started to collect tax from passing ships between Sigtuna and the sea. The city does not have much things to show in general. During winter, it has a nice charm, the sunsets are beautiful, and people usually do hiking or ice-skating on the frozen sea. I bought my Tomte here.
+- [ ] **Sigtuna** 🆓
+
+    A cozy little viking village around 1-1,5 hour from Stockholm by public transport (bus). This was the old capital of Sweden, which lost its influence after Stockholm started to collect tax from passing ships between Sigtuna and the sea. The city does not have much things to show in general. During winter, it has a nice charm, the sunsets are beautiful, and people usually do hiking or ice-skating on the frozen sea. I bought my [Tomte](https://sv.wikipedia.org/wiki/Tomte) here.
     
-    ![https://media.sigtunafolkhogskola.se/2019/04/JoB_2017-05-23_09.47.52__D6H0088.jpg](https://media.sigtunafolkhogskola.se/2019/04/JoB_2017-05-23_09.47.52__D6H0088.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002556-c3cf3ebd-f35e-437a-a548-b90400104cd3.jpg" alt="" width="400" />
     
-- **Kayaking** 270 SEK
+- [ ] **Kayaking** 270 SEK
+
     I was there previously, and I loved it. Link to a great place: [LEK MER | Pampas kajak & SUP](https://www.lekmer.nu/tour/hyra-kajak/). Renting out a double kayak is 540 SEK for 2 hours, which is ideal. Going around the whole island of Stadshagen is possible in 2 hours. Being more chill and avoiding waves, one can just go through the tunnel until reaching the Stadshuseet.
     Pampas Marina is a restaurant right next to the kayaking place. They offer all you can eat lunch and great food, but watch out for the seagulls.
     
-    ![https://www.visitstockholm.com/media/images/6d737f06e0814982ae0284fd4e811169.width-1280.jpg](https://www.visitstockholm.com/media/images/6d737f06e0814982ae0284fd4e811169.width-1280.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002638-a0d7c98a-2332-4b13-be97-fa4ee12a049a.jpg" alt="" width="400" />
     
-- **Fox in a Box** around 350 SEK
+- [ ] **Fox in a Box** around 350 SEK
+
     It is an escape room place, and they also have boardgames to play. [Link](https://foxinabox.se/)
     
-    ![https://static.thatsup.co/content/img/place/f/o/fox-in-a-box-cafe-3.jpg](https://static.thatsup.co/content/img/place/f/o/fox-in-a-box-cafe-3.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002652-916173c9-8ffa-4ca0-96dd-015f66647b9a.jpg" alt="" width="400" />
     
-- **Lappis beach** 🆓
+- [ ] **Lappis beach** 🆓
+
     Lappis is a nice student area. It is close to the nature, and has great surroundings to walk. There is a Japanese pond and a botanical garden nearby. It is relatively far from the city center (no light pollution), so chances are to see the aurora. It is more likely in Jan-Feb, but it happened in Aug too (unlikely though). If you wanna hunt the aurora, download [this](https://play.google.com/store/apps/details?id=com.jrustonapps.myauroraforecast) app from the Play Store. When it alerts you that there is a chance, and the sky is clear, go to the beach to see it. You need a KP index higher than 4-5 to see it.
     
-    ![https://360internationalblog.files.wordpress.com/2019/01/lucy_2d.jpg?w=760](https://360internationalblog.files.wordpress.com/2019/01/lucy_2d.jpg?w=760)
+    <img src="https://user-images.githubusercontent.com/37120889/196002676-47ba3124-4f66-4edc-9725-d7d32a4e8b1c.jpg" alt="" width="400" />
 
-- **Djurönäset Konferens & Hotell**
-    A SPA and conference venue with a hotel and restaurant in the woods. It is located in the archipelago (30 minutes from Stockholm by car). I don't know if there is public tansport there. A little bit pricey, but the atmosphere is nice. You can go to the sauna, enjoy the outdoor pool, or dip into the sea. [Link](https://djuronaset.com)
-    
-    ![https://sverigesnationalparker.se/globalassets/tyresta/upplevelser-945x500/tyresta-nationalpark-vandring.jpg](https://sverigesnationalparker.se/globalassets/tyresta/upplevelser-945x500/tyresta-nationalpark-vandring.jpg)
-    
+- [ ] **Djurönäset Konferens & Hotell**
 
+    A SPA and conference venue in the woods with a hotel and a restaurant. It is located in the archipelago (30 minutes from Stockholm by car). I don't know if there is public tansport there. A little bit pricey, but the atmosphere is nice. You can go to the sauna, enjoy the outdoor pool, or dip into the sea. [Link](https://djuronaset.com)
+    
+    <img src="https://user-images.githubusercontent.com/37120889/196002727-e5a576be-1fca-4b1f-8e09-de6fbface7b6.jpg" alt="" width="400" />
+    
 ### Museums and tours
 
-- **Vasamuseet** 190 SEK
+- [ ] **Vasamuseet** 190 SEK
+
     Museum of a monumental, 400 year old wooden ship, I think it is amazing! (but I kinda like ships) [Link](https://www.google.com/search?q=vasamuseet)
     
-    ![https://www.barnistan.se/storage/img/containers/assets/f7866973-7f42-41c0-96e8-767576698c2e/Fo179038dig011_72dpi.jpg/2cd8ccd3c3f5180e7ee807765a1f210c.jpg](https://www.barnistan.se/storage/img/containers/assets/f7866973-7f42-41c0-96e8-767576698c2e/Fo179038dig011_72dpi.jpg/2cd8ccd3c3f5180e7ee807765a1f210c.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002806-27309b0e-26d3-496a-96d1-e6bdd938eafd.jpg" alt="" width="400" />
     
-- **Stadshuseet** 130 SEK
+- [ ] **Stadshuset** 130 SEK
+
     This is the iconic city hall. They have a guided tour every half an hour, and the building is full of easter-eggs. The Nobel banquette and the KTH graduation ceremony is held there each year. [Link](https://www.google.com/search?q=stockholm+city+hall)
     
-    ![https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/2c/f9/14.jpg](https://media.tacdn.com/media/attractions-splice-spp-674x446/0b/2c/f9/14.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002843-c800169f-00a2-4d11-892a-5d35a09456d3.jpg" alt="" width="400" />
     
-- **The Royal Palace** 180 SEK
+- [ ] **The Royal Palace** 180 SEK
+
     I have never been there, but I heard it is nice. Located on a central place at Gamla Stan. [Link](https://www.google.com/search?q=stockholm+royal+palace)
     
-    ![https://i.pinimg.com/originals/5c/7a/7b/5c7a7b136378fe334fc678426a9e492b.jpg](https://i.pinimg.com/originals/5c/7a/7b/5c7a7b136378fe334fc678426a9e492b.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002861-4115c1de-f0db-4ac9-b7f2-6a5194a752ff.jpg" alt="" width="400" />
     
-- **Nordiska museet** 140 SEK
+- [ ] **Nordiska museet** 140 SEK
+
     If you wanna get an insight into the Nordic culture (both Swedish and Sámi), environmental challenges, old fashion, culture, this is a nice place. I liked it. [Link](https://www.google.com/search?q=nordiska+museet)
     
-    ![https://www.nordiskamuseet.se/sites/default/files/public/article/nordiska_07.jpg](https://www.nordiskamuseet.se/sites/default/files/public/article/nordiska_07.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002930-65143b4b-7829-4af7-9470-c3e5f061f7fe.jpg" alt="" width="400" />
     
-- **Nobel Prize Museum** 130 SEK
+- [ ] **Nobel Prize Museum** 130 SEK
+
     Good museum at Stortorget. Bit too much reading, and not that big. [Link](https://www.google.com/search?q=nobel+museum)
     
-    ![https://static.thousandwonders.net/Nobel.Museum.original.36469.jpg](https://static.thousandwonders.net/Nobel.Museum.original.36469.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002953-ce574341-94e0-4306-b080-385ebc7e0e14.jpg" alt="" width="400" />
     
-- **Fotografiska** 210 SEK
+- [ ] **Fotografiska** 210 SEK
+
     It is a photo art related museum. A bit small, but I liked it. [Link](https://www.google.com/search?q=fotografiska)
     
-    ![https://www.lennartnilssonaward.se/wp-content/uploads/2018/06/Fotografiska_museet_Stockholm.jpg](https://www.lennartnilssonaward.se/wp-content/uploads/2018/06/Fotografiska_museet_Stockholm.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002985-f9efc32e-0d41-4959-b09f-944722f5fac4.jpg" alt="" width="400" />
     
-- **Medeltidsmuseet** 🆓
+- [ ] **Medeltidsmuseet** 🆓
+
     Medieval Museum, shows the origins and the story of the Medieval Stockholm. Nice to visit! [Link](https://www.google.com/search?q=medieval+museum+stockholm)
     
-    ![https://a.travel-assets.com/findyours-php/viewfinder/images/res40/344000/344711-Museum-Of-Medieval-Stockholm.jpg](https://a.travel-assets.com/findyours-php/viewfinder/images/res40/344000/344711-Museum-Of-Medieval-Stockholm.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196002995-6064bc7d-502c-4c63-9d25-e27c6f31293d.jpg" alt="" width="400" />
     
-- **Abba museum** 379 SEK
+- [ ] **Abba museum** 379 SEK
+
     Museum of the most popular Swedish band ever. They were active around late 70’s early 80’s. Good museum, many insights, but very expensive. [Link](https://www.google.com/search?q=abba+museum)
     
-    [](https://media.istockphoto.com/photos/the-abba-museum-in-stockholm-picture-id619628364?s=612x612)[https://media.istockphoto.com/photos/the-abba-museum-in-stockholm-picture-id619628364?s=612x612](https://media.istockphoto.com/photos/the-abba-museum-in-stockholm-picture-id619628364?s=612x612)
+    <img src="https://user-images.githubusercontent.com/37120889/196003051-d5ea885e-aa13-4471-b53c-7f2a17451581.jpg" alt="" width="400" />
     
-- **Skansen** 220 SEK
+- [ ] **Skansen** 220 SEK
+
     Open air museum. Old buildings, nice area, animals, and a nice view. We cannot enter the very old buildings though. [Link](https://www.google.com/search?q=skansen+stockholm)
     
-    ![https://media-cdn.tripadvisor.com/media/photo-s/0b/8b/c2/95/skansen-museum.jpg](https://media-cdn.tripadvisor.com/media/photo-s/0b/8b/c2/95/skansen-museum.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196003066-0bcb0003-b8a5-420b-aad3-a7f8001405fb.jpg" alt="" width="400" />
     
-- **Tekniska museet** 150 SEK
+- [ ] **Tekniska museet** 150 SEK
+
     This is the technology museum, with many temporal exhibitions, including a Mars one. I liked it, especially because of the children section, and the software section. It is a bit far from the city center. [Link](https://www.google.com/search?q=tekniska+museet)
     
-    ![https://www.barnistan.se/storage/img/containers/assets/d78ee873-bd7f-4fc3-ba14-764a28261cf2/MegaMind-Anna-Gerden.jpg/b37bf3e42619dda111cc3c2adee445e3.jpg](https://www.barnistan.se/storage/img/containers/assets/d78ee873-bd7f-4fc3-ba14-764a28261cf2/MegaMind-Anna-Gerden.jpg/b37bf3e42619dda111cc3c2adee445e3.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196003095-09a2e55e-d5f8-4bf6-9cd7-fcb412a495f2.png" alt="" width="400" />
     
-- **Naturhistoriska Riksmuseet** 🆓
-    This museum is close to Lappis. I have never been there, it is more of geology and natural history related. [Link](https://www.google.com/search?q=naturhistoriska+riksmuseet)
+- [ ] **Naturhistoriska Riksmuseet** 🆓
+
+    I have never been there, it is more of geology and natural history related museum. [Link](https://www.google.com/search?q=naturhistoriska+riksmuseet)
     
-    [](https://www.svtstatic.se/image/wide/480/1603935/1384441461?format=auto)[https://www.svtstatic.se/image/wide/480/1603935/1384441461?format=auto](https://www.svtstatic.se/image/wide/480/1603935/1384441461?format=auto)
+    <img src="https://user-images.githubusercontent.com/37120889/196003128-cc091f06-91d4-4ebb-bc7a-4e349eed45d6.jpg" alt="" width="400" />
     
-- **Moderna museet** 🆓 with 💸 parts
+- [ ] **Moderna museet** 🆓 with 💸 parts
+
     I have been there and I did not like that much, but my friends enjoyed this. It has modern art-related exhibitions. There are a few extra exhibitions inside for what you need to pay extra fee. [Link](https://www.google.com/search?q=moderna+museet)
     
-    ![https://www.schirn.de/fileadmin/_processed_/csm_SCHIRN-GG_DSC1491_3c736ae269.jpg](https://www.schirn.de/fileadmin/_processed_/csm_SCHIRN-GG_DSC1491_3c736ae269.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196003154-204177af-73e4-4366-b805-a084a4233c32.jpg" alt="" width="400" />
     
-- **Paradox Museum** 195 SEK
+- [ ] **Paradox Museum** 195 SEK
+
     I have never been here, but it opened recently, and I saw a few friends going there. [Link](https://www.paradoxmuseumstockholm.com/)
     
-    ![https://www.visitstockholm.com/media/original_images/AMES_ROOM.jpg](https://www.visitstockholm.com/media/original_images/AMES_ROOM.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196003175-d577a285-45a6-42ce-ba96-dff96b62fed0.jpg" alt="" width="400" />
 
 
 ## Cuisine
 
 ### Soups
 
-- **Ärtsoppa**
-    Yellow Pea soup.
+- [ ] **Ärtsoppa**
 
+    Yellow Pea soup.
 
 ### Main dishes
 
-- **Köttbullar**
+- [ ] **Köttbullar**
+
     Cheap one in IKEA. Usually eaten with potato, cream sauce and lingonberry jam.
 
-- **Flygande Jacob**
-    A weird dish from the 1970s based on chicken with cream, chili sauce, bananas, peanuts and bacon. I only tried the pizza version, and did not like it, but it is so exotic I had to add to the list.
+    <img src="https://user-images.githubusercontent.com/37120889/196003246-ea7d0375-7b6b-4018-bf96-7364957b8351.jpg" alt="" width="400" />
 
+- [ ] **Flygande Jacob**
+
+    A special dish from the 1970s based on chicken with cream, chili sauce, bananas, peanuts and bacon. I only tried the pizza version, and did not like it, but it is so exotic I had to add to the list.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003262-2f3ef198-b88a-44fb-84a8-7cf0d55ac1b6.jpg" alt="" width="400" />
 
 ### Desserts
 
-- **Kanelbulle**
+- [ ] **Kanelbullar**
 
-- **Prinsesstårta**
+    Very popular, cinamon roll.
 
-- **Kladdkaka**
+    <img src="https://user-images.githubusercontent.com/37120889/196003307-9a8eacfa-88bf-417a-9f7c-472c5443a963.jpg" alt="" width="400" />
 
-- **Punschrulle**
+- [ ] **Toscabullar**
 
-- **Budapestbakelse**
+    Like the cinamon roll, but flavored with almonds and cardamom.
 
-- **Omlette Norvégiene**
+    <img src="https://user-images.githubusercontent.com/37120889/196003351-38fe931a-ed16-4d27-91db-ee3c60a721b5.jpg" alt="" width="400" />
 
-- **Pannkakor**
+- [ ] **Prinsesstårta**
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003423-08a371ab-26e1-4da7-8d8e-5872bfad0ef1.jpg" alt="" width="400" />
+
+- [ ] **Kladdkaka**
+
+    Very good.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003436-7705fe0e-ac6a-4e08-9746-6a5487ff877a.jpg" alt="" width="400" />
+
+- [ ] **Punschrulle**
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003450-0376392f-d529-49e6-a272-3e7051d223ce.jpg" alt="" width="400" />
+
+- [ ] **Budapestbakelse**
+
+    I think it has nothing to do with Budapest/Hungary, but tasty.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003461-0b936173-4816-46b7-bce5-3f5d3ccd65df.jpg" alt="" width="400" />
+
+- [ ] **Omelette Norvégienne**
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003503-18980f6a-a047-434b-a2f7-7a69b33e9b14.jpg" alt="" width="400" />
+
+- [ ] **Pannkakor**
+    
     Pancake the Swedish way.
 
-- **Ostkaka**
+    <img src="https://user-images.githubusercontent.com/37120889/196003530-6ca895fe-7b0a-4e34-baf3-8f3ed2c81947.jpg" alt="" width="400" />
+
+- [ ] **Ostkaka**
+    
     Swedish cheese cake.
 
+    <img src="https://user-images.githubusercontent.com/37120889/196003542-89566ca2-4d9e-469f-ac06-3f510edc9451.jpg" alt="" width="400" />
 
 ### Pastries
 
-- **Saffron bun**
+- [ ] **Saffron bun**
 
+    <img src="https://user-images.githubusercontent.com/37120889/196003554-70551162-67b0-4c1c-8153-8ed96a128b9a.jpg" alt="" width="400" />
 
 ### Drinks
 
-- **Julmust and påskmust**
+- [ ] **Julmust and påskmust**
+
     Swedish coke served during Christmas and Easter.
 
-- **Trocadero**
+    <img src="https://user-images.githubusercontent.com/37120889/196003583-26467411-7b2e-43a5-b45e-a64cc3a56a4a.jpg" alt="" width="400" />
+
+- [ ] **Trocadero**
+
     Apple based sugary dink.
 
-- **Glögg**
+    <img src="https://user-images.githubusercontent.com/37120889/196003597-1f1bae98-0f09-4d15-a3e5-53dce5771f9b.jpg" alt="" width="400" />
+
+- [ ] **Glögg**
+
     Swedish Mulled Wine.
 
+    <img src="https://user-images.githubusercontent.com/37120889/196003607-6cf32822-58bd-4b82-9714-2bace7371764.jpg" alt="" width="400" />
 
 ### Other
 
-- **Saltlakrits**
+- [ ] **Saltlakrits**
 
-- **Daim**
+    <img src="https://user-images.githubusercontent.com/37120889/196003617-0e90d7cb-b3c2-4529-a80d-d5836f81e429.jpg" alt="" width="400" />
+
+- [ ] **Daim**
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003635-761eadff-d218-43d3-a79e-1365ca3c6225.jpg" alt="" width="400" />
 
 
 ## Restaurants🍴
 
-- **IKEA Gallerian** 💸
+- [ ] **IKEA Gallerian** 💸
+
     There is a small IKEA at T-Centralen (city center), where you can find very cheap lunch. Their offer is very limited, they serve the most basic IKEA food.
 
-- **Pizzeria Buona Sera** 💸
-    Italian pizzeria with low prices and huge pizzas.
-    
-- **Professorn** 💸
-    Italian restaurant. Quite standard, they have chocolate pizza. Very close where I live.
-    
-- **Vapiano** (multiple places) 💸
-    Fake italian restaurant, but great food.
-    
-- **Taco Bar** (multiple places) 💸
-    Mexican fastfood franchise. Don’t tell mexicans that I recommended this place, but it is good compared to the prices.
-    
-- **Max** (multiple places) 💸
-    McDonald’s? Burger King? Forget it. When in Sweden, go to a Max to grab some burgers instead! Some say they are better than those other brands. You need to decide.
-    
-- **Vigårda Vasagatan** 💸💸
-    A nice burger place near the central station.
-    
-- **La Neta** (multiple places) 💸💸
-    Very good mexican food.
-    
-- **Meno Male** (multiple places) 💸💸
-    The best pizza in Stockholm, and probably in Sweden.
-    
-- **Meatball for People** 💸💸💸
-    Great meatballs! The place is usually crowded.
-    
-- **Aifur** 💸💸💸💸
-    A viking restaurant. There is singing, traditional outfit, etc. I felt it a bit too much, and as a tourist trap. Overall good place, but very expensive.
+- [ ] **Pizzeria Buona Sera** 💸
 
-- **Brasserie Balzac** 💸💸💸
+    Italian pizzeria with low prices and huge pizzas.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003676-38d78966-26f9-42f8-ab2f-0f422b73f855.jpg" alt="" width="400" />
+    
+- [ ] **Professorn** 💸
+
+    Italian restaurant. Quite standard, they have chocolate pizza. Every Friday, they have a karaoke night.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003696-734da10e-98d1-4f4f-b021-41292a5c4a86.jpg" alt="" width="400" />
+    
+- [ ] **Vapiano** (multiple places) 💸
+
+    Fake italian restaurant, cheaper-end, okay food.
+
+    <img src="" alt="" width="400" />
+    
+- [ ] **Taco Bar** (multiple places) 💸
+
+    Mexican fast food franchise. Don’t tell mexicans that I recommended this place, but it is good compared to the price. The places at Sergels and Gamla Stan are great.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003717-13abbbbb-e6b9-4af2-8f19-9a13697e2736.jpg" alt="" width="400" />
+    
+- [ ] **Max** (multiple places) 💸
+
+    McDonald’s? Burger King? Forget it. When in Sweden, go to a Max to grab some burgers instead! Some say they are better than those other brands. You need to decide.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003762-9b10006d-e68b-400d-83d4-4e2f8a281d4d.jpg" alt="" width="400" />
+    
+- [ ] **Vigårda Vasagatan** 💸💸
+
+    A nice burger place near the central station.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003786-8ed49764-e435-49fa-ba67-6722628aca23.jpg" alt="" width="400" />
+    
+- [ ] **La Neta City** (multiple places) 💸💸
+
+    Very good mexican food.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003859-8652fab1-d5c4-49ac-982b-139caf8efe35.jpg" alt="" width="400" />
+
+- [ ] **La Neta Bar** (multiple places) 💸💸
+
+    Very good mexican food.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003852-a3944e5e-b649-4fc4-b518-a22a0bbc8ff3.jpg" alt="" width="400" />
+
+- [ ] **La Neta Söder** (multiple places) 💸💸
+
+    Good mexican food.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003838-4445010b-f6b0-44cf-b6e7-934d55148f1d.jpg" alt="" width="400" />
+    
+- [ ] **Meno Male** (multiple places) 💸💸
+
+    The best pizza in Stockholm, and probably in Sweden.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003875-bfc137b8-9c4f-406b-b6d9-f3fc04c60be7.jpg" alt="" width="400" />
+    
+- [ ] **Meatball for People** 💸💸💸
+
+    Great meatballs! The place is usually crowded.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003888-51bd57bd-ec12-4626-80d0-12a6ddc28feb.jpg" alt="" width="400" />
+    
+- [ ] **Aifur** 💸💸💸💸
+
+    A viking restaurant. There is singing, traditional outfit, etc. I felt it is a bit too much of a show. Overall good place, but very expensive.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003897-d446b074-df3b-4c32-8d97-e93795bbc47b.jpg" alt="" width="400" />
+
+- [ ] **Brasserie Balzac** 💸💸💸
+
     A French-European restaurant. Their kanelbullar is very good.
 
-- **Allegrine** 💸💸💸💸💸
+    <img src="https://user-images.githubusercontent.com/37120889/196003951-cbcee32c-1332-4ac5-b385-4d3e1df3cbd7.jpg" alt="" width="400" />
+
+- [ ] **Restaurang Allegrine** 💸💸💸💸💸
+
     A French restaurant. Fine-dining experience, but very-very expensive. You can spend 2000 SEK per person for a dinner with 8 courses. Their Omlette Norvégiene is amazing, and it is a great experience.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003975-6d90d1c5-a814-4d74-b6f9-729c0634e368.jpg" alt="" width="400" />
 
 
 ## Fika☕
 
-- **Stockholms Standmission Stortorget** 💸💸
+- [ ] **Grillska Huset (Stockholms Standmission Stortorget)** 💸💸
+
     Nice fika place, good location, great Princess cake!
+
+    <img src="https://user-images.githubusercontent.com/37120889/196004004-04551ec8-dd4d-463e-85fd-cbe92d946188.jpg" alt="" width="400" />
     
-- **Vete Katten Kungsgatan** 💸💸
+- [ ] **Vete Katten Kungsgatan** 💸💸
+
     It is a fancy fika restaurant in a beautiful building. Their Princess cake or Budapest pastry is good.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196004010-7c7c855e-35a3-409d-ba46-8c31c1e90aa3.jpg" alt="" width="400" />
     
-- **Espresso House** 💸💸
-    This is a Swedish branch, similar to Frei Coffee. They have great sweets.
+- [ ] **Espresso House** (multiple places) 💸💸
+
+    This is a Swedish branch, similar to Frei Coffee. They have great sweets. The ones at Sergels and Gamla Stan are my favourites.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196004064-8f7959b5-1b79-4dc5-99b8-031ae43af7e0.jpg" alt="" width="400" />
 
 
 ## Bars and nightlife🕺💃
 
-- **Trädgården** 💸💸
+- [ ] **Trädgården** 💸💸
+
     It is a very popular outdoor club located under the Skanstull bridge in Södermalm. Festival feel. Here, you can dance, watch live performances and play table tennis or pétanque. Arrive early to avoid long lines. Open during the summer season only. [Link](https://www.tradgarden.com/)
     
-    ![https://www.visitstockholm.com/media/original_images/f98e12e4a29348b59025af84274a2960.jpg](https://www.visitstockholm.com/media/original_images/f98e12e4a29348b59025af84274a2960.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196004076-7c69745f-2914-4523-8b81-2b1bdbc4d8b8.jpg" alt="" width="400" />
     
-- **Stampen** 💸💸
+- [ ] **Stampen** 💸💸
+
     Nightly live jazz & blues acts in an intimate, antique-filled tavern with a 17th-century cellar bar. I have never been there, but my friends told me it is great! [Link](https://www.stampen.se/)
     
-    ![https://www.routesnorth.com/wp-content/uploads/2014/10/stampen-jazz-bar-stockholm.jpg](https://www.routesnorth.com/wp-content/uploads/2014/10/stampen-jazz-bar-stockholm.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196004094-766a40d5-077b-4325-be6a-ba590ab30f7c.jpg" alt="" width="400" />
     
-- **Grönan Live** 💸
+- [ ] **Grönan Live** 💸
+
     During the summer, there are concerts at Gröna Lund at the evenings. [Link](https://www.gronalund.com/en/concerts)
     
-    ![https://static.thatsup.co/content/img/article/21/jun/grona-lund-konserter-2022-har-ar-alla-artister-som-spelar.jpg](https://static.thatsup.co/content/img/article/21/jun/grona-lund-konserter-2022-har-ar-alla-artister-som-spelar.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196004106-9931747b-c03c-44c9-83fb-eaf5c04d49dc.jpg" alt="" width="400" />
     
-- **ICEBAR** 💸💸
+- [ ] **ICEBAR** 💸💸
+
     Offbeat, compact hideaway offering drinks & food, plus an interior, bars & glasses carved from ice. Never been there, but on my bucket list, as a friend told me it is great. [Link](https://hotelcstockholm.se/icebar-stockholm-by-icehotel/)
     
-    ![https://www.nordicchoicehotels.com/globalassets/global/hotel-pictures/nordic-hotels-and-resorts/hotel-c-stockholm/food-and-beverage/nordic_sea_re_icebar_08.jpg?t=SmartScale|1024x570](https://www.nordicchoicehotels.com/globalassets/global/hotel-pictures/nordic-hotels-and-resorts/hotel-c-stockholm/food-and-beverage/nordic_sea_re_icebar_08.jpg?t=SmartScale%7C1024x570)
+    <img src="https://user-images.githubusercontent.com/37120889/196004116-760927eb-9167-4811-8f91-0e3cb171191e.jpg" alt="" width="400" />
     
-- **Professorn** 💸
-    This italian restaurant turns into a bar at night, and they have karaoke each Friday from 9 PM. Many students go there. [Link](http://restaurangprofessorn.se/)
+- [ ] **Professorn** 💸
+
+    This restaurant turns into a bar at night, and they have karaoke each Friday from 9 PM. Many students go there. [Link](http://restaurangprofessorn.se/)
     
-    ![https://images.squarespace-cdn.com/content/v1/5650d438e4b0c307d58e81cd/1475766264655-0K3R2L8WNX3C11K12F75/CIMG1623.JPG?format=1500w](https://images.squarespace-cdn.com/content/v1/5650d438e4b0c307d58e81cd/1475766264655-0K3R2L8WNX3C11K12F75/CIMG1623.JPG?format=1500w)
-    
-- **The Secret Garden** 💸💸
+    <img src="" alt="" width="400" />
+
+- [ ] **The Secret Garden** 💸💸
+
     Upbeat gay bar with a lounge & outdoor seating, serving global mains & nibbles, plus veggie options. I have been there with some friends, it was a good experience. [Link](http://www.secretgardensthlm.se/)
     
-    ![https://cdn.hemsidadirekt.se/sgarden/andringar/girlinthebar.jpg](https://cdn.hemsidadirekt.se/sgarden/andringar/girlinthebar.jpg)
+    <img src="https://user-images.githubusercontent.com/37120889/196004156-2d97f1ae-6450-4606-9354-81e5de31ef8f.jpg" alt="" width="400" />
     
-- **Berns** 💸💸💸
+- [ ] **Berns** 💸💸💸
+
     Berns is a unique, well-preserved 1860 building located in the center of the city. It also serves as a hotel and concert venue, with a range of international artists performing year-round. I have never been there, but looks cool from outside (and expensive). [Link](https://berns.se/)
+
+    <img src="https://user-images.githubusercontent.com/37120889/196004165-f5e9a0ad-1f23-4a19-9d06-d7ece0aa286d.jpg" alt="" width="400" />
