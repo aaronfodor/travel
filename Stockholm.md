@@ -88,7 +88,7 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
     
 - [ ] **Kungliga Tekniska Högskolan (KTH Royal Institute of Technology)** 🆓
 
-    This is the Technical University where I studied. I recommend to visit the main campus, the garden in front of it, and the library. The libary is open during weekdays usually, but check the opening hours (https://www.kth.se/en/biblioteket).
+    This is the Technical University where I studied. I recommend to visit the main campus, the garden in front of it, and the library. The libary is open during weekdays usually, but check the [opening hours](https://www.kth.se/en/biblioteket).
     
     <img src="https://user-images.githubusercontent.com/37120889/196001504-82d8f707-5b8a-4a44-ae9f-97f15f1b7cbb.jpg" alt="The main campus" width="400" />
 
@@ -111,6 +111,12 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
     A popular meeting place in Stockholm. This is the area where Avicii grew up. Svampen means mushroom.
     
     <img src="https://user-images.githubusercontent.com/37120889/196001724-f2e18358-5b2c-4fe6-be37-ded56ae6a018.jpg" alt="" width="400" />
+
+- [ ] **Lappis** 🆓
+
+    Lappis is a nice student area. It is close to the nature, and has great surroundings to walk. There is a Japanese pond and a botanical garden nearby. 
+    
+    <img src="https://user-images.githubusercontent.com/37120889/196002676-47ba3124-4f66-4edc-9725-d7d32a4e8b1c.jpg" alt="" width="400" />
     
 ### Activities
 
@@ -134,7 +140,7 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
     
     <img src="https://user-images.githubusercontent.com/37120889/196002274-1d5db6da-e5c6-44ac-be63-064f9aeecef8.jpg" alt="" width="400" />
     
-- [ ] **Tyresta National Park Hiking** 🆓
+- [ ] **Hiking in Tyresta National Park** 🆓
 
     Stockholm has numerous great hiking venues all around the city. Tyresta is a National Park having many hiking trails starting from 5 km to even 30 km. I hiked on the short trail, it took me around 2 hours. This is definitely a (half)day activity as it takes around 1-1,5 hour to get there by public transport. [Link](https://www.google.com/search?q=gr%C3%B6na+lund)
     
@@ -148,36 +154,37 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
     
     <img src="https://user-images.githubusercontent.com/37120889/196002513-7bbc3796-13e4-44f4-8314-5dc527d5c9b5.jpg" alt="" width="400" />
     
+- [ ] **Kayaking** 270 SEK
+
+    Link to a great place: [LEK MER | Pampas kajak & SUP](https://www.lekmer.nu/tour/hyra-kajak/). Renting out a double kayak is 540 SEK for 2 hours, which is okay. Going around the whole island of Stadshagen is possible in 2 hours. Being more chill and avoiding waves, one can just go through the tunnel until reaching the Stadshuseet. Pampas Marina is a restaurant right next to the kayaking place. They offer all you can eat lunch and great food, but watch out for the seagulls.
+
+    There is an option to collect trash and paddle for free in exchange, for example [here](https://www.smartakartan.se/en/stockholm/green-kayak/).
+    
+    <img src="https://user-images.githubusercontent.com/37120889/196002638-a0d7c98a-2332-4b13-be97-fa4ee12a049a.jpg" alt="" width="400" />
+
 - [ ] **Sigtuna** 🆓
 
     A cozy little viking village around 1-1,5 hour from Stockholm by public transport (bus). This was the old capital of Sweden, which lost its influence after Stockholm started to collect tax from passing ships between Sigtuna and the sea. The city does not have much things to show in general. During winter, it has a nice charm, the sunsets are beautiful, and people usually do hiking or ice-skating on the frozen sea. I bought my [Tomte](https://sv.wikipedia.org/wiki/Tomte) here.
     
     <img src="https://user-images.githubusercontent.com/37120889/196002556-c3cf3ebd-f35e-437a-a548-b90400104cd3.jpg" alt="" width="400" />
     
-- [ ] **Kayaking** 270 SEK
-
-    I was there previously, and I loved it. Link to a great place: [LEK MER | Pampas kajak & SUP](https://www.lekmer.nu/tour/hyra-kajak/). Renting out a double kayak is 540 SEK for 2 hours, which is ideal. Going around the whole island of Stadshagen is possible in 2 hours. Being more chill and avoiding waves, one can just go through the tunnel until reaching the Stadshuseet.
-    Pampas Marina is a restaurant right next to the kayaking place. They offer all you can eat lunch and great food, but watch out for the seagulls.
-    
-    <img src="https://user-images.githubusercontent.com/37120889/196002638-a0d7c98a-2332-4b13-be97-fa4ee12a049a.jpg" alt="" width="400" />
-    
 - [ ] **Fox in a Box** around 350 SEK
 
     It is an escape room place, and they also have boardgames to play. [Link](https://foxinabox.se/)
     
     <img src="https://user-images.githubusercontent.com/37120889/196002652-916173c9-8ffa-4ca0-96dd-015f66647b9a.jpg" alt="" width="400" />
-    
-- [ ] **Lappis beach** 🆓
-
-    Lappis is a nice student area. It is close to the nature, and has great surroundings to walk. There is a Japanese pond and a botanical garden nearby. It is relatively far from the city center (no light pollution), so chances are to see the aurora. It is more likely in Jan-Feb, but it happened in Aug too (unlikely though). If you wanna hunt the aurora, download [this](https://play.google.com/store/apps/details?id=com.jrustonapps.myauroraforecast) app from the Play Store. When it alerts you that there is a chance, and the sky is clear, go to the beach to see it. You need a KP index higher than 4-5 to see it.
-    
-    <img src="https://user-images.githubusercontent.com/37120889/196002676-47ba3124-4f66-4edc-9725-d7d32a4e8b1c.jpg" alt="" width="400" />
 
 - [ ] **Djurönäset Konferens & Hotell**
 
     A SPA and conference venue in the woods with a hotel and a restaurant. It is located in the archipelago (30 minutes from Stockholm by car). I don't know if there is public tansport there. A little bit pricey, but the atmosphere is nice. You can go to the sauna, enjoy the outdoor pool, or dip into the sea. [Link](https://djuronaset.com)
     
     <img src="https://user-images.githubusercontent.com/37120889/196002727-e5a576be-1fca-4b1f-8e09-de6fbface7b6.jpg" alt="" width="400" />
+
+- [ ] **Auora hunting** 🆓
+
+    Aurora is Stockholm? It can happen, although it is unlikely. The chances are the best between November and February but it happened in Aug too (unlikely). If you really want to see them, go to the north (Abisko or Björkliden). You need a place far from the city center (no light pollution) to see it. If you wanna hunt the aurora, download [this](https://play.google.com/store/apps/details?id=com.jrustonapps.myauroraforecast) app from the Play Store. When it alerts you that there is a chance, and the sky is clear, go to Lappis beach or Nacka to see it. You need a KP index higher than 4-5 to have a good chance.
+    
+    <img src="https://user-images.githubusercontent.com/37120889/196819471-a679dfa5-5436-4791-b3f7-6593274665d5.jpg" alt="" width="400" />
     
 ### Museums and tours
 
@@ -266,7 +273,7 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
 
 - [ ] **Ärtsoppa**
 
-    Yellow Pea soup.
+    Yellow Pea soup. It is good.
 
 ### Main dishes
 
@@ -363,6 +370,10 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
 - [ ] **Saltlakrits**
 
     <img src="https://user-images.githubusercontent.com/37120889/196003617-0e90d7cb-b3c2-4529-a80d-d5836f81e429.jpg" alt="" width="400" />
+
+- [ ] **Marabou**
+
+    <img src="https://user-images.githubusercontent.com/37120889/196821139-2cbdd620-82e7-4e52-93a8-cd17689ff2eb.jpg" alt="" width="400" />
 
 - [ ] **Daim**
 
@@ -462,6 +473,8 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
 
 ## Fika☕
 
+Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout the day to help them refresh their minds and make the most of the day. Commonly, Fika just translates to “coffee and cake,” but it’s a lot more for most Swedes. Fika is a state of mind, a crucial part of Swedish culture, and a must-have part of any day. Fika isn’t just about stocking up on caffeine. This mini-break focuses more on the importance of making time for friends, family, and colleagues in everyday life. 
+
 - [ ] **Grillska Huset (Stockholms Standmission Stortorget)** 💸💸
 
     Nice fika place, good location, great Princess cake!
@@ -479,6 +492,12 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
     This is a Swedish branch, similar to Frei Coffee. They have great sweets. The ones at Sergels and Gamla Stan are my favourites.
 
     <img src="https://user-images.githubusercontent.com/37120889/196004064-8f7959b5-1b79-4dc5-99b8-031ae43af7e0.jpg" alt="" width="400" />
+
+- [ ] **Java Whiskers** 💸💸
+
+    Cat Café in Stockholm.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196817795-dc93210b-ee93-418f-9e48-8f0ef7f04355.jpg" alt="" width="400" />
 
 
 ## Bars and nightlife🕺💃
@@ -524,3 +543,20 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
     Berns is a unique, well-preserved 1860 building located in the center of the city. It also serves as a hotel and concert venue, with a range of international artists performing year-round. I have never been there, but looks cool from outside (and expensive). [Link](https://berns.se/)
 
     <img src="https://user-images.githubusercontent.com/37120889/196004165-f5e9a0ad-1f23-4a19-9d06-d7ece0aa286d.jpg" alt="" width="400" />
+
+
+## Souvenir🎁
+
+- [ ] **Tomte, Jultomte**
+
+    The Swedish tomte or gnome lives in Sweden, the legend says. They live in and around the houses and sheds on farms and remote houses according to the gnome folklore. If you are wise you will show them “due respect”. If you want to make them you a friend, offe them porridge. If you respect them, they will protect your household from accidents and disasters. Warning: they might play tricks on you if you annoy them. 
+    
+    You can find great ones at Gamla Stan around Christmas. You can also find some in the Viking village Sigtuna around Christmas. A traditional Swedish tomte is grey or brown. The red ones are more common in Norway.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196819971-2be9a0b9-147f-477a-ac87-2c82c5cf4371.jpg" width="400" />
+
+- [ ] **Dala horse**
+
+    A Dala horse is a traditional carved, painted wooden statue of a horse originating in the Swedish province of Dalarna. It is a symbol of Dalarna and Sweden in general. You can find great ones at Gamla Stan.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196820680-27a29553-712b-4ee8-a754-9eeb6c5f965a.jpg" width="400" />
