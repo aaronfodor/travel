@@ -19,4 +19,4 @@ I use the local prices as the reference point for each location.
 - 💸💸: normal
 - 💸💸💸: expensive
 - 💸💸💸💸: very expensive
-- 💸💸💸💸💸: Oh my god...
+- 💸💸💸💸💸: 🫣
