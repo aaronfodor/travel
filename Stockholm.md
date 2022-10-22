@@ -2,6 +2,8 @@
 
 Last updated: 15/10/2022
 
+## [Map Link]("https://www.google.com/maps/d/embed?mid=1t0eUgRGVS-4g6m0dJgfpUyn4jzGe_Oo&ehbc=2E312F")🗺️
+
 ## Prices📈
 
 Sweden is a bit expensive. In general, it is twice as costly as Hungary. Services involving people tend to be even more expensive. Some cheaper grocery stores have similar prices to Hungary.
@@ -44,11 +46,11 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
 
 - [ ] **Gamla Stan (with Stortorget and Mårten Trotzigs Gränd)** 🆓
 
-    The old city with historical and medieval streets, souvenir shops, fika places, and with the tightest street in Stockholm.
+    The old city with historical and medieval streets, souvenir shops, fika places, and with the tightest street in Stockholm (Mårten Trotzigs Gränd). On the main square (Stortorget), you can find one of the the most iconic photo spots in Stockholm. The square hosts a nice Christmas market in winter.
     
     <img src="https://user-images.githubusercontent.com/37120889/196000575-33ab72a6-d38c-4aed-8680-c9a9f8bf136a.jpg" alt="Stortorget" width="400" />
     
-    <img src="https://user-images.githubusercontent.com/37120889/196002140-f5de2e18-3797-4863-818a-672053b462e5.jpg" alt="Mårten Trotzigs Gränd" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/196002140-f5de2e18-3797-4863-818a-672053b462e5.jpg" alt="Mårten Trotzigs Gränd" height="400" />
     
 - [ ] **Kungsträdgården** 🆓
 
@@ -132,7 +134,7 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
     
     <img src="https://user-images.githubusercontent.com/37120889/196002171-7f369916-8012-483a-ba0b-9913d687b6ad.jpg" alt="" width="400" />
     
-- [ ] **Vaxholmsbolaget (Vaxholm ferry)** 🆓
+- [ ] **Waxholmsbolaget (Vaxholm ferry)** 🆓
 
     [Vaxholm](https://www.google.com/search?q=vaxholm+fortress) is a fortress in the archipelago. The fortress itself is not that extraordinary, but the ferry ride and the area is. One can get there by ferry for free with an SL pass during weekdays ([line 83](https://appassets.mvtdev.com/map/155/l/1083/26618759.pdf)). On weekends, a ticket is needed. It is relatively far, takes around 80 minutes to get there, so it is a (half)day trip going there and coming back. I do not necessarily recommend to go to the fortress museum, it costs 100 SEK. It is possible to take a bus to/from Vaxholm too.
     
@@ -147,6 +149,16 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
     <img src="https://user-images.githubusercontent.com/37120889/196002320-a8d463f1-4992-4285-88ee-8a46e31250ce.jpg" alt="" width="400" />
 
     <img src="https://user-images.githubusercontent.com/37120889/196002345-16ceeb0d-8070-4b99-8545-c9fcdce9cacc.jpg" alt="" width="400" />
+
+- [ ] **Hiking in Lidingö (Långängen-Elfviks naturreservat, Bäverhyddan)** 🆓
+
+    Stockholm has numerous great hiking venues all around the city. Lidingö is an island on the North-East with beautiful nature and hiking trails. There is a good fika place in the forest called Långängens Gård.
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197342901-7b8db9cf-9ef6-4573-a7f9-fe7fb63aa697.jpg" alt="" width="400" />
+
+    <img src="https://user-images.githubusercontent.com/37120889/197342920-c47f4c0b-0803-42d2-84b8-8aecc6fd0a71.jpg" alt="" width="400" />
+
+    <img src="https://user-images.githubusercontent.com/37120889/197342969-8321c730-5628-41be-bc77-72b595c36b1a.jpg" alt="" width="400" />
     
 - [ ] **Drottningholm slott** 💸
 
@@ -381,28 +393,6 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
 
 
 ## Restaurants🍴
-
-- [ ] **IKEA Gallerian** 💸
-
-    There is a small IKEA at T-Centralen (city center), where you can find very cheap lunch. Their offer is very limited, they serve the most basic IKEA food.
-
-- [ ] **Pizzeria Buona Sera** 💸
-
-    Italian pizzeria with low prices and huge pizzas.
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003676-38d78966-26f9-42f8-ab2f-0f422b73f855.jpg" alt="" width="400" />
-    
-- [ ] **Professorn** 💸
-
-    Italian restaurant. Quite standard, they have chocolate pizza. Every Friday, they have a karaoke night.
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003696-734da10e-98d1-4f4f-b021-41292a5c4a86.jpg" alt="" width="400" />
-    
-- [ ] **Vapiano** (multiple places) 💸
-
-    Fake italian restaurant, cheaper-end, okay food.
-
-    <img src="" alt="" width="400" />
     
 - [ ] **Taco Bar** (multiple places) 💸
 
@@ -440,7 +430,7 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
 
     <img src="https://user-images.githubusercontent.com/37120889/196003838-4445010b-f6b0-44cf-b6e7-934d55148f1d.jpg" alt="" width="400" />
     
-- [ ] **Meno Male** (multiple places) 💸💸
+- [ ] **Meno Male Kungsholmen** 💸💸
 
     The best pizza in Stockholm, and probably in Sweden.
 
@@ -470,8 +460,30 @@ You should buy a ticket with the SL company (like BKV, but in Stockholm). It is 
 
     <img src="https://user-images.githubusercontent.com/37120889/196003975-6d90d1c5-a814-4d74-b6f9-729c0634e368.jpg" alt="" width="400" />
 
+- [ ] **IKEA Gallerian** 💸
 
-## Fika☕
+    There is a small IKEA at T-Centralen (city center), where you can find very cheap lunch. Their offer is very limited, they serve the most basic IKEA food.
+
+- [ ] **Pizzeria Buona Sera** 💸
+
+    Italian pizzeria with low prices and huge pizzas.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003676-38d78966-26f9-42f8-ab2f-0f422b73f855.jpg" alt="" width="400" />
+    
+- [ ] **Professorn** 💸
+
+    Italian restaurant. Quite standard, they have chocolate pizza. Every Friday, they have a karaoke night.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003696-734da10e-98d1-4f4f-b021-41292a5c4a86.jpg" alt="" width="400" />
+    
+- [ ] **Vapiano** (multiple places) 💸
+
+    Fake italian restaurant, cheaper-end, acceptable food.
+
+    <img src="" alt="" width="400" />
+
+
+## Fika and treats☕
 
 Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout the day to help them refresh their minds and make the most of the day. Commonly, Fika just translates to “coffee and cake,” but it’s a lot more for most Swedes. Fika is a state of mind, a crucial part of Swedish culture, and a must-have part of any day. Fika isn’t just about stocking up on caffeine. This mini-break focuses more on the importance of making time for friends, family, and colleagues in everyday life. 
 
@@ -492,6 +504,36 @@ Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout
     This is a Swedish branch, similar to Frei Coffee. They have great sweets. The ones at Sergels and Gamla Stan are my favourites.
 
     <img src="https://user-images.githubusercontent.com/37120889/196004064-8f7959b5-1b79-4dc5-99b8-031ae43af7e0.jpg" alt="" width="400" />
+
+- [ ] **Långängens Gård** 💸💸
+
+    Good fika place in a traditional Swedish wooden house in the forest of Lidingö.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197342654-afc9392e-276d-40de-8783-0f47d7ff5601.jpg" alt="" width="400" />
+
+- [ ] **Caféet i Tyresta By (The Café in Tyresta Village)** 💸💸
+
+    Very cozy fika place in Tyresta.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197343627-c64e3136-59e9-45e4-ae76-4442158e3b73.jpg" alt="" width="400" />
+
+- [ ] **Café Järntorget** 💸💸
+
+    Good waffles (bubble- and Belgian) and ice cream at Gamla Stan.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197342303-4bd27f90-2eb3-4b77-9bbb-2f6b5d0a92d3.jpg" alt="" width="400" />
+
+- [ ] **Bröd & Salt** (multiple places) 💸💸
+
+    Another traditional fika franchise.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197342496-622e16ee-b55b-4823-8078-fc449c0ac1c0.jpg" alt="" width="400" />
+
+- [ ] **Mr. Churros** (multiple places) 💸
+
+    Good churros, there is a place near the city center (Hamngatan 31) and in Gamla Stan.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197342077-b49fa6a7-88a2-4452-a76f-310b65f15043.jpg" alt="" width="400" />
 
 - [ ] **Java Whiskers** 💸💸
 
@@ -538,11 +580,17 @@ Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout
     
     <img src="https://user-images.githubusercontent.com/37120889/196004156-2d97f1ae-6450-4606-9354-81e5de31ef8f.jpg" alt="" width="400" />
     
-- [ ] **Berns** 💸💸💸
+- [ ] **Berns** 💸💸💸💸
 
     Berns is a unique, well-preserved 1860 building located in the center of the city. It also serves as a hotel and concert venue, with a range of international artists performing year-round. I have never been there, but looks cool from outside (and expensive). [Link](https://berns.se/)
 
     <img src="https://user-images.githubusercontent.com/37120889/196004165-f5e9a0ad-1f23-4a19-9d06-d7ece0aa286d.jpg" alt="" width="400" />
+
+- [ ] **Kristall** 💸💸💸
+
+    Latino salsa bar. Quite expensive entry fee, especially for guys. [Link](https://www.facebook.com/kristallstockholm/)
+
+    <img src="https://user-images.githubusercontent.com/37120889/197341354-1bf53028-7b23-4b82-a245-40c87128374b.jpg" alt="" width="400" />
 
 
 ## Souvenir🎁

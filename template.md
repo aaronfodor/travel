@@ -2,9 +2,7 @@
 
 Last updated: 15/10/2022
 
-## Map🗺️
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1EVlXbWgt0aD5v0_a2PqC9d1XYR4Mluw&ehbc=2E312F" width="800" height="600"></iframe>
+## [Map Link]("https://www.google.com/maps/d/embed?mid=1EVlXbWgt0aD5v0_a2PqC9d1XYR4Mluw&ehbc=2E312F")🗺️
 
 ## Prices📈
 
@@ -100,7 +98,7 @@ Description.
 
     <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="placeholder" width="400" />
 
-## Coffee break☕
+## Coffee and treats☕
 
 - [ ] **Something** 💸
 
