@@ -12,11 +12,11 @@ The linked Map in each document is view-only. I recommend you to:
 
 ### Prices
 
-I use the local prices as the reference point for each location.
+I use average local prices as reference points for each location.
 
 - 🆓: free
 - 💸: cheap
 - 💸💸: normal
 - 💸💸💸: expensive
 - 💸💸💸💸: very expensive
-- 💸💸💸💸💸: 🫣
+- 💸💸💸💸💸: costing the earth
