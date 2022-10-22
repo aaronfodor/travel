@@ -2,7 +2,7 @@
 
 Last updated: 15/10/2022
 
-## [Map Link]("https://www.google.com/maps/d/embed?mid=1t0eUgRGVS-4g6m0dJgfpUyn4jzGe_Oo&ehbc=2E312F")🗺️
+[Map Link]("https://www.google.com/maps/d/embed?mid=1t0eUgRGVS-4g6m0dJgfpUyn4jzGe_Oo&ehbc=2E312F")🗺️
 
 ## Prices📈
 
