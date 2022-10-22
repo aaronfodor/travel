@@ -2,6 +2,10 @@
 
 Last updated: 15/10/2022
 
+## Map🗺️
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1EVlXbWgt0aD5v0_a2PqC9d1XYR4Mluw&ehbc=2E312F" width="800" height="600"></iframe>
+
 ## Prices📈
 
 Desciption.
