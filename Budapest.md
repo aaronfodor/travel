@@ -11,7 +11,11 @@
 
 Last updated: 23/10/2022
 
-## [Map Link](https://www.google.com/maps/d/embed?mid=11h2trbapoGKTJSLP9WcK_n-qi2Q5YYg&ehbc=2E312F)🗺️
+## [Travel Map](https://www.google.com/maps/d/embed?mid=11h2trbapoGKTJSLP9WcK_n-qi2Q5YYg&ehbc=2E312F)🗺️
+
+## Weather🌡️
+
+<img src="https://user-images.githubusercontent.com/37120889/197390573-b231b912-a96e-4f1f-b973-24e93960a8bf.PNG" alt="" width="400" />
 
 ## Prices📈
 
@@ -32,9 +36,9 @@ Public transport in Budapest is good. It can be cheap, and the network is great.
 
 Tickets for tourists are a bit tricky. They offer travelcards and the Budapest Card for tourists. Total summary of prices are [here](https://bkk.hu/en/tickets-and-passes/prices/).
 
-- With the [120h Budapest Card](https://bkk.hu/en/tickets-and-passes/prices/travelcards-valid-for-one-or-more-days/budapest-card-for-120-hours.41/) the public transport is free, but it is expensive (18990 HUF for 5 days), and is not worth it in my opinion (I will write about it later).
+- With the [120h Budapest Card](https://bkk.hu/en/tickets-and-passes/prices/travelcards-valid-for-one-or-more-days/budapest-card-for-120-hours.41/) the public transport is free, but it is expensive (18990 HUF for 5 days), and is not worth it in my opinion.
 - The [Seven-day Budapest travelcard](https://bkk.hu/en/tickets-and-passes/prices/travelcards-valid-for-one-or-more-days/budapest-weekly-ticket.35/) is a better option (4950 HUF), which is for a week.
-- The [Monthly Budapest-pass](https://bkk.hu/en/tickets-and-passes/prices/monthly-passes/monthly-budapest-pass.58/) costs 9500 HUF. With that, you can take the BKV ferry ride for free (only free with a monthly pass).
+- The [Monthly Budapest-pass](https://bkk.hu/en/tickets-and-passes/prices/monthly-passes/monthly-budapest-pass.58/) costs 9500 HUF.
 - Students: bring your student Id, and buy a monthly Budapest pass for students for only 3450 HUF. For that, you need a student Id with the requirements stated [here](https://bkk.hu/en/tickets-and-passes/prices/monthly-passes/monthly-budapest-pass-for-students.61/) (your name, school name, validity, etc. must be on the card - a valid Mecenat is fine).
 
 ⚠️ Each summer, there are massive construction works around the city. Tram line 4-6 is usually affected, as well as metro line 3. ⚠️
@@ -68,46 +72,382 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
 ### Walking and sightseeing
 
-- [ ] **Something free** 🆓
+- [ ] **Heroes' Square** 🆓
     
-    Description.
+    Hősök tere, lit. Heroes' Square, is one of the major squares in Budapest, Hungary, noted for its iconic Millennium Monument with statues.
 
-    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197407735-25ed568a-3dae-4b0d-96c8-6094b7091f07.jpg" alt="" width="400" />
 
-- [ ] **Something not free** 💸
+- [ ] **Buda Castle** 🆓
     
-    Desciption.
+    Buda Castle is the historical castle and palace complex of the Hungarian Kings in Budapest. It was first completed in 1265, although the massive Baroque palace today occupying most of the site was built between 1749 and 1769.
 
-    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197408132-dd445592-a52f-43b0-8bff-ae84336afb96.jpg" alt="" width="400" />
+
+- [ ] **Vörösmarty tér (square)** 🆓
+    
+    A huge square with shopping malls. The second largest H&M in the world is here.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197407171-059267b8-155d-4439-a684-bcb5fa687417.jpg" alt="" width="400" />
+
+- [ ] **Váci street** 🆓
+    
+    Váci utca is one of the main pedestrian thoroughfares and perhaps the most famous street of central Budapest, Hungary. It features many restaurants and shops catering primarily to the tourist market.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197407261-94a85b32-cd3f-4d41-bb71-e003f85bcb49.jpg" alt="" width="400" />
+
+- [ ] **Saint Stephen's Square** 🆓
+    
+    Nice area!
+
+    <img src="https://user-images.githubusercontent.com/37120889/197407349-198c58e0-e118-4004-9214-2fd725b3dbe1.jpg" alt="" width="400" />
+
+- [ ] **Vígadó Square** 🆓
+
+    Very close to Vörösmarty Square. Take tram line 2 fom here on the way to Jászai Mari square. 
+
+    <img src="https://user-images.githubusercontent.com/37120889/197407390-4d40c2b5-412c-4b54-835d-d4bc091ffbf3.jpg" alt="" width="400" />
+
+- [ ] **Király street** 🆓
+    
+    A buzzing street during the night.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197407648-3b18f837-a0ce-46d6-95cd-3090b836ded2.jpg" alt="" width="400" />
+
+- [ ] **Margaret Island** 🆓
+
+    In the Danube River, between Buda and Pest, verdant Margaret Island is a tranquil getaway within the city. Pedestrian promenades navigate around parkland, an art nouveau water tower, the ruins of a 13th-century Dominican convent, a musical fountain and a small zoo. Other attractions include jogging tracks, thermal spas and swimming pools. Summertime brings pop-up bars and restaurants, as well as live music.
+
+    A Musical Fountain is also here, has regular shows set to music, plus a light show at night. It operates between May and October.
+
+    There is a mini zoo featuring varied animals such as birds, deer, rabbits & ponies. Open between 10AM-6PM.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197407795-9b310afe-b341-43a3-817b-3ac4461d9609.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197407982-31bb611b-85ba-4245-9d84-32c3efaeb5db.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197408077-3fb8839d-fabe-45d5-9160-27152402082c.jpg" alt="" width="400" />
+
+- [ ] **Halászbástya (Fisherman's Bastion)** 💸💸
+    
+    The Halászbástya or Fisherman's Bastion is one of the best known monuments in Budapest, located near the Buda Castle, in the 1st district of Budapest. It is one of the most important tourist attractions due to the unique panorama of Budapest from the Neo-Romanesque lookout terraces. Do not pay for entrance, the view is nice from the free area.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408449-a48fe76a-0c06-48b0-b481-05c7ea669464.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197408391-00cc8177-59cf-44bc-9af9-ab6b258ac4d8.jpg" alt="" width="400" />
+
+- [ ] **Széchenyi Lánchíd (Chain Bridge)** 🆓
+    
+    The Széchenyi Chain Bridge is a chain bridge that spans the River Danube between Buda and Pest, the western and eastern sides of Budapest. Under construction in 2022.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408478-afe61bae-f2d3-4c56-8815-28ad07e9c27d.jpg" alt="" width="400" />
+
+- [ ] **Margaret Bridge** 🆓
+    
+    Margaret Bridge or Margit híd is a three-way bridge in Budapest, Hungary, connecting Buda and Pest across the Danube and linking Margaret Island to the banks. It has a very nice view to the city.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408609-b3f7b03b-99a1-4dc3-b1c6-bccdd9e85252.jpg" alt="" width="400" />
+
+- [ ] **Liberty Bridge** 🆓
+    
+    Szabadság híd in Budapest, Hungary, connects Buda and Pest across the River Danube. It is the third southernmost public road bridge in Budapest, located at the southern end of the City Centre.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408531-c341161c-6966-480c-8cf1-489d7b71300f.jpg" alt="" width="400" />
+
+- [ ] **Buda Hill Funicular** 💸💸
+    
+    Short and expensive. I would just watch it.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408664-7562f4d5-3490-4057-9238-d6cfcb1e8811.jpg" alt="" width="400" />
+
+- [ ] **Andrássy Avenue** 🆓
+    
+    Andrássy Avenue is a boulevard in Budapest, Hungary, dating back to 1872.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408763-e10fdeb8-a4f8-4268-95da-699a8954288e.jpg" alt="" width="400" />
+
+- [ ] **Kossuth Lajos square** 🆓
+    
+    Its most notable landmark is the Hungarian Parliament Building.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408851-5408fcf5-de60-4426-bb50-319697d74587.jpg" alt="" width="400" />
+
+- [ ] **Dunakorzó (Danube Promenade)** 🆓
+    
+    The Danube Promenade is located on the Pest side of Budapest, Hungary. The promenade itself lies on the left bank of the Danube, extending from the Széchenyi Chain Bridge to the Erzsébet Bridge.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408895-6c53ec4a-e09e-4c88-a3cf-6de49eda1144.jpg" alt="" width="400" />
+
+- [ ] **Shoes on the Danube Bank** 🆓
+    
+    This section of the Danube Embankment features the best known Holocaust memorial in Budapest, 60 pairs of men's, women's and children's shoes made of steel, remembering Hungarian Jews shot into the Danube during WW2.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409069-7e32dddb-c355-4189-9899-97868068f03f.jpg" alt="" width="400" />
+
+- [ ] **Millenáris Park** 🆓
+
+    Millenáris Park is an exhibition space, function venue and park in the 2nd district of Budapest. Nice place for a walk.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409175-14d93a1b-a4ba-4507-9244-2acd408dcf90.jpg" alt="" width="400" />
+
+- [ ] **Szabadság tér (Liberty square)** 🆓
+    
+    Liberty Square is a public square located in the Lipótváros neighborhood of Budapest, Hungary. The square is a mix of business and residential. The United States Embassy in Hungary and the historicist style headquarters of the Hungarian National Bank abut the west side of the square.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409219-62f18d01-cf1e-43f0-a22d-13a4ca0f3b97.jpg" alt="" width="400" />
+
+- [ ] **Interactive Fountain** 🆓
+    
+    This fountain is right next to the Liberty square.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409270-6383f3f0-4efd-4c08-962c-12e918434485.jpg" alt="" width="400" />
+
+- [ ] **Castle Garden Bazaar (Várkert Bazár)** 🆓
+    
+    Renovated 19th-century complex of exhibition halls. The nation's cake is sold in the confectionery here.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409339-4fa4221b-b192-47d1-bbb4-a47793a89200.jpg" alt="" width="400" />
+
+- [ ] **Gellért Hill** 🆓
+    
+    Gellért Hill is a 235 m high hill overlooking the Danube in Budapest, Hungary. It is located in the 1st and the 11th districts. The hill was named after Saint Gerard who was thrown to death from the hill.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409368-8579c02a-52b0-41e6-a1bd-03b9a0394847.jpg" alt="" width="400" />
+
+- [ ] **Citadel and the Liberty Statue** 🆓
+    
+    Very nice view of the city. Even if it is under construction, you can walk outside the barrier to have a nice view.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409401-7a23c857-fff2-4821-8395-3217361903af.jpg" alt="" width="400" />
+
+- [ ] **Városliget (City Park), the Vajdahunyad Castle, and the House of Music** 🆓
+    
+    The City Park is a public park close to the center of Budapest. The Vajdahunyad Castle is in this park (it hosts an agricultural museum which I have never seen), as well as a pond in which you can rent out a boat or ice skate during winter. 
+
+    The Statue of Anonymous is also in this park, which represents the author of the first written Hungarian text from the 12th century.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409553-df087faf-23a0-4eda-801e-69ea9df699a7.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197409700-e7b20bf7-dab8-48e7-80ee-5b7f7e65e470.jpg" alt="" width="400" />
+
+- [ ] **Budapest University of Technology and Economics** 🆓
+
+    This is where I studied. The main building is nice, and the I and Q buildings are too.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409746-edf78376-0f26-4275-9c20-c9dbee51374e.jpg" alt="" width="400" />
+
+- [ ] **Elizabeth Lookout** 🆓
+
+    The Elizabeth Lookout is a historic lookout tower on János Hill above Budapest (the city's tallest point). Built in 1911, the tower was named after Empress Elisabeth, wife of Emperor Franz Joseph I. You need to hike/walk a lot to get here.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197409852-22be67fb-1646-4447-b325-f2b40316f013.jpg" alt="" width="400" />
 
 ### Activities
 
-- [ ] **Something free** 🆓
+- [ ] **Széchenyi Baths and Pool** 💸💸
 
-    Description.
+    The Széchenyi Medicinal Bath in Budapest is the largest medicinal bath in Europe. Its water is supplied by two thermal springs, their temperature is 74 °C and 77 °C.
 
-    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197410339-f7085524-e226-47c8-8ffa-b0e12a80680c.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197410359-07e4d828-eadf-42f0-bd3e-18fae2f33cb5.jpg" alt="" width="400" />
 
-- [ ] **Something not free** 💸
-
-    Desciption.
-
-    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+- [ ] **Tram line 2** 🆓
     
+    The tram line 2 runs along Pest's Riverbank, providing great views over the Danube and Buda Hills. The route passes by the Chain Bridge, the Hungarian Parliament, the Central Market Hall and other landmarks on the eastern bank. You need a public tansport ticket to ride the tram.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408793-f9d671a4-c140-463c-923d-5423a5a177b3.jpg" alt="" width="400" />
+
+- [ ] **Duna Corso Sightseeing Boat** 💸💸
+
+    You can travel according to the [timetable](https://www.mahartpassnave.hu/en/timetable/budapest-sightseeing-and-programe-cruises/duna-corso-sightseeing-boat/). I recommend you arrive early to have a good spot on the ship and go to the upper deck. Try to do it around [sunset](https://www.google.com/search?q=sunset+budapest).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197413218-31690f62-ffac-4ad6-b739-ac6847cb40fe.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197412888-ae54d52c-995c-47e5-814f-e6cfbb9b47f6.jpg" alt="path" width="400" />
+
+- [ ] **River Ride Budapest** 💸💸
+
+    Ride a bus in the river. When I first saw this, I panicked because I thought the bus was not intended to be in the water. It can be an alternative to the sightseeing boat, but more expensive and slower. [Link](https://riverride.com/).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197418351-ba4e428c-d061-4f77-ad25-a7072f1e7fd6.PNG" alt="" width="400" />
+
+- [ ] **Ferris Wheel of Budapest** 🆓
+
+    A little short both in height and duration, but nice.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197411492-f76b721f-fad1-48f5-9368-d5469376287f.jpg" alt="" width="400" />
+
+- [ ] **Locked Room Budapest** 💸💸
+
+    Budapest is famous for its escape rooms. You should try one. [Locked Room](https://www.locked.hu/en/) has multiple locations and rooms, I tried the Motel and the Seven Hill, and I liked both. Book in advance.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197411454-225525d3-933f-4e46-acc2-ba208b69549e.jpg" alt="" width="400" />
+
+- [ ] **Aquaworld Resort Budapest** 💸💸💸
+
+    Great water-themed place with slopes, pools, and saunas. It is 11 km from Heroes' Square, and 15 km from the Budapest Zoo and Botanical Garden. [Book your ticket](https://www.aquaworldresort.hu/en/aquaworld/prices_and_opening_hours/prices_opening_hours) in advance.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197418600-4d6e9c9d-2ec4-403d-9517-4944b01d2257.jpg" alt="" width="400" />
+
+- [ ] **Zugligeti Libegő (chairlift)** 💸
+
+    Nice, far from the city centre. Opening hours are [here](https://www.bkv.hu/hu/zugligeti_libego/hu/nyitvatartas_viteldijak_megkozelithetoseg).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197418498-b1b785a5-4581-4953-bf41-a3a742ccb48e.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197418461-00ff6021-b904-4a4f-8384-ebe45b8db1df.jpg" alt="" width="400" />
+
+- [ ] **Children's Railway (Gyermekvasút)** 💸
+
+    The [Gyermekvasút](https://gyermekvasut.hu/en/home/) is a narrow gauge railway line in Budapest, which connects Széchenyihegy and Hűvösvölgy and is 11.2 kilometres long. This railway is ran by children.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197418739-2bb2d4d4-0d55-4949-8eee-0fa15a0dc231.jpg" alt="" width="400" />
+
+- [ ] **Pálvölgyi Cave** 💸
+
+    Cave with a 500-meter hiking trail (around 1 hour) that leads past stalactites & unusual rock formations. It is a constant 11 celsius down there.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197418957-237762a1-c800-483e-a4d7-0858ebb863e4.jpg" alt="" width="400" />
+    
+- [ ] **Fröcskölő (~sprinkler)** 💸💸
+
+    This is where you have 45 minutes, a painting board, and the painting equipment. And you can go wild. More info [here](https://frocskolo.hu/).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197407129-393acd5f-a8c7-408e-8a57-4ecf0e1d348f.jpg" alt="" width="400" />
+
 ### Museums and tours
 
-- [ ] **Something free** 🆓
+- [ ] **Hungarian Parliament** 💸💸
 
-    Description.
+    This is a nice building with an interesting guided tour. Buy your ticket [here](https://jegymester.hu/event-host/900/parlament) in advance.
 
-    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197419126-d983b05d-c5a9-4ed0-9624-d819d060185b.jpg" alt="" width="400" />
 
-- [ ] **Something not free** 💸
+- [ ] **St. Stephen's Basilica (Szent Istvan Bazilika)** 💸💸
 
-    Desciption.
+    St. Stephen's Basilica is a Roman Catholic basilica. It is named in honour of Stephen, the first King of Hungary, whose right hand (The Holy Right) is housed in the reliquary. You can find tickets [here](https://www.bazilika.biz/en) or at the location.
 
-    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197419215-ae66c134-9bb2-40b6-8ed9-a3b96e41df3e.jpg" alt="" width="400" />
 
+- [ ] **Hospital in the Rock (Sziklakórház)** 💸💸
+
+    The Hospital in the Rock Nuclear Bunker Museum is the name given to a hospital created in the caverns under Buda Castle in Budapest in the 1930s, in preparation for the Second World War. It was also a nuclear bunker. Tickets [here](https://www.sziklakorhaz.eu/en/).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197419348-cfb5dfb0-289d-4f55-aa64-a283bafc9189.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197419352-a82bd3cd-5995-46b1-aea0-cc2d7e690dc4.jpg" alt="" width="400" />
+
+- [ ] **Labirynth of Buda Castle** 💸💸
+
+    Historical labyrinth under Castle Hill where Count Dracula (Vlad Tepes) was once imprisoned. I used to like this, but they redesigned the exhibition, which I don't like currently. They only accept cash.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197419554-dcb9ed65-d60d-4c70-845a-ca28974806d7.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197419568-0aae294e-da24-4faf-8c4a-72a3fd3fa507.jpg" alt="" width="400" />
+
+- [ ] **Dohány Street Synagogue (Nagy Zsinagoga)** 💸💸💸
+
+    The Dohány Street Synagogue, also known as the Great Synagogue or Tabakgasse Synagogue, is a historical building. It is the largest synagogue in Europe, seating 3,000 people and is a centre of Neolog Judaism. I have never been inside. Right next to it, there is the Tree of Life memorial.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197419689-59dbcc73-1749-403a-8199-a97a8f541cd6.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197419700-c9688fad-a6ab-4f17-a13d-2015fcc9350b.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197420880-50bc59e9-8516-41b6-b90e-2771cb8ba9e5.jpg" alt="" width="400" />
+
+- [ ] **Hungarian National Museum** 💸
+
+    The Hungarian National Museum was founded in 1802 and is the national museum for the history, art, and archaeology of Hungary, including areas not within Hungary's modern borders, such as Transylvania. More info [here](https://mnm.hu/en).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197419774-e78dea61-4535-466d-a3cd-6aa3bac6b28f.jpg" alt="" width="400" />
+
+- [ ] **Budapest Zoo & Botanical Garden** 💸
+
+    Zoo & Botanical Garden of the Capital is the oldest zoo in Hungary and one of the oldest in the world. It has 1,072 animal species and is located within Városliget Park. I love this zoo, but you need a full day here.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197419848-9c48f889-f7d9-4853-9703-25db2f88bf92.jpg" alt="" width="400" />
+
+- [ ] **Invisible Exhibition** 💸💸
+
+    Temporarily closed, but a great exhibition. The [Invisible Exhibition](https://www.lathatatlan.hu/en/home/) is a special, interactive journey into an invisible world wherein pitch-black you can try to find your way exclusively through touching, hearing and smelling.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197419901-f8d9f79a-7e31-4d64-8947-92ec2db6c013.jpg" alt="" width="400" />
+
+- [ ] **Budapest Pinball Museum** 💸💸
+
+    Collection of more than 140 interactive pinball machines & vintage arcade games dating from 1947.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197420028-6b5d91b4-936b-4836-8ba4-bfa5dc5d95c6.jpg" alt="" width="400" />
+
+- [ ] **House of Terror** 💸💸
+
+    House of Terror is a museum located at Andrássy út 60 in Budapest, Hungary. It contains exhibits related to the fascist and communist regimes in 20th-century Hungary and is also a memorial to the victims of these regimes, including those detained, interrogated, tortured or killed in the building. You can only buy your ticket at the venue. More info [here](https://www.terrorhaza.hu/en).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197420171-78199684-c99c-41e1-9e22-c6d4de3d9b7c.jpg" alt="" width="400" />
+
+- [ ] **Csodák Palotája (Palace of wonders)** 💸💸
+
+    Science center for mainly (but not only) kids offering interactive exhibits & activities, plus a cinema, game room & cafe. Link [here](https://www.csopa.hu/en/).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197420279-0d9ec190-f867-4d87-83c4-377e0c8e21ac.png" alt="" width="400" />
+
+- [ ] **House of Music Hungary** 🆓
+
+    [The House of Music](https://magyarzenehaza.com/en) is a beautiful modern building with exhibitions, concerts, and a music dome. The entrance is for free, but you need to buy tickets for the specific concerts or exhibitions. The music dome was a disappointment to me (it was way smaller than I expected), but the building is nice, and other exhibitions may be better.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197420479-ffe306dd-d722-4d80-b14f-ebc16cee946c.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197420535-d0bd86e7-0ecc-478f-804d-1c80e4fb73d0.jpg" alt="" width="400" />
+
+### Hidden gems
+
+- [ ] **The statue of the Great Ho-ho-ho Horgasz's Chief Worm** 🆓
+
+    One of the tiniest statue in Budapest. It is right next to the Danube, in Pest. Can you find it? It is one of a guerilla sculptor's little bronze statues hidden throughout the city.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197420590-d6741dbc-15dd-4432-a8ea-9c7116fdc318.jpg" alt="" width="400" />
+
+- [ ] **Kiskirálylány (Little Princess)** 🆓
+
+    A statue that was inspired by the sculptor's own daughter exhibited on the Danube Promenade. Fun fact: two notable copies exist, one in the sculptor's hometown of Tapolca. The other is at the concert hall of the Tokyo Metropolitan Theatre, representing the years of friendly Hungarian-Japanese relations.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197421156-234a235a-8fdf-4d40-bebe-f9e41fc115c9.jpg" alt="" width="400" />
+
+- [ ] **Zero Kilometer Stone** 🆓
+
+    The center of the universe (aka the geographical center of Budapest) is marked with a 10-foot-tall stylized zero at Clark Ádám square. Can you spot it?
+
+    <img src="https://user-images.githubusercontent.com/37120889/197421224-c0aa7dd7-b94b-4964-b209-b9f5b4447cf3.jpg" alt="" width="400" />
+
+- [ ] **Prince of Buda and Princess of Pest Statue** 🆓
+
+    It is a small sculpture positioned on Gellért Hill overlooking the city below. For many years, the towns of Buda, Óbuda, and Pest were separate and independent. In 1873, they were joined together and given the new name Budapest. The bronze and stone sculpture is meant to symbolize the unification of the city.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197421763-4ad00504-1322-4c3b-9121-7159a8ad0def.jpg" alt="" width="400" />
+
+- [ ] **The Garden of Philosophers** 🆓
+
+    In a secret corner of Budapest's Gellért Hill, the world's greatest religious figures meet silently around an orb. Can you find them? Nearby you can find a striking view of the city as well as a statue of the personified Prince Buda embracing his wife, a personified Princess Pest.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197421550-44195bec-3bce-4e5f-a808-2d7524999ff7.jpg" alt="" width="400" />
+
+- [ ] **Air Defense Early Warning Listening Ears** 🆓
+
+    The device was used to amplify and monitor the sound of aircraft approaching the city during World War I. Visitors can still don the headphones attached to the listening cones and spin the steering wheels that originally helped fine-tune the direction the cones are pointing. You can find the listening ears by taking the 19 or 41 trams along the Buda riverside. The nearest stop is Várkert Bazár (Castle Garden).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197421644-1cb91dec-b1be-487d-9746-5a14fe2ec5d7.jpg" alt="" width="400" />
+
+## Seasonal events
+
+- [ ] **Christmas**🎄 (December)
+    
+    It is usually not snowy in Budapest, even during Christmas, but the city offers an excellent Christmas Fair. Go to Vörösmarty Square or the Saint Stephen Basilica, where you can also find an ice-skating ring. They also run light trams (on line 2) during that time. And the weather is not that cold.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197393098-91edd8be-ca30-4699-b9f5-d6126bb16b82.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197393292-a177c9fa-34fe-4005-a838-163c131843e4.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197393116-bf2b94f4-35d7-4490-9ee3-ab27eeb5a490.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197393119-cfb8f014-b3d7-4933-a507-5be98bb64db0.jpg" alt="" width="400" />
+
+- [ ] **St. Stephen's Day** (20th of August)
+    
+    August 20th is one of the most important national holidays in Hungary. They celebrate the foundation of the state by the nation's first king, St. Stephen. They usually have cultural events and fireworks on the Danube.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197393452-264dd5b7-2e4b-4d2a-b919-f7ad89247bd4.jpg" alt="" width="400" />
+
+- [ ] **Sziget Festival** (middle of August)
+    
+    The Sziget Festival is one of the largest music and cultural festivals in Europe. It is held every August in northern Budapest, Hungary, on Óbudai-sziget, a leafy 108-hectare island on the Danube. More than 1,000 performances take place each year.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197394467-c6a62412-85d3-40d4-a2ed-2521ea7be12e.jpg" alt="" width="400" />
 
 ## Cuisine
 
@@ -184,6 +524,14 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 - [ ]  Rakott krumpli (Layered potatoes)
 
     <img src="https://user-images.githubusercontent.com/37120889/197365674-ca412a11-4706-46dc-b061-b32c1a51f7ce.jpg" alt="" width="400" />
+
+- [ ]  Lángos (Deep-Fried Flatbread)
+
+    <img src="https://user-images.githubusercontent.com/37120889/197365744-c9fcd6c9-09bc-4fe0-98d7-337b5c10c120.jpg" alt="" width="400" />
+
+- [ ]  Sült kolbász and hurka (Roasted sausages)
+
+    <img src="https://user-images.githubusercontent.com/37120889/197365781-92f0d93f-daf0-4a51-b336-e03d4c287b7b.PNG" alt="" width="400" />
 
 ### Desserts
 
@@ -285,35 +633,60 @@ Poppy seeds are popular in some desserts and pastries. It may sound weird, but i
 
     Pálinka is a fruit spirit in Eastern and Central Europe with origins in Carpathian Mountains basin, more exactly known under several names, and invented in the Middle Ages. Strong alcoholic drink, around 40-50 %.
     
-    <img src="https://user-images.githubusercontent.com/37120889/197366556-5857ff18-e99c-41b2-bba8-3a3bf8c05e81.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197401707-3612a5f1-45a2-4265-b57b-72a0edf3128e.jpg" alt="" width="400" />
 
 - [ ]  Tokaji aszú, Tokaji szamorodni
 
     Tokaji aszú is a dessert wine produced in the Tokaj. Older vintages turning darker shades of amber as they age. Szamorodni is another variety of wine produced in the Tokaj wine region.
     
-    <img src="https://user-images.githubusercontent.com/37120889/197366661-5dec6bef-961e-4eac-85f1-f25519e85dcb.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197401652-5a528413-8d38-4c1e-aa1f-108d597ea1a0.jpg" alt="" width="400" />
 
 - [ ]  Unicum
 
     Unicum is a Hungarian herbal liqueur or bitters, drunk as a digestif and apéritif. The liqueur was created in 1790 and is today produced by Zwack according to a secret formula of more than forty herbs; the drink is aged in oak casks. Not too good.
     
-    <img src="https://user-images.githubusercontent.com/37120889/197366618-de54e749-fb1e-49af-a141-345b229c9edc.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197401609-5a406c88-beb8-4d52-bb41-430a6ec30e9f.jpg" alt="" width="400" />
 
 ### Other
 
 - [ ]  Túró Rudi (cottage cheese with chocolate shell)
 
-    Popular in Hungary.
+    Popular in Hungary. It needs cooling, so not ideal to buy as a souvenir. But you can find it in the airport.
     
     <img src="https://user-images.githubusercontent.com/37120889/197366179-b2b11e05-c4cb-42a6-979e-058dd87d079d.jpg" alt="" width="400" />
 
-- [ ]  Lángos (Deep-Fried Flatbread)
+- [ ] PICK Téliszalámi (winter salami)
 
-    <img src="https://user-images.githubusercontent.com/37120889/197365744-c9fcd6c9-09bc-4fe0-98d7-337b5c10c120.jpg" alt="" width="400" />
+    Winter salami (Hungarian: téliszalámi) is a type of salami produced according to a centuries-old tradition. Made from Mangalitsa pork and spices (white pepper, allspice, and others), winter salami is cured in cold air and smoked slowly. A unique noble mold is formed on the casing surface during the dry ripening process. Buy it at the butcher, not in souvenir shops.
 
-- [ ]  Sült kolbász and hurka (Roasted sausages)
+    <img src="https://user-images.githubusercontent.com/37120889/197403157-89433d8d-d3b5-460e-9989-932e7ab6a89f.jpg" alt="" width="400" />
 
-    <img src="https://user-images.githubusercontent.com/37120889/197365781-92f0d93f-daf0-4a51-b336-e03d4c287b7b.PNG" alt="" width="400" />
+- [ ]  Szamos marcipán
+
+    Szamos is a Hungarian manufacture from the 1930s making marzipan (consisting primarily of sugar, honey, and almond meal). Can be a good souvenir. You can find their shops in numerous shopping malls.
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197390763-baf6f826-de53-4ee8-a02a-cea1d27a8eab.jpg" alt="" width="134" />
+    <img src="https://user-images.githubusercontent.com/37120889/197390767-78d730d0-a005-45f9-8763-4f551a1397eb.jpg" alt="" width="134" />
+    <img src="https://user-images.githubusercontent.com/37120889/197390774-9e29d5bb-1d96-4457-bb18-b9c80f3977e4.jpg" alt="" width="134" />
+
+- [ ]  Stühmer chocolates
+
+    A chocolate factory from 1868. They are primarily famous for the szaloncukor. I recommend their szilvás betyár (dried plum with winey chocolate cream). Can be a good souvenir. You can find their shops in numerous shopping malls.
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197391171-a6168b32-d4f6-42f0-a67f-d3e35ceb802b.jpg" alt="" width="200" />
+    <img src="https://user-images.githubusercontent.com/37120889/197391189-f17d0af5-44b8-4d63-8a39-344d9e1987c9.png" alt="" width="200" />
+
+- [ ] Fűszerpaprika (paprika)
+
+    Hungarian paprika is made from peppers that are harvested and then sorted, toasted, and blended to create different varieties. All Hungarian paprikas have some degree of rich, sweet red pepper flavor, but they range in pungency and heat. Buy them in grocery stores (you can find all of them in Tesco), not in souvenir shops. What I recommend: **Kalocsai fűszerpaprika őrlemény**, **Szegedi őrölt paprika**, or **Lacikonyha édesnemes fűszerpaprika**.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197403641-7eeb2025-ac6b-4fad-8b21-4589f77f1709.jpg" alt="" width="400" />
+
+- [ ] Coffee beans from Cafe Frei
+
+    Cafe Frei sells coffee beans on a good price, and this is something Hungarian. Their roasted nut coffee from Rome (Római mogyoró kávé) is very good, but they also have other alternatives. You can ask them to grind the coffee beans for you. They also sell the Nespresso compatible capsules. You can find a Cafe Frei at the Budapest airport and buy them there.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197361685-c406d94e-0891-4ac1-86c5-157a40fe534c.PNG" alt="" width="400" />
 
 - [ ]  Szaloncukor
 
@@ -444,7 +817,7 @@ In Hungary, restaurants charge you 10-15 % service fee on top of the prices show
 
 ## Bars and nightlife🕺💃
 
-In general, Budapest is famous for its numerous ruin bars around the city. You will find an almost infinite selection of bars on Small Boulevard (Kiskörút) or near Király street.
+Budapest is famous for its numerous ruin bars around the city. You will find a huge selection of them on Small Boulevard (Kiskörút) or near Király street.
 
 - [ ] **Szimpla Kert** 🆓
 
@@ -484,14 +857,16 @@ In general, Budapest is famous for its numerous ruin bars around the city. You w
 
 ## Souvenir🎁
 
-- [ ] **Coffee beans from Cafe Frei** 💸
+There are many souvenir shops in the inner city (near Deák Ferenc square, Király street, or Buda Castle).
 
-    Cafe Frei sells coffee beans on a good price, and this is something Hungarian. Their roasted nut coffee from Rome (Római mogyoró kávé) smells amazing, but they also have other alternatives. You can ask them to grind the coffee beans for you. They also sell the Nespresso compatible capsules. You can find a Cafe Frei at the Budapest airport and buy there.
+- [ ] **Matyó folk art** 💸💸
 
-    <img src="https://user-images.githubusercontent.com/37120889/197361685-c406d94e-0891-4ac1-86c5-157a40fe534c.PNG" alt="" width="400" />
+    The folk art of the Matyó comes from north-eastern Hungary is characterized by floral motifs. You can find numerous textiles with this design.
 
-- [ ] **Something** 💸
+    <img src="https://user-images.githubusercontent.com/37120889/197402718-0a13d660-40a6-4546-ba21-0c4c10d48eb4.jpg" alt="" width="400" />
 
-    Desciption.
+- [ ] **Porcelain** 💸💸💸💸
 
-    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+    There are porcelain manufactures in Hungary, like Herend, Zsolnay, Hollóház or Kalocsa. You can find products in souvenir shops. They are quite pricey.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197402595-d3616555-04e8-4e84-b93e-1204525712d9.jpg" alt="" width="400" />

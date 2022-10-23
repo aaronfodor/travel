@@ -7,11 +7,15 @@
     <img src="https://user-images.githubusercontent.com/37120889/197355978-8663737b-aaaa-4180-a9f5-5a173ce243c7.jpg" alt="city flag" height="60" />
 </p>
 
-# City name here
+# City/country name here
 
 Last updated: 22/10/2022
 
-## [Map Link](https://www.google.com/maps/d/embed?mid=1Dnnv04wV9GSkOXd5fpHbVx-2pQMNCWQ&ehbc=2E312F)🗺️
+## [Travel Map](https://www.google.com/maps/d/embed?mid=1Dnnv04wV9GSkOXd5fpHbVx-2pQMNCWQ&ehbc=2E312F)🗺️
+
+## Weather🌡️
+
+<img src="https://user-images.githubusercontent.com/37120889/197390272-3d3b574d-1084-42c0-902d-c1cb8e9b07fb.PNG" alt="" width="400" />
 
 ## Prices📈
 
@@ -94,6 +98,35 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 - [ ] **Something not free** 💸
 
     Desciption.
+
+    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+
+### Hidden gems
+
+- [ ] **Something free** 🆓
+
+    Desciption.
+
+    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+
+
+## Seasonal events
+
+- [ ] **Christmas**🎄 (December)
+    
+    Description.
+
+    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+
+- [ ] **Halloween**🎃 (late Oct. - early Nov.)
+    
+    Description.
+
+    <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
+
+- [ ] **Something else** (when)
+    
+    Description.
 
     <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
 

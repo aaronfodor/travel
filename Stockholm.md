@@ -11,7 +11,11 @@
 
 Last updated: 22/10/2022
 
-## [Map Link](https://www.google.com/maps/d/embed?mid=1t0eUgRGVS-4g6m0dJgfpUyn4jzGe_Oo&ehbc=2E312F)🗺️
+## [Travel Map](https://www.google.com/maps/d/embed?mid=1t0eUgRGVS-4g6m0dJgfpUyn4jzGe_Oo&ehbc=2E312F)🗺️
+
+## Weather🌡️
+
+<img src="https://user-images.githubusercontent.com/37120889/197390272-3d3b574d-1084-42c0-902d-c1cb8e9b07fb.PNG" alt="" width="400" />
 
 ## Prices📈
 
@@ -45,7 +49,7 @@ There are good and bad news: Skavsta airport is actually not anywhere close to S
 
 ## Public Transport🚇
 
-You should buy a ticket with SL (public transpot company). It is expensive, but the service is great, and you can get anywhere for free (including ferries and commuter trains within Stockholm county). [Tickets](https://sl.se/privat/biljetter/kop-biljett) (The 72 hour ticket is 330 SEK, the 7 day ticket costs 420 SEK - they are pretty expensive). Unfortunatelly the student ticket is only valid with a Mecenat card, no international or EU compatible student ID is accepted. Download the SL app ([Android](https://play.google.com/store/apps/details?id=com.sl.SLBiljetter&hl=en&gl=US), [iOS](https://apps.apple.com/se/app/sl-reseplanerare-och-biljetter/id918418291)) to buy your ticket (you can travel with it while being offline).
+T-Centralen is the center of the city, you can reach anywhere from there easily. You should buy a ticket with SL (public transpot company). It is expensive, but the service is great, and you can get anywhere for free (including ferries and commuter trains within Stockholm county). [Tickets](https://sl.se/privat/biljetter/kop-biljett) (The 72 hour ticket is 330 SEK, the 7 day ticket costs 420 SEK - they are pretty expensive). Unfortunatelly the student ticket is only valid with a Mecenat card, no international or EU compatible student ID is accepted. Download the SL app ([Android](https://play.google.com/store/apps/details?id=com.sl.SLBiljetter&hl=en&gl=US), [iOS](https://apps.apple.com/se/app/sl-reseplanerare-och-biljetter/id918418291)) to buy your ticket (you can travel with it while being offline).
 
 <img src="https://user-images.githubusercontent.com/37120889/195999721-2626066c-b81f-41a0-abed-93cfb7705710.jpg" alt="public transport system" width="800" />
 
@@ -98,7 +102,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     
     <img src="https://user-images.githubusercontent.com/37120889/196001079-02d053ab-7688-46f9-98c8-246eb3e5e584.jpg" alt="Drottninggatan" width="400" />
     
-- [ ] **Södermalm and the lookout** 🆓
+- [ ] **Södermalm (with Monteliusvagen)** 🆓
 
     This is a huge island near central Stockholm, with nice areas and wonderful lookouts, especially during sunset.
     
@@ -141,6 +145,24 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     A popular meeting place in Stockholm. This is the area where Avicii grew up. Svampen means mushroom.
     
     <img src="https://user-images.githubusercontent.com/37120889/196001724-f2e18358-5b2c-4fe6-be37-ded56ae6a018.jpg" alt="" width="400" />
+
+- [ ] **Birthplace of the Stockholm Syndrome** 🆓
+
+    The robbery at Norrmalmstorg in 1973 took an unexpected turn when the hostages started sympathizing with their captors. In an instant the Stockholm Syndrome was born. [Story](https://www.atlasobscura.com/places/birthplace-of-the-stockholm-syndrome).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197397642-290bea74-78ce-45d0-81ad-cb367a3e1bbe.jpg" alt="" width="400" />
+
+- [ ] **Stockholms Geographical Midpoint** 🆓
+
+    People refer T-Centralen as the center of Stockholm. To find the actual midpoint, take the metro (green line) to Alvik and walk from there. It is roughly 3 minutes from there.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197395918-5bfd10b4-4451-4945-8bd7-b824e6bb3e31.jpg" alt="" width="400" />
+
+- [ ] **Nobels spränggropar (Nobel's Blasting Bunkers)** 🆓
+
+    Vinterviken was once the location of the world’s first commercial nitroglycerine factory and the basis for Alfred Nobel’s success ([story](https://user-images.githubusercontent.com/37120889/197397826-d75b76cc-61e3-45dc-81da-7506533e53e8.jpg)). Vinterviken is a 15-20 minute walk away from the metro station Aspudden on the red line.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197400747-7d2e1fe9-a753-4964-ab25-0ef43b0e7625.jpg" alt="" width="400" />
 
 - [ ] **Lappis** 🆓
 
@@ -194,13 +216,28 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     
     <img src="https://user-images.githubusercontent.com/37120889/196002513-7bbc3796-13e4-44f4-8314-5dc527d5c9b5.jpg" alt="" width="400" />
     
-- [ ] **Kayaking** 270 SEK
+- [ ] **Kayaking** 270 SEK or 🆓
 
     Link to a great place: [LEK MER | Pampas kajak & SUP](https://www.lekmer.nu/tour/hyra-kajak/). Renting out a double kayak is 540 SEK for 2 hours, which is okay. Going around the whole island of Stadshagen is possible in 2 hours. Being more chill and avoiding waves, one can just go through the tunnel until reaching the Stadshuseet. Pampas Marina is a restaurant right next to the kayaking place. They offer all you can eat lunch and great food, but watch out for the seagulls.
 
     There is an option to collect trash and paddle for free in exchange, for example [here](https://www.smartakartan.se/en/stockholm/green-kayak/).
     
     <img src="https://user-images.githubusercontent.com/37120889/196002638-a0d7c98a-2332-4b13-be97-fa4ee12a049a.jpg" alt="" width="400" />
+
+- [ ] **Metro Art** 🆓
+
+    The Stockholm Tunelbana (metro) has more than a hundred stations, and at least ninety of them have art installations as part of their decoration. Traveling by subway is like being in a personal, mobile art gallery that allows to experience the beauty of mosaics, paintings, installations, and sculptures. Admission costs nothing except for the train ticket. I definitely recommend exploring it on a dark or cold day. 
+    
+    The following stations are unique: **Thorildsplan**, **Tensta**, **Tekniska Högskolan**, **T-Centralen** (the blue line part), **Stadion**, **Solna Strand**, **Solna Centrum**, **Östermalmstorg**, **Mörby Centrum**, **Kungsträdgården**, **Hötorget**, **Hallonbergen**, **Citybanan Odenplan**, **Bagarmossen**, and **Universitetet**.
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197399894-3f827808-0e60-4dba-8f79-706dac02dcc9.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197399898-ae95c30e-2bf0-4b48-a158-be9ef411d705.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197399899-96fd42ba-d27a-4eea-b1e2-dfe4c1506f58.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197399918-e686867f-a1aa-41c3-8bd4-209be41250d1.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197400142-ce234e02-4098-4eb0-8f70-05c9b37d72a9.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197399972-0c46626e-e1f1-46c3-897c-07776f6efd08.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197399921-05976eda-d084-4c10-a1ae-9e13298bd1d1.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197399933-73d3efa6-5c31-4e07-a3df-cb45a5fbd5da.jpg" alt="" width="400" />
 
 - [ ] **Sigtuna** 🆓
 
@@ -214,7 +251,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     
     <img src="https://user-images.githubusercontent.com/37120889/196002652-916173c9-8ffa-4ca0-96dd-015f66647b9a.jpg" alt="" width="400" />
 
-- [ ] **Djurönäset Konferens & Hotell**
+- [ ] **Djurönäset Konferens & Hotell** 💸💸
 
     A SPA and conference venue in the woods with a hotel and a restaurant. It is located in the archipelago (30 minutes from Stockholm by car). I don't know if there is public tansport there. A little bit pricey, but the atmosphere is nice. You can go to the sauna, enjoy the outdoor pool, or dip into the sea. [Link](https://djuronaset.com)
     
@@ -239,6 +276,12 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     This is the iconic city hall. They have a guided tour every half an hour, and the building is full of easter-eggs. The Nobel banquette and the KTH graduation ceremony is held there each year. [Link](https://www.google.com/search?q=stockholm+city+hall)
     
     <img src="https://user-images.githubusercontent.com/37120889/196002843-c800169f-00a2-4d11-892a-5d35a09456d3.jpg" alt="" width="400" />
+
+- [ ] **Konserthuset** 120 SEK or more
+
+    The Stockholm Concert Hall is the main hall for orchestral music in Stockholm, Sweden. Inaugurated in 1926, the Hall is home to the Royal Stockholm Philharmonic Orchestra and the Nobel Prize ceremony. You can enter the hall without buying a concert ticket. There are guided tours for 120 SEK (the tour is in Swedish). Find tickets and events [here](https://www.konserthuset.se/).
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197400664-6d7234d7-3f38-4575-ba3b-0bc5322a0b28.jpg" alt="" width="400" />
     
 - [ ] **The Royal Palace** 180 SEK
 
@@ -258,6 +301,12 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     
     <img src="https://user-images.githubusercontent.com/37120889/196002953-ce574341-94e0-4306-b080-385ebc7e0e14.jpg" alt="" width="400" />
     
+- [ ] **Stadsbiblioteket (Stockholm Public Library)** 🆓
+
+    t’s open Monday through Friday from 10am to 9pm (except Tuesday, when it opens at noon), Saturday and Sunday from 11am to 5pm, and is closed on holidays. It’s a library, so of course it’s free.
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197396940-fc60a455-77f2-462a-93c3-f4887bab85c3.jpg" alt="" width="400" />
+
 - [ ] **Fotografiska** 210 SEK
 
     It is a photo art related museum. A bit small, but I liked it. [Link](https://www.google.com/search?q=fotografiska)
@@ -293,6 +342,13 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     I have never been there, it is more of geology and natural history related museum. [Link](https://www.google.com/search?q=naturhistoriska+riksmuseet)
     
     <img src="https://user-images.githubusercontent.com/37120889/196003128-cc091f06-91d4-4ebb-bc7a-4e349eed45d6.jpg" alt="" width="400" />
+
+- [ ] **Stockholm Globe / Avicii Arena**
+
+    Avicii Arena, originally known as Stockholm Globe Arena, but commonly referred to in Swedish as Globen, is an indoor arena located in Stockholm Globe City. It holds the place as the world’s largest spherical building. They host cultural events and concerts. [SkyView](https://aviciiarena.se/skyview/) is a glass gondola that rides along the outside of the Globe. I have never tried.
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197398439-b07b80b0-6228-4a1f-8c4c-4ea0e43ad879.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197398758-0e2ca511-83a2-48b1-95b8-ea4bd91ed0f7.jpg" alt="" width="400" />
     
 - [ ] **Moderna museet** 🆓 with 💸 parts
 
@@ -305,6 +361,114 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     I have never been here, but it opened recently, and I saw a few friends going there. [Link](https://www.paradoxmuseumstockholm.com/)
     
     <img src="https://user-images.githubusercontent.com/37120889/196003175-d577a285-45a6-42ce-ba96-dff96b62fed0.jpg" alt="" width="400" />
+
+
+### Hidden gems
+
+- [ ] **Humor skulptur**
+
+    When leaving the metro at Slussen train station, visitors find a square where most people pass by without giving a second glance. But those who do will notice a hidden piece of art. Can you find it? The sculpture is modeled after Hasse Alfredson, a Swedish comedian and actor.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197394765-9152e443-bdfe-4590-8807-f9f45ecbd929.jpg" alt="" width="400" />
+
+- [ ] **Östermalm Echo Dome**
+
+    The echo chamber on the way to the metro is a large round room with a spherical roof made out of concrete. The spherical roof bounces sound back and forth in a very unintuitive way. It makes it so even the quietest whisper on the other side of the room can be heard perfectly, but people next to you are not more audible at all. Stand in the center of the room, and you'll hear everything that is said around you, and everyone will also hear you.
+
+    Apart from all the practical jokes you can play here, it's amusing to see people look around with a confused face when they walk alone and suddenly hear other people talking, their voices carrying as if they were right next to them. 
+
+    <img src="https://user-images.githubusercontent.com/37120889/197395259-1cc1f736-25f5-4c5d-bd44-c56961840f60.jpg" alt="" width="400" />
+
+- [ ] **Sweden Solar System**
+
+    The [Sweden Solar System](https://www.atlasobscura.com/places/sweden-solar-system) is the world's largest model of our planetary system, at a scale of 1:20 million.
+
+    The sun is represented by the Globe Arena in Stockholm, the largest spherical building in the world. The planets, all appropriately scaled, are all around Stockholm and its suburbs. Jupiter (diameter 7.3 m) is at the Arlanda Airport, Saturn is in Uppsala, and Pluto in Delsbo, 300 km from the Globe Arena. At each planet, a small exhibit provides information about astronomy and the mythological figure after whom each planet is named.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197395779-f45ba7ca-494f-47da-8a2d-36826cd4cdbd.jpg" alt="" width="400" />
+
+- [ ] **Stockholm Metro Ventilation Art** 
+
+    Different patterns can be found in the new metros. The first is a set of three crowns, which is the national emblem of Sweden. The second is a set of play, pause, forward, and reverse buttons that symbolize the ties between Sweden and the global music industry. Then there is a Pacman and three ghosts said to be representative of the Swedish gaming industry. Lastly, there are a few oak leaves and stars.
+    
+    The trains are still being phased in and drive irregularly, your best chance is to find on one the red line. You will need a train ticket to board the metro. 
+
+    <img src="https://user-images.githubusercontent.com/37120889/197396118-11706714-548d-463d-9949-23f6d81cf586.jpg" alt="" width="400" />
+
+- [ ] **Lappis Scream**
+
+    The student housing area of Stockholm, on Tuesdays at 10 p.m. sharp, you’ll hear a chorus of screams. It’ll sound as though you’re trapped within a horror movie. In reality, it’s the cries of stressed students echoing through the air. Anyone in the area is welcome to join in on the Tuesday night shouting, but only at the designated time. Starting a shout on other days or times will usually result in angry students telling you to keep quiet.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197396418-c79aa19d-eb1c-46af-99ef-530994ac8f51.jpg" alt="" width="400" />
+
+- [ ] **Newton's Apple**
+
+    This moment is commemorated with a giant dangling apple sculpture in Stockholm’s Tekniska Högskolan metro station, near the KTH Royal Institute of Technology. You will need to purchase a subway ticket to see the apple.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197396493-60ca1e06-4027-411a-a4c2-031a67955426.jpg" alt="" width="400" />
+
+- [ ] **White bricks on the Ribbinska Huset**
+
+    The giant red house on Stortorget is decorated with white bricks. The white stones on the red wall represent the head of murdered Swedish nobles. Full story [here](https://www.atlasobscura.com/places/ribbinska-huset).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197397089-7a287451-ba2a-43aa-ba98-30a0c54bb1d0.jpg" alt="" width="400" />
+
+- [ ] **Långholmen Crash Site**
+
+    An air show in 1993 could have ended in catastrophe but miraculously, it missed almost everyone. The metro station closest to the site is Hornstull on the red line south of Stockholm central station. From there it's less than 10 minutes walk north to Långholmen.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197397275-3d9cb905-e712-4d51-9335-7fc9be49b60a.jpg" alt="" width="400" />
+
+- [ ] **Morgondagens Väder (Tomorrow's Weather)**
+
+    Each of these molecules is connected to a weather station via the internet and changes color based on the predicted weather. A large molecule in the center represents the temperature, with blue representing cold and red illustrating hot. The molecules together represent the future, and their base represents the past as sedimentary rocks. The installation hangs above an escalator to the left of the passage to the train platforms at T-Centralen. 
+
+    <img src="https://user-images.githubusercontent.com/37120889/197397361-a4b030bc-6700-4253-9a60-37388c3825a4.jpg" alt="" width="400" />
+
+- [ ] **Järnpojke**
+
+    Järnpojke (Iron Boy) is a small statue that stands in a church courtyard in Stockholm’s old town, Gamla Stan. This 15-centimeter artwork is known as Sweden’s tiniest public monument. This charming artwork is beloved by locals. They care for the boy and adorn him with clothes and items based on current affairs or weather. He is often also surrounded by coins from various countries: it is believed that the Iron Boy bestows good luck upon those who rub his head or give him a small gift.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197397488-d346be15-d765-408d-8caa-9f0bd9a5b812.jpg" alt="" width="400" />
+
+- [ ] **A ghost story: the Kymlinge Metro Station**
+
+    The Kymlinge Metro Station, and Silverpilen, the silvery train that is said to haunt its rails, are both quite real. Read the full story [here](https://www.atlasobscura.com/places/kymlinge-metro-station). The station is closed for visitors but you can get close to the fence. Don't try to get over, the metros go very fast and even if you don't get hit, you'll traumatize the metro driver.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197398007-9a13a30d-ab48-46f3-a2e8-36ec64f7722e.jpg" alt="" width="400" />
+
+
+## Seasonal events
+
+- [ ] **Christmas**🎄 (December)
+    
+    In December, Stockholm has Christmas vibes. It is likely snowy, dark, and cold, but the decorations and the lights make the city cozy. There is a Christmas fair at Stortorget, an ice skating ring in Kungstradgarden, and lovely decorations everywhere.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197391643-1e83c7e5-6e74-4d6e-9acf-d4f3b8e76872.jpg" alt="" width="400" />
+
+- [ ] **Halloween**🎃 (late Oct. - early Nov.)
+    
+    During Halloween, the city has some decorations, and Gröna Lund (amusement park) offers a Halloween-themed experience, which is good. It is usually rainy around that time.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197391998-edbd8235-c47a-4374-baec-48fd2f6ef25c.jpg" alt="" width="400" />
+
+- [ ] **Nobel week** (ealry December)
+    
+    Nobel Week happens before the Nobel Prize giving ceremony (which takes place in Stockholm). During the week, there are light installments around the city concerning scientific topics (at Sergels Torg or at the Stadshuset).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197392301-a81d9cc4-973f-4172-ae90-1322b7ddeec4.jpg" alt="" width="400" />
+
+- [ ] **Midsommar** (late June, on the longest day of the year)
+    
+    Midsummer is a bank holiday in Sweden. Around that time, there are celebrations in the countryside where people eat, dance, and create poles. In Stockholm, there are celebrations in the Skansen or at Gröna Lund, or in Lidingö (more traditional countryside).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197392574-fe7d9bdb-ef8e-495e-a650-943a36a5c0d1.jpg" alt="" width="400" />
+
+- [ ] **Valborg** (30th of April)
+    
+    Every year on the 30th of April Sweden is set ablaze in revelry of the emerging spring. The celebration known as Valborg causes communities throughout Sweden to unite in spirit and gather around massive bonfires, singing songs to welcome spring to these northern shores. There is a great bonfire in the Skansen, in Lidingö, and numerous places.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197392785-f1a8a4f8-8f3a-4cbe-bc6b-49daf3bd96ed.jpg" alt="" width="400" />
 
 
 ## Cuisine
@@ -421,19 +585,25 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 
 ## Restaurants🍴
+
+- [ ] **Meatball for People** 💸💸💸
+
+    Great meatballs! The place is usually crowded.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003888-51bd57bd-ec12-4626-80d0-12a6ddc28feb.jpg" alt="" width="400" />
     
-- [ ] **Taco Bar** (multiple places) 💸
+- [ ] **Aifur** 💸💸💸💸
 
-    Mexican fast food franchise. Don’t tell mexicans that I recommended this place, but it is good compared to the price. The places at Sergels and Gamla Stan are great.
+    A viking restaurant. There is singing, traditional outfit, etc. I felt it is a bit too much of a show. Overall good place, but very expensive.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003717-13abbbbb-e6b9-4af2-8f19-9a13697e2736.jpg" alt="" width="400" />
-    
-- [ ] **Max** (multiple places) 💸
+    <img src="https://user-images.githubusercontent.com/37120889/196003897-d446b074-df3b-4c32-8d97-e93795bbc47b.jpg" alt="" width="400" />
 
-    McDonald’s? Burger King? Forget it. When in Sweden, go to a Max to grab some burgers instead! Some say they are better than those other brands. You need to decide.
+ - [ ] **Meno Male Kungsholmen** 💸💸
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003762-9b10006d-e68b-400d-83d4-4e2f8a281d4d.jpg" alt="" width="400" />
-    
+    The best pizza in Stockholm, and probably in Sweden.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003875-bfc137b8-9c4f-406b-b6d9-f3fc04c60be7.jpg" alt="" width="400" />
+
 - [ ] **Vigårda Vasagatan** 💸💸
 
     A nice burger place near the central station.
@@ -458,23 +628,17 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     <img src="https://user-images.githubusercontent.com/37120889/196003838-4445010b-f6b0-44cf-b6e7-934d55148f1d.jpg" alt="" width="400" />
     
-- [ ] **Meno Male Kungsholmen** 💸💸
+- [ ] **Taco Bar** (multiple places) 💸
 
-    The best pizza in Stockholm, and probably in Sweden.
+    Mexican fast food franchise. Don’t tell mexicans that I recommended this place, but it is good compared to the price. The places at Sergels and Gamla Stan are great.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003875-bfc137b8-9c4f-406b-b6d9-f3fc04c60be7.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/196003717-13abbbbb-e6b9-4af2-8f19-9a13697e2736.jpg" alt="" width="400" />
     
-- [ ] **Meatball for People** 💸💸💸
+- [ ] **Max** (multiple places) 💸
 
-    Great meatballs! The place is usually crowded.
+    McDonald’s? Burger King? Forget it. When in Sweden, go to a Max to grab some burgers instead! Some say they are better than those other brands. You need to decide.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003888-51bd57bd-ec12-4626-80d0-12a6ddc28feb.jpg" alt="" width="400" />
-    
-- [ ] **Aifur** 💸💸💸💸
-
-    A viking restaurant. There is singing, traditional outfit, etc. I felt it is a bit too much of a show. Overall good place, but very expensive.
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003897-d446b074-df3b-4c32-8d97-e93795bbc47b.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/196003762-9b10006d-e68b-400d-83d4-4e2f8a281d4d.jpg" alt="" width="400" />
 
 - [ ] **Brasserie Balzac** 💸💸💸
 
@@ -503,12 +667,6 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     Italian restaurant. Quite standard, they have chocolate pizza. Every Friday, they have a karaoke night.
 
     <img src="https://user-images.githubusercontent.com/37120889/196003696-734da10e-98d1-4f4f-b021-41292a5c4a86.jpg" alt="" width="400" />
-    
-- [ ] **Vapiano** (multiple places) 💸
-
-    Fake italian restaurant, cheaper-end, acceptable food.
-
-    <img src="" alt="" width="400" />
 
 
 ## Fika and treats☕
