@@ -104,15 +104,9 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
 - [ ] **Vígadó Square** 🆓
 
-    Very close to Vörösmarty Square. Take tram line 2 fom here on the way to Jászai Mari square. 
+    Very close to Vörösmarty Square. Take tram line 2 fom here on the way to Jászai Mari square. There is a great restaurant here (Víg Varjú).
 
     <img src="https://user-images.githubusercontent.com/37120889/197407390-4d40c2b5-412c-4b54-835d-d4bc091ffbf3.jpg" alt="" width="400" />
-
-- [ ] **Király street** 🆓
-    
-    A buzzing street during the night.
-
-    <img src="https://user-images.githubusercontent.com/37120889/197407648-3b18f837-a0ce-46d6-95cd-3090b836ded2.jpg" alt="" width="400" />
 
 - [ ] **Margaret Island** 🆓
 
@@ -217,14 +211,14 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
     <img src="https://user-images.githubusercontent.com/37120889/197409401-7a23c857-fff2-4821-8395-3217361903af.jpg" alt="" width="400" />
 
-- [ ] **Városliget (City Park), the Vajdahunyad Castle, and the House of Music** 🆓
+- [ ] **Városliget (City Park), the Vajdahunyad Castle** 🆓
     
     The City Park is a public park close to the center of Budapest. The Vajdahunyad Castle is in this park (it hosts an agricultural museum which I have never seen), as well as a pond in which you can rent out a boat or ice skate during winter. 
 
     The Statue of Anonymous is also in this park, which represents the author of the first written Hungarian text from the 12th century.
 
     <img src="https://user-images.githubusercontent.com/37120889/197409553-df087faf-23a0-4eda-801e-69ea9df699a7.jpg" alt="" width="400" />
-    <img src="https://user-images.githubusercontent.com/37120889/197409700-e7b20bf7-dab8-48e7-80ee-5b7f7e65e470.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197421980-f8dbb428-4796-4410-82ad-f653ac26bf31.jpg" alt="" width="400" />
 
 - [ ] **Budapest University of Technology and Economics** 🆓
 
@@ -258,7 +252,7 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
     You can travel according to the [timetable](https://www.mahartpassnave.hu/en/timetable/budapest-sightseeing-and-programe-cruises/duna-corso-sightseeing-boat/). I recommend you arrive early to have a good spot on the ship and go to the upper deck. Try to do it around [sunset](https://www.google.com/search?q=sunset+budapest).
 
     <img src="https://user-images.githubusercontent.com/37120889/197413218-31690f62-ffac-4ad6-b739-ac6847cb40fe.jpg" alt="" width="400" />
-    <img src="https://user-images.githubusercontent.com/37120889/197412888-ae54d52c-995c-47e5-814f-e6cfbb9b47f6.jpg" alt="path" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/197412888-ae54d52c-995c-47e5-814f-e6cfbb9b47f6.jpg" alt="path" width="200" />
 
 - [ ] **River Ride Budapest** 💸💸
 
@@ -284,6 +278,12 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
     <img src="https://user-images.githubusercontent.com/37120889/197418600-4d6e9c9d-2ec4-403d-9517-4944b01d2257.jpg" alt="" width="400" />
 
+- [ ] **Air Balloon in the City Park (Városliget)** 💸💸💸
+    
+    You can take an air balloon to see the city from above (~200m). A bit expensive, around 7000 HUF. More info [here](https://ligetbudapest.hu/en/renewed-varosliget/balloonfly).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197422063-f9077ab0-1c95-47b6-90d3-cecb1e3faa42.jpg" alt="" width="400" />
+
 - [ ] **Zugligeti Libegő (chairlift)** 💸
 
     Nice, far from the city centre. Opening hours are [here](https://www.bkv.hu/hu/zugligeti_libego/hu/nyitvatartas_viteldijak_megkozelithetoseg).
@@ -308,6 +308,12 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
     This is where you have 45 minutes, a painting board, and the painting equipment. And you can go wild. More info [here](https://frocskolo.hu/).
 
     <img src="https://user-images.githubusercontent.com/37120889/197407129-393acd5f-a8c7-408e-8a57-4ecf0e1d348f.jpg" alt="" width="400" />
+
+- [ ] **Minigolf at Neonis 3D** 💸💸
+
+    This is a fun indoor minigolf place. Try to book in advance. More info [here](https://neonis-blacklight-minigolf.com/en/startsite/).
+
+    <img src="https://user-images.githubusercontent.com/37120889/197422358-4d8e7d48-6d74-463e-9888-3862a2d053f6.jpg" alt="" width="400" />
 
 ### Museums and tours
 
