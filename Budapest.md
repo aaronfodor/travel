@@ -70,7 +70,7 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
 ## What to do💡
 
-### Walking and sightseeing
+### Walking and sightseeing🚶‍♀️🚶‍♂️
 
 - [ ] **Heroes' Square** 🆓
     
@@ -232,7 +232,7 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
     <img src="https://user-images.githubusercontent.com/37120889/197409852-22be67fb-1646-4447-b325-f2b40316f013.jpg" alt="" width="400" />
 
-### Activities
+### Activities🤿
 
 - [ ] **Széchenyi Baths and Pool** 💸💸
 
@@ -315,7 +315,7 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
     <img src="https://user-images.githubusercontent.com/37120889/197422358-4d8e7d48-6d74-463e-9888-3862a2d053f6.jpg" alt="" width="400" />
 
-### Museums and tours
+### Museums and tours🏛️
 
 - [ ] **Hungarian Parliament** 💸💸
 
@@ -394,7 +394,7 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
     <img src="https://user-images.githubusercontent.com/37120889/197420479-ffe306dd-d722-4d80-b14f-ebc16cee946c.jpg" alt="" width="400" />
     <img src="https://user-images.githubusercontent.com/37120889/197420535-d0bd86e7-0ecc-478f-804d-1c80e4fb73d0.jpg" alt="" width="400" />
 
-### Hidden gems
+### Hidden gems🔍
 
 - [ ] **The statue of the Great Ho-ho-ho Horgasz's Chief Worm** 🆓
 
@@ -420,7 +420,7 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
     <img src="https://user-images.githubusercontent.com/37120889/197421763-4ad00504-1322-4c3b-9121-7159a8ad0def.jpg" alt="" width="400" />
 
-- [ ] **The Garden of Philosophers** 🆓
+- [ ] **Garden of Philosophers** 🆓
 
     In a secret corner of Budapest's Gellért Hill, the world's greatest religious figures meet silently around an orb. Can you find them? Nearby you can find a striking view of the city as well as a statue of the personified Prince Buda embracing his wife, a personified Princess Pest.
 
@@ -459,175 +459,179 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
 ### Soups
 
-- [ ]  Gulyáslevel (Goulash, soup)
+- [ ]  **Gulyáslevel (Goulash soup)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365395-c0761146-4174-4e71-b050-0261b79ce92a.jpg" alt="" width="400" />
 
-- [ ]  Halászlé (Fisherman's soup)
+- [ ]  **Halászlé (Fisherman's soup)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365421-1b9a0835-f6ca-40b9-b93c-ab11a69861d4.jpg" alt="" width="400" />
 
-- [ ]  Jókai bableves (Jókai Bean Soup)
+- [ ]  **Jókai bableves (Jókai Bean Soup)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365433-99ed2021-43d1-4b27-92d5-695d23448550.jpg" alt="" width="400" />
 
-- [ ]  Marhahúsleves (Beef consommé soup)
+- [ ]  **Marhahúsleves (Beef consommé soup)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365450-a8794f69-dc87-4405-b7cb-e0248098718d.jpg" alt="" width="400" />
 
-- [ ]  Meggylevel (Sour Cherry Soup)
+- [ ]  **Meggylevel (Sour Cherry Soup)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365458-df17e61b-351d-4d81-b5a4-e731568e0ae9.jpg" alt="" width="400" />
 
 ### Main dishes
 
-- [ ]  Csirke paprikás (Chicken Paprikash)
+- [ ]  **Csirke paprikás (Chicken Paprikash)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365517-3249909c-22cf-4589-b568-b72735b530ba.jpg" alt="" width="400" />
 
-- [ ]  Lecsó (Lecho, ~Ratatouille)
+- [ ]  **Lecsó (Lecho, ~Ratatouille)**
 
     There is a version with egg, and another with meat. Eat this with bread.
 
     <img src="https://user-images.githubusercontent.com/37120889/197365576-aab23d70-99ed-46e7-af80-3b0c77a71a0f.jpg" alt="" width="400" />
 
-- [ ]  Hortobágyi húsos palacsinta (Meat Pancakes)
+- [ ]  **Hortobágyi húsos palacsinta (Meat Pancakes)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365527-4402fae8-b033-4c8e-9b80-5eac3b3e148e.jpg" alt="" width="400" />
 
-- [ ]  Töltött káposzta (Stuffed Cabbage Leaves)
+- [ ]  **Töltött káposzta (Stuffed Cabbage Leaves)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365537-1c5e0b32-8e6d-4176-a5c1-0df0c0b14fef.jpg" alt="" width="400" />
 
-- [ ]  Székelykáposzta (Sauerkraut Cabbage/goulash)
+- [ ]  **Székelykáposzta (Sauerkraut Cabbage/goulash)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365542-c11e05a8-b7ee-4601-ae61-c7ed3f8316a8.jpg" alt="" width="400" />
 
-- [ ]  Pörkölt (Meat Stew)
+- [ ]  **Pörkölt (Meat Stew)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365554-1c96b55d-95da-4014-937b-41fafa01b6cc.jpg" alt="" width="400" />
 
-- [ ]  Túrós Csusza (Pasta with Cottage Cheese and bacon)
+- [ ]  **Túrós Csusza (Pasta with Cottage Cheese and bacon)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365560-43d2ca84-2584-47b3-8ed3-9bd32245fce3.jpg" alt="" width="400" />
 
-- [ ]  Vadas
+- [ ]  **Vadas**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365638-50754159-9152-46cc-9279-b890b85c67a5.jpg" alt="" width="400" />
 
-- [ ]  Zöldborsófőzelék (Green pea stew)
+- [ ]  **Zöldborsófőzelék (Green pea stew)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365647-111a4059-b1b3-406d-af4d-176860b6f501.jpg" alt="" width="400" />
 
-- [ ]  Tökfőzelék (Summer squash stew)
+- [ ]  **Tökfőzelék (Summer squash stew)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365655-e99dfe3f-8542-45ab-8dc2-07c8ce1fbe27.jpg" alt="" width="400" />
 
-- [ ]  Zöldbabfőzelék (Green beans stew)
+- [ ]  **Zöldbabfőzelék (Green beans stew)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365667-ba7590d1-f620-4ea6-a5c8-c8ec132c735d.jpg" alt="" width="400" />
 
-- [ ]  Rakott krumpli (Layered potatoes)
+- [ ]  **Rakott krumpli (Layered potatoes)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365674-ca412a11-4706-46dc-b061-b32c1a51f7ce.jpg" alt="" width="400" />
 
-- [ ]  Lángos (Deep-Fried Flatbread)
+- [ ]  **Lángos (Deep-Fried Flatbread)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365744-c9fcd6c9-09bc-4fe0-98d7-337b5c10c120.jpg" alt="" width="400" />
 
-- [ ]  Sült kolbász and hurka (Roasted sausages)
+- [ ]  **Sült kolbász and hurka (Roasted sausages)**
 
     <img src="https://user-images.githubusercontent.com/37120889/197365781-92f0d93f-daf0-4a51-b336-e03d4c287b7b.PNG" alt="" width="400" />
 
 ### Desserts
 
-Poppy seeds are popular in some desserts and pastries. It may sound weird, but it worth a try.
+Poppy seeds are popular in some desserts and pastries, and it is great.
 
-- [ ]  Somlói galuska (Hungarian Trifle, sweet)
+- [ ]  **Somlói galuska (Hungarian Trifle, sweet)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197365845-ecfad09f-706a-47f6-846d-df4b32360b67.jpg" alt="" width="400" />
 
-- [ ]  Mákos guba (Poppy seeds bread pudding)
+- [ ]  **Mákos guba (Poppy seeds bread pudding)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197365997-6d30e6d8-94f6-4a1f-8079-97b0bf68593f.jpg" alt="" width="400" />
     
-- [ ]  Gundel pancake
+- [ ]  **Gundel pancake**
     
     <img src="https://user-images.githubusercontent.com/37120889/197365859-7d28478b-6ce8-4a98-ad81-82d418f79609.jpg" alt="" width="400" />
     
-- [ ]  Palacsinta (Hungarian crepes; usually with jam, cottage cheese, poppy seeds, or Nutella)
+- [ ]  **Palacsinta (Hungarian crepes)**
+
+    Usually filled with jam, cottage cheese, poppy seeds, or Nutella.
     
     <img src="https://user-images.githubusercontent.com/37120889/197365906-931c08be-1c86-40f1-a641-6e4541b618f2.jpg" alt="" width="400" />
 
-- [ ]  Szilvás gombóc (Plum dumplings)
+- [ ]  **Szilvás gombóc (Plum dumplings)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197365977-41ae6c42-d9bf-46a7-a4b4-7adc5d7f72ea.jpg" alt="" width="400" />
     
-- [ ]  Túrógombóc (Cottage cheese dumplings)
+- [ ]  **Túrógombóc (Cottage cheese dumplings)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197365969-0eadbaaf-8d10-4501-a5d8-1627997a7c84.jpg" alt="" width="400" />
     
-- [ ]  Aranygaluska (Yeast rolls)
+- [ ]  **Aranygaluska (Yeast rolls)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197366035-7beae426-eaff-4579-a19c-17b7de075d00.jpg" alt="" width="400" />
     
-- [ ]  Dobos torta (Dobosh cake)
+- [ ]  **Dobos torta (Dobosh cake)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197366045-b93b7578-af3c-4cd0-8c42-f98c7cfb3213.jpg" alt="" width="400" />
     
-- [ ]  Zserbószelet (Gerbeaud slice)
+- [ ]  **Zserbószelet (Gerbeaud slice)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197366058-acb1a280-3aba-44ee-a92a-3c63e5213f62.jpg" alt="" width="400" />
     
-- [ ]  Eszterházy torta (Esterházy cake)
+- [ ]  **Eszterházy torta (Esterházy cake)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197366067-735716f9-6d80-47f4-b345-37bc05c7f1e2.jpg" alt="" width="400" />
     
-- [ ]  Máglyarakás
+- [ ]  **Máglyarakás**
     
     <img src="https://user-images.githubusercontent.com/37120889/197366081-082ec266-602f-450a-9d3c-50edad880604.jpg" alt="" width="400" />
     
-- [ ]  Császármorzsa (Kaiserschmarrn)
+- [ ]  **Császármorzsa (Kaiserschmarrn)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197366145-6860cee3-de98-4355-95fb-5a0926b3ca9d.jpg" alt="" width="400" />
     
-- [ ]  Barátfüle ("friend’s ears", jam-filled dumplings)
+- [ ]  **Barátfüle ("friend’s ears", jam-filled dumplings)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197366156-6e1ab6c4-d559-4f24-ae86-734bb390561d.jpg" alt="" width="400" />
     
-- [ ]  Rákóczi túrós
+- [ ]  **Rákóczi túrós**
     
     <img src="https://user-images.githubusercontent.com/37120889/197366171-9ae58e9e-fdcf-447b-b369-b47ca12a6074.jpg" alt="" width="400" />
 
 ### Pastries
 
-- [ ]  Kürtőskalács (Chimney cake)
+- [ ]  **Kürtőskalács (Chimney cake)**
     
     <img src="https://user-images.githubusercontent.com/37120889/197366134-fa6f47db-fa32-4be4-a2e2-f9f134b87c63.jpg" alt="" width="400" />
 
-- [ ]  Rétes (usually apple, túró [~cottage cheese], poppy seeds, or jam filled)
+- [ ]  **Rétes (Strudel)**
+
+    Usually apple, túró [~cottage cheese], poppy seeds, or jam filled.
     
     <img src="https://user-images.githubusercontent.com/37120889/197365923-988ddd28-0111-42c6-b175-6712d4a876c2.jpg" alt="" width="400" />
 
-- [ ]  Krémes
-    
-    <img src="https://user-images.githubusercontent.com/37120889/197366089-b6fe6f7b-c8ac-43c3-8890-493df4483f5c.jpg" alt="" width="400" />
-
-- [ ]  Kakaós csiga (chocolate bun)
-    
-    <img src="https://user-images.githubusercontent.com/37120889/197366117-2f2806a2-8efe-4e75-89b8-da66698e9344.jpg" alt="" width="400" />
-
-- [ ]  Tepertős pogácsa (Hungarian savoury scones)
-    
-    <img src="https://user-images.githubusercontent.com/37120889/197366236-bb9e1c9c-4d5d-4586-83b1-e4fc25ec36e2.jpg" alt="" width="400" />
-
-- [ ]  Bejgli (Poppy seed roll or walnut roll)
+- [ ]  **Bejgli (Poppy seed roll or walnut roll)**
 
     Popular at Christmas. Many families bake it for Christmas.
     
     <img src="https://user-images.githubusercontent.com/37120889/197366388-8fbea4db-fed0-4045-a914-0bc7ba995405.jpg" alt="" width="400" />
 
-- [ ]  Kifli 
+- [ ]  **Kakaós csiga (chocolate bun)**
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197366117-2f2806a2-8efe-4e75-89b8-da66698e9344.jpg" alt="" width="400" />
+
+- [ ]  **Krémes**
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197366089-b6fe6f7b-c8ac-43c3-8890-493df4483f5c.jpg" alt="" width="400" />
+
+- [ ]  **Tepertős pogácsa (Hungarian savoury scones)**
+    
+    <img src="https://user-images.githubusercontent.com/37120889/197366236-bb9e1c9c-4d5d-4586-83b1-e4fc25ec36e2.jpg" alt="" width="400" />
+
+- [ ]  **Kifli**
 
     A traditional yeast bread roll that is rolled and formed into a crescent before baking. No filling, it is just a specific type of bread.
     
@@ -635,19 +639,19 @@ Poppy seeds are popular in some desserts and pastries. It may sound weird, but i
 
 ### Drinks
 
-- [ ]  Pálinka
+- [ ]  **Pálinka**
 
     Pálinka is a fruit spirit in Eastern and Central Europe with origins in Carpathian Mountains basin, more exactly known under several names, and invented in the Middle Ages. Strong alcoholic drink, around 40-50 %.
     
     <img src="https://user-images.githubusercontent.com/37120889/197401707-3612a5f1-45a2-4265-b57b-72a0edf3128e.jpg" alt="" width="400" />
 
-- [ ]  Tokaji aszú, Tokaji szamorodni
+- [ ]  **Tokaji aszú, Tokaji szamorodni**
 
     Tokaji aszú is a dessert wine produced in the Tokaj. Older vintages turning darker shades of amber as they age. Szamorodni is another variety of wine produced in the Tokaj wine region.
     
     <img src="https://user-images.githubusercontent.com/37120889/197401652-5a528413-8d38-4c1e-aa1f-108d597ea1a0.jpg" alt="" width="400" />
 
-- [ ]  Unicum
+- [ ]  **Unicum**
 
     Unicum is a Hungarian herbal liqueur or bitters, drunk as a digestif and apéritif. The liqueur was created in 1790 and is today produced by Zwack according to a secret formula of more than forty herbs; the drink is aged in oak casks. Not too good.
     
@@ -655,19 +659,19 @@ Poppy seeds are popular in some desserts and pastries. It may sound weird, but i
 
 ### Other
 
-- [ ]  Túró Rudi (cottage cheese with chocolate shell)
+- [ ]  **Túró Rudi (cottage cheese with chocolate shell)**
 
     Popular in Hungary. It needs cooling, so not ideal to buy as a souvenir. But you can find it in the airport.
     
     <img src="https://user-images.githubusercontent.com/37120889/197366179-b2b11e05-c4cb-42a6-979e-058dd87d079d.jpg" alt="" width="400" />
 
-- [ ] PICK Téliszalámi (winter salami)
+- [ ] **PICK Téliszalámi (winter salami)**
 
     Winter salami (Hungarian: téliszalámi) is a type of salami produced according to a centuries-old tradition. Made from Mangalitsa pork and spices (white pepper, allspice, and others), winter salami is cured in cold air and smoked slowly. A unique noble mold is formed on the casing surface during the dry ripening process. Buy it at the butcher, not in souvenir shops.
 
     <img src="https://user-images.githubusercontent.com/37120889/197403157-89433d8d-d3b5-460e-9989-932e7ab6a89f.jpg" alt="" width="400" />
 
-- [ ]  Szamos marcipán
+- [ ]  **Szamos marcipán**
 
     Szamos is a Hungarian manufacture from the 1930s making marzipan (consisting primarily of sugar, honey, and almond meal). Can be a good souvenir. You can find their shops in numerous shopping malls.
     
@@ -675,26 +679,26 @@ Poppy seeds are popular in some desserts and pastries. It may sound weird, but i
     <img src="https://user-images.githubusercontent.com/37120889/197390767-78d730d0-a005-45f9-8763-4f551a1397eb.jpg" alt="" width="134" />
     <img src="https://user-images.githubusercontent.com/37120889/197390774-9e29d5bb-1d96-4457-bb18-b9c80f3977e4.jpg" alt="" width="134" />
 
-- [ ]  Stühmer chocolates
+- [ ]  **Stühmer chocolates**
 
     A chocolate factory from 1868. They are primarily famous for the szaloncukor. I recommend their szilvás betyár (dried plum with winey chocolate cream). Can be a good souvenir. You can find their shops in numerous shopping malls.
     
     <img src="https://user-images.githubusercontent.com/37120889/197391171-a6168b32-d4f6-42f0-a67f-d3e35ceb802b.jpg" alt="" width="200" />
     <img src="https://user-images.githubusercontent.com/37120889/197391189-f17d0af5-44b8-4d63-8a39-344d9e1987c9.png" alt="" width="200" />
 
-- [ ] Fűszerpaprika (paprika)
+- [ ] **Fűszerpaprika (paprika)**
 
     Hungarian paprika is made from peppers that are harvested and then sorted, toasted, and blended to create different varieties. All Hungarian paprikas have some degree of rich, sweet red pepper flavor, but they range in pungency and heat. Buy them in grocery stores (you can find all of them in Tesco), not in souvenir shops. What I recommend: **Kalocsai fűszerpaprika őrlemény**, **Szegedi őrölt paprika**, or **Lacikonyha édesnemes fűszerpaprika**.
 
     <img src="https://user-images.githubusercontent.com/37120889/197403641-7eeb2025-ac6b-4fad-8b21-4589f77f1709.jpg" alt="" width="400" />
 
-- [ ] Coffee beans from Cafe Frei
+- [ ] **Coffee beans from Cafe Frei**
 
     Cafe Frei sells coffee beans on a good price, and this is something Hungarian. Their roasted nut coffee from Rome (Római mogyoró kávé) is very good, but they also have other alternatives. You can ask them to grind the coffee beans for you. They also sell the Nespresso compatible capsules. You can find a Cafe Frei at the Budapest airport and buy them there.
 
     <img src="https://user-images.githubusercontent.com/37120889/197361685-c406d94e-0891-4ac1-86c5-157a40fe534c.PNG" alt="" width="400" />
 
-- [ ]  Szaloncukor
+- [ ]  **Szaloncukor**
 
     A type of sweet traditionally associated with Christmas in Hungary. People hang them on their Christmas trees.
     

@@ -74,7 +74,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 ## What to do💡
 
-### Walking and sightseeing
+### Walking and sightseeing🚶‍♀️🚶‍♂️
 
 - [ ] **Gamla Stan (with Stortorget and Mårten Trotzigs Gränd)** 🆓
 
@@ -102,7 +102,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     
     <img src="https://user-images.githubusercontent.com/37120889/196001079-02d053ab-7688-46f9-98c8-246eb3e5e584.jpg" alt="Drottninggatan" width="400" />
     
-- [ ] **Södermalm (with Monteliusvagen)** 🆓
+- [ ] **Södermalm with Monteliusvagen** 🆓
 
     This is a huge island near central Stockholm, with nice areas and wonderful lookouts, especially during sunset.
     
@@ -166,11 +166,11 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 - [ ] **Lappis** 🆓
 
-    Lappis is a nice student area. It is close to the nature, and has great surroundings to walk. There is a Japanese pond and a botanical garden nearby. 
+    Lappis is a nice student area with a nice beach. It is close to the nature, and has great surroundings to walk. There is a Japanese pond and a botanical garden nearby.
     
     <img src="https://user-images.githubusercontent.com/37120889/196002676-47ba3124-4f66-4edc-9725-d7d32a4e8b1c.jpg" alt="" width="400" />
     
-### Activities
+### Activities🤿
 
 - [ ] **Spotify HQ visit** 🆓
 
@@ -263,7 +263,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     
     <img src="https://user-images.githubusercontent.com/37120889/196819471-a679dfa5-5436-4791-b3f7-6593274665d5.jpg" alt="" width="400" />
     
-### Museums and tours
+### Museums and tours🏛️
 
 - [ ] **Vasamuseet** 190 SEK
 
@@ -363,7 +363,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     <img src="https://user-images.githubusercontent.com/37120889/196003175-d577a285-45a6-42ce-ba96-dff96b62fed0.jpg" alt="" width="400" />
 
 
-### Hidden gems
+### Hidden gems🔍
 
 - [ ] **Humor skulptur**
 
@@ -604,6 +604,18 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     <img src="https://user-images.githubusercontent.com/37120889/196003875-bfc137b8-9c4f-406b-b6d9-f3fc04c60be7.jpg" alt="" width="400" />
 
+- [ ] **Brasserie Balzac** 💸💸💸
+
+    A French-European restaurant. Their kanelbullar is very good.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003951-cbcee32c-1332-4ac5-b385-4d3e1df3cbd7.jpg" alt="" width="400" />
+
+- [ ] **Restaurang Allegrine** 💸💸💸💸💸
+
+    A French restaurant. Fine-dining experience, very-very expensive. You can spend 2000 SEK per person for a dinner with 8 courses. Their Omlette Norvégiene is amazing, and in overall a great food experience.
+
+    <img src="https://user-images.githubusercontent.com/37120889/196003975-6d90d1c5-a814-4d74-b6f9-729c0634e368.jpg" alt="" width="400" />
+
 - [ ] **Vigårda Vasagatan** 💸💸
 
     A nice burger place near the central station.
@@ -639,18 +651,6 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     McDonald’s? Burger King? Forget it. When in Sweden, go to a Max to grab some burgers instead! Some say they are better than those other brands. You need to decide.
 
     <img src="https://user-images.githubusercontent.com/37120889/196003762-9b10006d-e68b-400d-83d4-4e2f8a281d4d.jpg" alt="" width="400" />
-
-- [ ] **Brasserie Balzac** 💸💸💸
-
-    A French-European restaurant. Their kanelbullar is very good.
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003951-cbcee32c-1332-4ac5-b385-4d3e1df3cbd7.jpg" alt="" width="400" />
-
-- [ ] **Restaurang Allegrine** 💸💸💸💸💸
-
-    A French restaurant. Fine-dining experience, but very-very expensive. You can spend 2000 SEK per person for a dinner with 8 courses. Their Omlette Norvégiene is amazing, and it is a great experience.
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003975-6d90d1c5-a814-4d74-b6f9-729c0634e368.jpg" alt="" width="400" />
 
 - [ ] **IKEA Gallerian** 💸
 

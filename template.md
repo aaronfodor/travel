@@ -59,7 +59,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 ## What to do💡
 
-### Walking and sightseeing
+### Walking and sightseeing🚶‍♀️🚶‍♂️
 
 - [ ] **Something free** 🆓
     
@@ -73,7 +73,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
 
-### Activities
+### Activities🤿
 
 - [ ] **Something free** 🆓
 
@@ -87,7 +87,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
     
-### Museums and tours
+### Museums and tours🏛️
 
 - [ ] **Something free** 🆓
 
@@ -101,7 +101,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     <img src="https://user-images.githubusercontent.com/37120889/195998432-88dc043b-dca5-4481-b8c1-ea92f71c811a.png" alt="" width="400" />
 
-### Hidden gems
+### Hidden gems🔍
 
 - [ ] **Something free** 🆓
 
