@@ -9,9 +9,9 @@
 
 # Stockholm
 
-Stockholm is a beautiful Scandinavian city with roughly 1 million inhabitants. It is closely connected to nature and water. 3 days is the perfect time to see the city's highlights. Go there in the summer (June-July) to enjoy the very long sunny days with mild temperatures, or in December to experience a dark but cozy city with snow and Christmas vibes.
-
 Last updated: 30/10/2022
+
+Stockholm is a beautiful Scandinavian city with roughly 1 million inhabitants. It is closely connected to nature and water. 3 days is the perfect time to see the city's highlights. Go there in the summer (June-July) to enjoy the very long sunny days with mild temperatures, or in December to experience a dark but cozy city with snow and Christmas vibes.
 
 ## [Travel Map](https://www.google.com/maps/d/embed?mid=1t0eUgRGVS-4g6m0dJgfpUyn4jzGe_Oo&ehbc=2E312F)🗺️
 

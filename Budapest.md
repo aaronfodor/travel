@@ -451,7 +451,7 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
     <img src="https://user-images.githubusercontent.com/37120889/197393098-91edd8be-ca30-4699-b9f5-d6126bb16b82.jpg" alt="" width="400" />
     <img src="https://user-images.githubusercontent.com/37120889/197393292-a177c9fa-34fe-4005-a838-163c131843e4.jpg" alt="" width="400" />
     <img src="https://user-images.githubusercontent.com/37120889/197393116-bf2b94f4-35d7-4490-9ee3-ab27eeb5a490.jpg" alt="" width="400" />
-    <img src="https://user-images.githubusercontent.com/37120889/197393119-cfb8f014-b3d7-4933-a507-5be98bb64db0.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198883304-885a56ae-a083-4c94-a04d-9319d31664e1.jpg" alt="" width="400" />
 
 - [ ] **St. Stephen's Day** (20th of August)
     
