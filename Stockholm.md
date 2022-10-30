@@ -9,7 +9,9 @@
 
 # Stockholm
 
-Last updated: 22/10/2022
+Stockholm is a beautiful Scandinavian city with roughly 1 million inhabitants. It is closely connected to nature and water. 3 days is the perfect time to see the city's highlights. Go there in the summer (June-July) to enjoy the very long sunny days with mild temperatures, or in December to experience a dark but cozy city with snow and Christmas vibes.
+
+Last updated: 30/10/2022
 
 ## [Travel Map](https://www.google.com/maps/d/embed?mid=1t0eUgRGVS-4g6m0dJgfpUyn4jzGe_Oo&ehbc=2E312F)🗺️
 
@@ -54,13 +56,13 @@ T-Centralen is the center of the city, you can reach anywhere from there easily.
 <img src="https://user-images.githubusercontent.com/37120889/195999721-2626066c-b81f-41a0-abed-93cfb7705710.jpg" alt="public transport system" width="800" />
 
 
-## Public Transport alternatives🚴‍♀️
+## Transportation alternatives🚴‍♀️
 
 The inner city has many attractions within walking distance. If you occasionally want to go to the outer suburbs, I recommend you buy single tickets (valid for 90 minutes) and walk otherwise.
 
 Riding a bike is one of the best absolute best ways to experience Stockholm. Stockholm is very biker friendly, you can reach anywhere, weather can be the only constraint. I see Stockholm eBikes quite often. An article of bike rental services [here](https://viewstockholm.com/rent-bike-stockholm/).
 
-<img src="https://user-images.githubusercontent.com/37120889/197358798-c54236e9-950f-4b09-be3a-6c2287671cb0.jpg" alt="" width="400" />
+<img src="https://user-images.githubusercontent.com/37120889/198880478-cd832129-f1f6-45d8-8432-8a30854e50c9.jpg" alt="" width="400" />
 
 
 ## Car rental/carsharing🚗
@@ -69,7 +71,7 @@ If you stay only in Stockholm, you don't really need a car. The public transport
 
 If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrning), which is a petrol station franchise also renting out cars.
 
-<img src="https://user-images.githubusercontent.com/37120889/197358891-87afc0dd-de94-4c18-9db7-9905fe576fb6.jpg" alt="" width="400" />
+<img src="https://user-images.githubusercontent.com/37120889/198880433-b3b74c85-afda-4628-9772-406e884e4164.png" alt="" width="400" />
 
 
 ## What to do💡
@@ -118,13 +120,13 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     One of my favourite places in the city. It is a very nice island with tons of museums. Apart from them, I usually come here to the park walk around and enjoy the sun. It used to be a hunting venue for the royal family.
     
-    <img src="https://user-images.githubusercontent.com/37120889/196001452-5345e4ab-84d9-411a-81f6-9b2a38045a5e.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198877994-77c7ef06-ab9c-4459-85fa-7226cc12e292.jpg" alt="" width="400" />
     
 - [ ] **Kungliga Tekniska Högskolan (KTH Royal Institute of Technology)** 🆓
 
     This is the Technical University where I studied. I recommend to visit the main campus, the garden in front of it, and the library. The libary is open during weekdays usually, but check the [opening hours](https://www.kth.se/en/biblioteket).
     
-    <img src="https://user-images.githubusercontent.com/37120889/196001504-82d8f707-5b8a-4a44-ae9f-97f15f1b7cbb.jpg" alt="The main campus" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878042-01dc7289-ee8d-42a5-af72-987217455ea1.jpg" alt="The main campus" width="400" />
 
     <img src="https://user-images.githubusercontent.com/37120889/196001592-85eb95d3-5b13-42f3-9b4a-df79affe3d70.jpg" alt="The library" width="400" />
     
@@ -144,7 +146,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     A popular meeting place in Stockholm. This is the area where Avicii grew up. Svampen means mushroom.
     
-    <img src="https://user-images.githubusercontent.com/37120889/196001724-f2e18358-5b2c-4fe6-be37-ded56ae6a018.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878120-ab4021fd-3d67-4fe9-a156-39947f31db3b.jpg" alt="" width="400" />
 
 - [ ] **Birthplace of the Stockholm Syndrome** 🆓
 
@@ -152,17 +154,11 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     <img src="https://user-images.githubusercontent.com/37120889/197397642-290bea74-78ce-45d0-81ad-cb367a3e1bbe.jpg" alt="" width="400" />
 
-- [ ] **Stockholms Geographical Midpoint** 🆓
-
-    People refer T-Centralen as the center of Stockholm. To find the actual midpoint, take the metro (green line) to Alvik and walk from there. It is roughly 3 minutes from there.
-
-    <img src="https://user-images.githubusercontent.com/37120889/197395918-5bfd10b4-4451-4945-8bd7-b824e6bb3e31.jpg" alt="" width="400" />
-
 - [ ] **Nobels spränggropar (Nobel's Blasting Bunkers)** 🆓
 
     Vinterviken was once the location of the world’s first commercial nitroglycerine factory and the basis for Alfred Nobel’s success ([story](https://user-images.githubusercontent.com/37120889/197397826-d75b76cc-61e3-45dc-81da-7506533e53e8.jpg)). Vinterviken is a 15-20 minute walk away from the metro station Aspudden on the red line.
 
-    <img src="https://user-images.githubusercontent.com/37120889/197400747-7d2e1fe9-a753-4964-ab25-0ef43b0e7625.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878086-8c53d52d-aca3-4390-8969-6839823dc72e.jpg" alt="" width="400" />
 
 - [ ] **Lappis** 🆓
 
@@ -176,13 +172,13 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     The HQ is in Stockholm. A Spotify employee can have visitors if the office. There are games (pool, table tennis, shuffleboard, darts), a karaoke and a gaming room. The view of Stockholm is really nice from there.
     
-    <img src="https://user-images.githubusercontent.com/37120889/196001905-9cfb10d0-0bcb-4448-899a-c8fbb553de33.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878152-ee87f4d4-8e14-41c5-9c50-c0e821981783.jpg" alt="" width="400" />
     
-- [ ] **Gröna Lund** around 500 SEK (prices vary)
+- [ ] **Gröna Lund** around 450 SEK (prices vary)
 
     An amazing amusement park. They offer half day tickets (Ticket to Ride), almost every ride is for free. The ticket is expensive, but personally I liked this place very much. They have a night option too (Night Rider) for even higher prices. They have seasonal events as well, like Oktoberfest or Halloween. [Link](https://www.google.com/search?q=gr%C3%B6na+lund)
     
-    <img src="https://user-images.githubusercontent.com/37120889/196002171-7f369916-8012-483a-ba0b-9913d687b6ad.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878185-0cdd3e1b-fae3-4fb8-bc07-39fa40af1d27.jpg" alt="" width="400" />
     
 - [ ] **Waxholmsbolaget (Vaxholm ferry)** 🆓
 
@@ -196,13 +192,13 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     Stockholm has numerous great hiking venues all around the city. Tyresta is a National Park having many hiking trails starting from 5 km to even 30 km. I hiked on the short trail, it took me around 2 hours. This is definitely a (half)day activity as it takes around 1-1,5 hour to get there by public transport. [Link](https://www.google.com/search?q=gr%C3%B6na+lund)
     
-    <img src="https://user-images.githubusercontent.com/37120889/196002320-a8d463f1-4992-4285-88ee-8a46e31250ce.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878237-469ed87d-a1ca-49ad-ba90-600feb12f6dd.jpg" alt="" width="400" />
 
     <img src="https://user-images.githubusercontent.com/37120889/196002345-16ceeb0d-8070-4b99-8545-c9fcdce9cacc.jpg" alt="" width="400" />
 
 - [ ] **Hiking in Lidingö (Långängen-Elfviks naturreservat, Bäverhyddan)** 🆓
 
-    Stockholm has numerous great hiking venues all around the city. Lidingö is an island on the North-East with beautiful nature and hiking trails. There is a good fika place in the forest called Långängens Gård.
+    Lidingö is an island on the North-East with beautiful nature and hiking trails. There is a good fika place in the forest called Långängens Gård.
     
     <img src="https://user-images.githubusercontent.com/37120889/197342901-7b8db9cf-9ef6-4573-a7f9-fe7fb63aa697.jpg" alt="" width="400" />
 
@@ -228,7 +224,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     The Stockholm Tunelbana (metro) has more than a hundred stations, and at least ninety of them have art installations as part of their decoration. Traveling by subway is like being in a personal, mobile art gallery that allows to experience the beauty of mosaics, paintings, installations, and sculptures. Admission costs nothing except for the train ticket. I definitely recommend exploring it on a dark or cold day. 
     
-    The following stations are unique: **Thorildsplan**, **Tensta**, **Tekniska Högskolan**, **T-Centralen** (the blue line part), **Stadion**, **Solna Strand**, **Solna Centrum**, **Östermalmstorg**, **Mörby Centrum**, **Kungsträdgården**, **Hötorget**, **Hallonbergen**, **Citybanan Odenplan**, **Bagarmossen**, and **Universitetet**.
+    The following stations are interesting: **Thorildsplan**, **Tensta**, **Tekniska Högskolan**, **T-Centralen** (blue line part), **Stadion**, **Solna Strand**, **Solna Centrum**, **Östermalmstorg**, **Mörby Centrum**, **Kungsträdgården**, **Hötorget**, **Hallonbergen**, **Citybanan Odenplan**, **Bagarmossen**, and **Universitetet**.
     
     <img src="https://user-images.githubusercontent.com/37120889/197399894-3f827808-0e60-4dba-8f79-706dac02dcc9.jpg" alt="" width="400" />
     <img src="https://user-images.githubusercontent.com/37120889/197399898-ae95c30e-2bf0-4b48-a158-be9ef411d705.jpg" alt="" width="400" />
@@ -241,9 +237,9 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 - [ ] **Sigtuna** 🆓
 
-    A cozy little viking village around 1-1,5 hour from Stockholm by public transport (bus). This was the old capital of Sweden, which lost its influence after Stockholm started to collect tax from passing ships between Sigtuna and the sea. The city does not have much things to show in general. During winter, it has a nice charm, the sunsets are beautiful, and people usually do hiking or ice-skating on the frozen sea. I bought my [Tomte](https://sv.wikipedia.org/wiki/Tomte) here.
+    A cozy little viking village around 1-1,5 hour from Stockholm by public transport (bus). This was the old capital of Sweden, which lost its influence after Stockholm started to collect tax from passing ships between Sigtuna and the sea. The city does not have much things to show in general. During winter, it has a nice charm, the sunsets are beautiful, and people usually do hiking or ice-skating on the frozen sea.
     
-    <img src="https://user-images.githubusercontent.com/37120889/196002556-c3cf3ebd-f35e-437a-a548-b90400104cd3.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878405-6238e098-c97f-4813-8a7a-4d39b217f5fd.jpg" alt="" width="400" />
     
 - [ ] **Fox in a Box** around 350 SEK
 
@@ -255,7 +251,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     A SPA and conference venue in the woods with a hotel and a restaurant. It is located in the archipelago (30 minutes from Stockholm by car). I don't know if there is public tansport there. A little bit pricey, but the atmosphere is nice. You can go to the sauna, enjoy the outdoor pool, or dip into the sea. [Link](https://djuronaset.com)
     
-    <img src="https://user-images.githubusercontent.com/37120889/196002727-e5a576be-1fca-4b1f-8e09-de6fbface7b6.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878440-5d1ea574-19d0-4dbe-9b4e-3d85e3399745.jpg" alt="" width="400" />
 
 - [ ] **Auora hunting** 🆓
 
@@ -311,13 +307,13 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     It is a photo art related museum. A bit small, but I liked it. [Link](https://www.google.com/search?q=fotografiska)
     
-    <img src="https://user-images.githubusercontent.com/37120889/196002985-f9efc32e-0d41-4959-b09f-944722f5fac4.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878471-81448bcf-1cba-4173-94d0-5222b1e9b5d7.jpg" alt="" width="400" />
     
 - [ ] **Medeltidsmuseet** 🆓
 
     Medieval Museum, shows the origins and the story of the Medieval Stockholm. Nice to visit! [Link](https://www.google.com/search?q=medieval+museum+stockholm)
     
-    <img src="https://user-images.githubusercontent.com/37120889/196002995-6064bc7d-502c-4c63-9d25-e27c6f31293d.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878511-97379c9c-e285-49db-b50f-00d7359d334a.jpg" alt="" width="400" />
     
 - [ ] **Abba museum** 379 SEK
 
@@ -341,20 +337,20 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     I have never been there, it is more of geology and natural history related museum. [Link](https://www.google.com/search?q=naturhistoriska+riksmuseet)
     
-    <img src="https://user-images.githubusercontent.com/37120889/196003128-cc091f06-91d4-4ebb-bc7a-4e349eed45d6.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878592-654bafb4-7db4-4c15-9338-68ef41bf6ffb.PNG" alt="" width="400" />
 
 - [ ] **Stockholm Globe / Avicii Arena**
 
     Avicii Arena, originally known as Stockholm Globe Arena, but commonly referred to in Swedish as Globen, is an indoor arena located in Stockholm Globe City. It holds the place as the world’s largest spherical building. They host cultural events and concerts. [SkyView](https://aviciiarena.se/skyview/) is a glass gondola that rides along the outside of the Globe. I have never tried.
     
-    <img src="https://user-images.githubusercontent.com/37120889/197398439-b07b80b0-6228-4a1f-8c4c-4ea0e43ad879.jpg" alt="" width="400" />
-    <img src="https://user-images.githubusercontent.com/37120889/197398758-0e2ca511-83a2-48b1-95b8-ea4bd91ed0f7.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878648-e2e4c095-746a-4008-bcae-db8b9a66b635.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878664-4814b6bc-d167-4fbe-8501-70855f140450.jpg" alt="" width="400" />
     
 - [ ] **Moderna museet** 🆓 with 💸 parts
 
     I have been there and I did not like that much, but my friends enjoyed this. It has modern art-related exhibitions. There are a few extra exhibitions inside for what you need to pay extra fee. [Link](https://www.google.com/search?q=moderna+museet)
     
-    <img src="https://user-images.githubusercontent.com/37120889/196003154-204177af-73e4-4366-b805-a084a4233c32.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878701-d7573752-e723-4bad-b896-df91384cb0db.jpg" alt="" width="400" />
     
 - [ ] **Paradox Museum** 195 SEK
 
@@ -377,7 +373,13 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     Apart from all the practical jokes you can play here, it's amusing to see people look around with a confused face when they walk alone and suddenly hear other people talking, their voices carrying as if they were right next to them. 
 
-    <img src="https://user-images.githubusercontent.com/37120889/197395259-1cc1f736-25f5-4c5d-bd44-c56961840f60.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878742-a0cf5dd6-24b9-4e8d-9209-b158c569c376.jpg" alt="" width="400" />
+
+- [ ] **Stockholms Geographical Midpoint** 🆓
+
+    People refer T-Centralen as the center of Stockholm. To find the actual midpoint, take the metro (green line) to Alvik and walk from there. It is roughly 3 minutes from there.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197395918-5bfd10b4-4451-4945-8bd7-b824e6bb3e31.jpg" alt="" width="400" />
 
 - [ ] **Sweden Solar System**
 
@@ -385,7 +387,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     The sun is represented by the Globe Arena in Stockholm, the largest spherical building in the world. The planets, all appropriately scaled, are all around Stockholm and its suburbs. Jupiter (diameter 7.3 m) is at the Arlanda Airport, Saturn is in Uppsala, and Pluto in Delsbo, 300 km from the Globe Arena. At each planet, a small exhibit provides information about astronomy and the mythological figure after whom each planet is named.
 
-    <img src="https://user-images.githubusercontent.com/37120889/197395779-f45ba7ca-494f-47da-8a2d-36826cd4cdbd.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198878783-d17d8b96-23ea-470c-a5ef-11310322223b.png" alt="" width="400" />
 
 - [ ] **Stockholm Metro Ventilation Art** 
 
@@ -393,6 +395,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     
     The trains are still being phased in and drive irregularly, your best chance is to find on one the red line. You will need a train ticket to board the metro. 
 
+    <img src="https://user-images.githubusercontent.com/37120889/198878824-a33eaa5b-c956-4ba7-88bc-ef860d791ac8.jpg" alt="" width="400" />
     <img src="https://user-images.githubusercontent.com/37120889/197396118-11706714-548d-463d-9949-23f6d81cf586.jpg" alt="" width="400" />
 
 - [ ] **Lappis Scream**
@@ -591,66 +594,84 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
     Great meatballs! The place is usually crowded.
 
     <img src="https://user-images.githubusercontent.com/37120889/196003888-51bd57bd-ec12-4626-80d0-12a6ddc28feb.jpg" alt="" width="400" />
+
+ - [ ] **Mom's Kitchen Nybrogatan** 💸💸
+
+    Reasonably priced great Swedish food.
+
+    <img src="https://user-images.githubusercontent.com/37120889/198880545-0e73afd3-cf86-4a3b-a558-654d6eb5ac8f.jpg" alt="" width="400" />
+
+ - [ ] **K25** 💸💸
+
+    An urban food court a touch above the ordinary. You will find high-quality, inexpensive dishes from all over the world. A popular lunch place among office workers in central Stockholm.
+
+    <img src="https://user-images.githubusercontent.com/37120889/198880711-3c49c6be-8a6a-4086-956d-84438f95b513.jpg" alt="" width="400" />
     
 - [ ] **Aifur** 💸💸💸💸
 
     A viking restaurant. There is singing, traditional outfit, etc. I felt it is a bit too much of a show. Overall good place, but very expensive.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003897-d446b074-df3b-4c32-8d97-e93795bbc47b.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198880791-b4f66c64-d087-47d7-902a-33fe78f10b6b.jpg" alt="" width="400" />
 
  - [ ] **Meno Male Kungsholmen** 💸💸
 
     The best pizza in Stockholm, and probably in Sweden.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003875-bfc137b8-9c4f-406b-b6d9-f3fc04c60be7.jpg" alt="" width="400" />
-
-- [ ] **Brasserie Balzac** 💸💸💸
-
-    A French-European restaurant. Their kanelbullar is very good.
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003951-cbcee32c-1332-4ac5-b385-4d3e1df3cbd7.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198880831-c379e2c0-a6f3-4598-835e-96cac4107731.jpg" alt="" width="400" />
 
 - [ ] **Restaurang Allegrine** 💸💸💸💸💸
 
     A French restaurant. Fine-dining experience, very-very expensive. You can spend 2000 SEK per person for a dinner with 8 courses. Their Omlette Norvégiene is amazing, and in overall a great food experience.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003975-6d90d1c5-a814-4d74-b6f9-729c0634e368.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198881383-dd81573e-b53b-4b8a-afb4-7f589c4e64b5.jpg" alt="" width="400" />
 
 - [ ] **Vigårda Vasagatan** 💸💸
 
     A nice burger place near the central station.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003786-8ed49764-e435-49fa-ba67-6722628aca23.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198881340-0e6f3b48-7252-4189-a33c-089f526dee9b.jpg" alt="" width="400" />
     
-- [ ] **La Neta City** (multiple places) 💸💸
-
-    Very good mexican food.
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003859-8652fab1-d5c4-49ac-982b-139caf8efe35.jpg" alt="" width="400" />
-
-- [ ] **La Neta Bar** (multiple places) 💸💸
-
-    Very good mexican food.
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003852-a3944e5e-b649-4fc4-b518-a22a0bbc8ff3.jpg" alt="" width="400" />
-
-- [ ] **La Neta Söder** (multiple places) 💸💸
+- [ ] **La Neta City** 💸💸
 
     Good mexican food.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003838-4445010b-f6b0-44cf-b6e7-934d55148f1d.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198881066-7d8baefb-2738-49c3-8ab1-9ae902e5ab6e.PNG" alt="" width="400" />
+
+- [ ] **La Neta Bar** 💸💸
+
+    Good mexican food.
+
+    <img src="https://user-images.githubusercontent.com/37120889/198881004-51c50f8b-287c-42fb-8be4-3dea699a5a8b.jpg" alt="" width="400" />
+
+- [ ] **La Neta Söder** 💸💸
+
+    Good mexican food.
+
+    <img src="https://user-images.githubusercontent.com/37120889/198880882-257827d3-f2ce-4696-a16c-84452dec0d21.jpg" alt="" width="400" />
+
+- [ ] **Stockholms Gästabud** 💸💸
+
+    Restaurant serving hearty, traditional home cooking in snug surroundings.
+
+    <img src="https://user-images.githubusercontent.com/37120889/198881637-1e171bb1-b988-4af5-b739-1fe014655406.jpg" alt="" width="400" />
+
+- [ ] **Brasserie Balzac** 💸💸💸
+
+    A French-European restaurant. Their kanelbullar is very good.
+
+    <img src="https://user-images.githubusercontent.com/37120889/198881416-b9f23428-c3b5-4722-b9a5-827a01614c61.jpg" alt="" width="400" />
     
 - [ ] **Taco Bar** (multiple places) 💸
 
-    Mexican fast food franchise. Don’t tell mexicans that I recommended this place, but it is good compared to the price. The places at Sergels and Gamla Stan are great.
+    Mexican fast food franchise. Don’t tell Mexicans that I recommended this place, but it is good compared to the price. The places at Sergels and Gamla Stan are great.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003717-13abbbbb-e6b9-4af2-8f19-9a13697e2736.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198881103-24fe41b9-286e-4df5-9bf9-efc384852068.jpg" alt="" width="400" />
     
-- [ ] **Max** (multiple places) 💸
+- [ ] **Max Burgers** (multiple places) 💸
 
     McDonald’s? Burger King? Forget it. When in Sweden, go to a Max to grab some burgers instead! Some say they are better than those other brands. You need to decide.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003762-9b10006d-e68b-400d-83d4-4e2f8a281d4d.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198881215-28a8ad6a-4414-4f22-8000-e963ab1ae499.jpg" alt="" width="400" />
 
 - [ ] **IKEA Gallerian** 💸
 
@@ -660,13 +681,13 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     Italian pizzeria with low prices and huge pizzas.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003676-38d78966-26f9-42f8-ab2f-0f422b73f855.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198881258-e0fb6184-1144-496d-9f75-c7dc3f22cf00.jpg" alt="" width="400" />
     
 - [ ] **Professorn** 💸
 
     Italian restaurant. Quite standard, they have chocolate pizza. Every Friday, they have a karaoke night.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003696-734da10e-98d1-4f4f-b021-41292a5c4a86.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198881282-8a342253-536d-4a3f-9b9b-d2ff35a6d249.jpg" alt="" width="400" />
 
 
 ## Fika and treats☕
@@ -715,7 +736,7 @@ Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout
 
     <img src="https://user-images.githubusercontent.com/37120889/197342496-622e16ee-b55b-4823-8078-fc449c0ac1c0.jpg" alt="" width="400" />
 
-- [ ] **Mr. Churros** (multiple places) 💸
+- [ ] **Mr. Churros** (multiple places) 💸💸
 
     Good churros, there is a place near the city center (Hamngatan 31) and in Gamla Stan.
 
@@ -753,12 +774,6 @@ Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout
     Offbeat, compact hideaway offering drinks & food, plus an interior, bars & glasses carved from ice. Never been there, but on my bucket list, as a friend told me it is great. [Link](https://hotelcstockholm.se/icebar-stockholm-by-icehotel/)
     
     <img src="https://user-images.githubusercontent.com/37120889/196004116-760927eb-9167-4811-8f91-0e3cb171191e.jpg" alt="" width="400" />
-    
-- [ ] **Professorn** 💸
-
-    This restaurant turns into a bar at night, and they have karaoke each Friday from 9 PM. Many students go there. [Link](http://restaurangprofessorn.se/)
-    
-    <img src="" alt="" width="400" />
 
 - [ ] **The Secret Garden** 💸💸
 
@@ -777,6 +792,12 @@ Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout
     Latino salsa bar. Quite expensive entry fee, especially for guys. [Link](https://www.facebook.com/kristallstockholm/)
 
     <img src="https://user-images.githubusercontent.com/37120889/197341354-1bf53028-7b23-4b82-a245-40c87128374b.jpg" alt="" width="400" />
+
+- [ ] **Professorn** 💸
+
+    This restaurant turns into a bar at night, and they have karaoke each Friday from 9 PM. Many students go there. [Link](http://restaurangprofessorn.se/)
+    
+    <img src="" alt="" width="400" />
 
 
 ## Souvenir🎁

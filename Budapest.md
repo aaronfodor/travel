@@ -9,7 +9,9 @@
 
 # Budapest
 
-Last updated: 23/10/2022
+Last updated: 30/10/2022
+
+Budapest is the Hungarian capital, with roughly 1.7 million inhabitants. It is divided by the river Danube (Pest is a flat area, while Buda has more hills and nature). 2-3 days are enough to see the main highlights, but you need 4-5 days to explore this city truly. Go there in the summer (July-August) to enjoy the sunny and hot days.
 
 ## [Travel Map](https://www.google.com/maps/d/embed?mid=11h2trbapoGKTJSLP9WcK_n-qi2Q5YYg&ehbc=2E312F)🗺️
 
@@ -46,7 +48,7 @@ Tickets for tourists are a bit tricky. They offer travelcards and the Budapest C
 <img src="https://user-images.githubusercontent.com/37120889/197357413-8205af57-b26d-4284-9868-59a9948ceed7.jpg" alt="public transport system" width="800" />
 
 
-## Public Transport alternatives🚴‍♀️
+## Transportation alternatives🚴‍♀️
 
 The inner-city has many attractions in walking distance, but I recommend to buy a public transpot ticket, because many things are far from there.
 
@@ -145,17 +147,23 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
     <img src="https://user-images.githubusercontent.com/37120889/197408531-c341161c-6966-480c-8cf1-489d7b71300f.jpg" alt="" width="400" />
 
-- [ ] **Buda Hill Funicular** 💸💸
-    
-    Short and expensive. I would just watch it.
-
-    <img src="https://user-images.githubusercontent.com/37120889/197408664-7562f4d5-3490-4057-9238-d6cfcb1e8811.jpg" alt="" width="400" />
-
 - [ ] **Andrássy Avenue** 🆓
     
     Andrássy Avenue is a boulevard in Budapest, Hungary, dating back to 1872.
 
     <img src="https://user-images.githubusercontent.com/37120889/197408763-e10fdeb8-a4f8-4268-95da-699a8954288e.jpg" alt="" width="400" />
+
+- [ ] **Tram line 2** 🆓
+    
+    The tram line 2 runs along Pest's Riverbank, providing great views over the Danube and Buda Hills. The route passes by the Chain Bridge, the Hungarian Parliament, the Central Market Hall and other landmarks on the eastern bank. You need a public tansport ticket to ride the tram.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408793-f9d671a4-c140-463c-923d-5423a5a177b3.jpg" alt="" width="400" />
+
+- [ ] **Buda Hill Funicular** 💸💸
+    
+    Short and expensive. I would just watch it.
+
+    <img src="https://user-images.githubusercontent.com/37120889/197408664-7562f4d5-3490-4057-9238-d6cfcb1e8811.jpg" alt="" width="400" />
 
 - [ ] **Kossuth Lajos square** 🆓
     
@@ -236,16 +244,17 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
 - [ ] **Széchenyi Baths and Pool** 💸💸
 
-    The Széchenyi Medicinal Bath in Budapest is the largest medicinal bath in Europe. Its water is supplied by two thermal springs, their temperature is 74 °C and 77 °C.
+    The Széchenyi Medicinal Bath in Budapest is the largest medicinal bath in Europe. Its water is supplied by two thermal springs, their temperature is 74 °C and 77 °C. Components of the thermal water include sulfate, calcium, magnesium, bicarbonate and a significant amount of metaboric acid and fluoride.
 
-    <img src="https://user-images.githubusercontent.com/37120889/197410339-f7085524-e226-47c8-8ffa-b0e12a80680c.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198881974-38774979-ee88-47cf-8bdb-be2e85725215.jpg" alt="" width="400" />
     <img src="https://user-images.githubusercontent.com/37120889/197410359-07e4d828-eadf-42f0-bd3e-18fae2f33cb5.jpg" alt="" width="400" />
 
-- [ ] **Tram line 2** 🆓
-    
-    The tram line 2 runs along Pest's Riverbank, providing great views over the Danube and Buda Hills. The route passes by the Chain Bridge, the Hungarian Parliament, the Central Market Hall and other landmarks on the eastern bank. You need a public tansport ticket to ride the tram.
+- [ ] **Rudas Baths** 💸💸
 
-    <img src="https://user-images.githubusercontent.com/37120889/197408793-f9d671a4-c140-463c-923d-5423a5a177b3.jpg" alt="" width="400" />
+    Rudas Bath or Rudas fürdő is a thermal bath in Budapest, Hungary which is claimed to have medicinal properties. It was first built in 1550, during the time of Ottoman rule. To date, it retains many of the key elements of a Turkish bath, exemplified by its Turkish dome and octagonal pool. This is a smaller complex.
+
+    <img src="https://user-images.githubusercontent.com/37120889/198882045-f32986f9-c9a1-444c-b593-b123e089bd68.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198882059-b4ea51aa-154e-45ef-8583-1587ad0e2ec3.jpg" alt="" width="400" />
 
 - [ ] **Duna Corso Sightseeing Boat** 💸💸
 
@@ -396,11 +405,12 @@ There are other alternatives, like [SHARE NOW](https://www.share-now.com/hu/en/b
 
 ### Hidden gems🔍
 
-- [ ] **The statue of the Great Ho-ho-ho Horgasz's Chief Worm** 🆓
+- [ ] **The statue of the Great Ho-ho-ho Horgasz's Chief Worm (and others)** 🆓
 
-    One of the tiniest statue in Budapest. It is right next to the Danube, in Pest. Can you find it? It is one of a guerilla sculptor's little bronze statues hidden throughout the city.
+    One of the tiniest statues in Budapest. It is right next to the Danube, in Pest. Can you find it? It is one of a guerilla sculptor's little bronze statues hidden throughout the city. There is a tank sculpture close to it.
 
-    <img src="https://user-images.githubusercontent.com/37120889/197420590-d6741dbc-15dd-4432-a8ea-9c7116fdc318.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198882792-34077136-e579-4094-a526-1e5e98abe03f.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/198882743-54d33f76-18a0-4dd1-8f36-99a0b8f58bc5.jpg" alt="" width="400" />
 
 - [ ] **Kiskirálylány (Little Princess)** 🆓
 

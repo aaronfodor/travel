@@ -9,7 +9,9 @@
 
 # City/country name here
 
-Last updated: 22/10/2022
+Last updated: 30/10/2022
+
+Stockholm is a beautiful Scandinavian city with roughly 1 million inhabitants. It is closely connected to nature and water. 3 days is the perfect time to see the city's highlights. Go there in the summer (June-July) to enjoy the very long sunny days with mild temperatures, or in December to experience a dark but cozy city with snow and Christmas vibes.
 
 ## [Travel Map](https://www.google.com/maps/d/embed?mid=1Dnnv04wV9GSkOXd5fpHbVx-2pQMNCWQ&ehbc=2E312F)🗺️
 
@@ -39,7 +41,7 @@ Description. Public transport app ([Android](https://play.google.com/store/apps/
 <img src="https://user-images.githubusercontent.com/37120889/195999721-2626066c-b81f-41a0-abed-93cfb7705710.jpg" alt="public transport system" width="800" />
 
 
-## Public Transport alternatives🚴‍♀️
+## Transportation alternatives🚴‍♀️
 
 The inner city has many attractions within walking distance. If you occasionally want to go to the outer suburbs, I recommend you buy single tickets (valid for 90 minutes) and walk otherwise.
 
