@@ -9,7 +9,7 @@
 
 # Stockholm
 
-Last updated: 30/10/2022
+Last updated: 06/11/2022
 
 Stockholm is a beautiful Scandinavian city with roughly 1 million inhabitants. It is closely connected to nature and water. 3 days is the perfect time to see the city's highlights. Go there in the summer (June-July) to enjoy the very long sunny days with mild temperatures, or in December to experience a dark but cozy city with snow and Christmas vibes.
 
@@ -428,15 +428,21 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     <img src="https://user-images.githubusercontent.com/37120889/197397361-a4b030bc-6700-4253-9a60-37388c3825a4.jpg" alt="" width="400" />
 
+- [ ] **Karl XII Statue in Kungsträdgården**
+
+    He was the King of Sweden (including current Finland) from 1697 to 1718. Have you ever wondered where does the sculpture point with its hand? It points to Russia - a country with which Karl had many battles. There is Karl XIII's Statue nearby (that does not point anywhere). The statue is almost always serves as a lookout place for seagulls.
+
+    <img src="https://user-images.githubusercontent.com/37120889/200182529-0366285c-57b9-4522-a862-6bbedd6c6034.jpg" alt="" width="400" />
+
 - [ ] **Järnpojke**
 
     Järnpojke (Iron Boy) is a small statue that stands in a church courtyard in Stockholm’s old town, Gamla Stan. This 15-centimeter artwork is known as Sweden’s tiniest public monument. This charming artwork is beloved by locals. They care for the boy and adorn him with clothes and items based on current affairs or weather. He is often also surrounded by coins from various countries: it is believed that the Iron Boy bestows good luck upon those who rub his head or give him a small gift.
 
     <img src="https://user-images.githubusercontent.com/37120889/197397488-d346be15-d765-408d-8caa-9f0bd9a5b812.jpg" alt="" width="400" />
 
-- [ ] **A ghost story: the Kymlinge Metro Station**
+- [ ] **Kymlinge Metro Station**
 
-    The Kymlinge Metro Station, and Silverpilen, the silvery train that is said to haunt its rails, are both quite real. Read the full story [here](https://www.atlasobscura.com/places/kymlinge-metro-station). The station is closed for visitors but you can get close to the fence. Don't try to get over, the metros go very fast and even if you don't get hit, you'll traumatize the metro driver.
+    The ghost story of the Kymlinge Metro Station, and Silverpilen, the silvery train that is said to haunt its rails, are both quite real. Read the full story [here](https://www.atlasobscura.com/places/kymlinge-metro-station). The station is closed for visitors but you can get close to the fence. Don't try to get over, the metros go very fast and even if you don't get hit, you'll traumatize the metro driver.
 
     <img src="https://user-images.githubusercontent.com/37120889/197398007-9a13a30d-ab48-46f3-a2e8-36ec64f7722e.jpg" alt="" width="400" />
 
@@ -480,7 +486,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 - [ ] **Ärtsoppa**
 
-    Yellow Pea soup. It is good.
+    Yellow Pea soup. It is good, mix it with mustard.
 
 ### Main dishes
 
@@ -498,47 +504,49 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 ### Desserts
 
-- [ ] **Kanelbullar**
+- [ ] **Kladdkaka**
 
-    Very popular, cinamon roll.
+    Chocolate cake with creamy inside.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003307-9a8eacfa-88bf-417a-9f7c-472c5443a963.jpg" alt="" width="400" />
-
-- [ ] **Toscabullar**
-
-    Like the cinamon roll, but flavored with almonds and cardamom.
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003351-38fe931a-ed16-4d27-91db-ee3c60a721b5.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200178364-e4e172e4-7a97-4d76-a833-4e7137f7dc8e.jpg" alt="" width="400" />
 
 - [ ] **Prinsesstårta**
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003423-08a371ab-26e1-4da7-8d8e-5872bfad0ef1.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200178404-4ba77595-f830-4a22-bf9a-81604c3865aa.jpg" alt="" width="400" />
 
-- [ ] **Kladdkaka**
+    Around Halloween, you can find pumpkin-like versions too:
 
-    Very good.
+    <img src="https://user-images.githubusercontent.com/37120889/200178614-6c1210cb-3dd6-4237-85bd-b1ad00d48f7c.jpg" alt="" width="400" />
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003436-7705fe0e-ac6a-4e08-9746-6a5487ff877a.jpg" alt="" width="400" />
+- [ ] **Chocoloco**
+
+    Soft with chocolate whipping cream. Buy it in fancy fika places (like Vete Katten).
+
+    <img src="https://user-images.githubusercontent.com/37120889/200178301-85c8798f-91c8-4866-9893-72195776a1e3.jpg" alt="" width="400" />
 
 - [ ] **Punschrulle**
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003450-0376392f-d529-49e6-a272-3e7051d223ce.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200179315-b16d8cbc-88f3-42bd-ae1f-5c5696ee71b6.png" alt="" width="400" />
 
-- [ ] **Budapestbakelse**
+- [ ] **Budapestrulle or Budapestbakelse**
 
-    I think it has nothing to do with Budapest/Hungary, but tasty.
+    The name may mislead you, but this is a Swedish dessert. It is baked as a rolled cake with a hazelnut base on which cream and fruit mixture is spread. The name comes from the inventor's interest in the city of Budapest. Budapest pastry day is celebrated on May 1.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003461-0b936173-4816-46b7-bce5-3f5d3ccd65df.jpg" alt="" width="400" />
-
-- [ ] **Omelette Norvégienne**
-
-    <img src="https://user-images.githubusercontent.com/37120889/196003503-18980f6a-a047-434b-a2f7-7a69b33e9b14.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200178889-d89c4cd3-a990-40d5-9077-06a76ed89a31.jpg" alt="" width="400" />
 
 - [ ] **Pannkakor**
     
     Pancake the Swedish way.
 
     <img src="https://user-images.githubusercontent.com/37120889/196003530-6ca895fe-7b0a-4e34-baf3-8f3ed2c81947.jpg" alt="" width="400" />
+
+- [ ] **Omelette Norvégienne**
+
+    It is a French dessert made of vanilla ice cream covered with meringue, placed on a sponge base and baked in a hot or flambé oven. Its originality lies in the contrast between the icy interior and the very hot exterior. It is also called baked Alaska. It is not Swedish, but you can find it in Stockholm. I tried one in Restaurang Allegrine (which, no surprise, is a French restaurant), it was very good! Sometimes it comes as a roll instead of a cake. Sometimes it is served being on fire.
+
+    <img src="https://user-images.githubusercontent.com/37120889/200179146-10d76fbb-e94e-423a-a441-aa11e4bd1c69.jpg" alt="" width="400" />
+
+    <img src="https://user-images.githubusercontent.com/37120889/200179243-9c04bf93-d6c4-4ef1-98a5-371488878f38.jpg" alt="" width="400" />
 
 - [ ] **Ostkaka**
     
@@ -548,35 +556,56 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 ### Pastries
 
+- [ ] **Kanelbulle**
+
+    Iconic Swedish. Very popular, cinamon roll.
+
+    <img src="https://user-images.githubusercontent.com/37120889/200178727-1c97d588-8d2e-46ac-9eaf-6eb049f86587.jpg" alt="" width="400" />
+
+- [ ] **Toscabulle**
+
+    Like the cinamon roll, but flavored with almonds and cardamom.
+
+    <img src="https://user-images.githubusercontent.com/37120889/200178680-aeea01a1-ecda-47f2-9132-d68b4e3f8141.jpg" alt="" width="400" />
+
 - [ ] **Saffron bun**
 
     <img src="https://user-images.githubusercontent.com/37120889/196003554-70551162-67b0-4c1c-8153-8ed96a128b9a.jpg" alt="" width="400" />
 
 ### Drinks
 
-- [ ] **Julmust and påskmust**
+- [ ] **Julmust and Påskmust**
 
-    Swedish coke served during Christmas and Easter.
+    Swedish coke served during Christmas (Jul) and Easter (Påsk). They have no sugar versions too.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003583-26467411-7b2e-43a5-b45e-a64cc3a56a4a.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200181075-9ac93cd1-02c5-4577-b988-dac242807304.jpg" alt="" width="400" />
 
 - [ ] **Trocadero**
 
     Apple based sugary dink.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003597-1f1bae98-0f09-4d15-a3e5-53dce5771f9b.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200180925-abe58f8e-7c8c-47ab-b0a0-29f80629e98a.png" alt="" width="400" />
 
 - [ ] **Glögg**
 
-    Swedish Mulled Wine.
+    Swedish Mulled Wine with cinnamon and almond. You can easily find them in Christmas markets.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003607-6cf32822-58bd-4b82-9714-2bace7371764.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200180981-1feeaa4f-d855-4e1c-a61a-3a4dfc06af8c.jpg" alt="" width="400" />
 
 ### Other
 
+- [ ] **Ärtsoppa with pannkakor or Punsch lunch**
+
+    In Sweden, a classic Thursday lunch menu is Ärtsoppa with pannkakor (Pea soup with pancakes, whipped cream and strawberry jam). On Thursdays, you can find this in some restaurants (like Mom's Kitchen Nybrogatan or Nymble Restaurang).
+
+    <img src="https://user-images.githubusercontent.com/37120889/200179764-852fb52e-34f9-4f8e-bbda-1126dc917010.jpg" alt="" width="400" />
+
+
 - [ ] **Saltlakrits**
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003617-0e90d7cb-b3c2-4529-a80d-d5836f81e429.jpg" alt="" width="400" />
+    Salty liquorice, a variety of liquorice flavoured with the ingredient "salmiak salt", and is a common confection found in the Nordic countries, Benelux, and northern Germany. They have tons of candys, chocolates flavoured with it. I don't like it.
+
+    <img src="https://user-images.githubusercontent.com/37120889/200181184-2361f034-1b2a-4b80-becc-6714d1336216.jpg" alt="" width="400" />
 
 - [ ] **Marabou**
 
@@ -584,7 +613,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 - [ ] **Daim**
 
-    <img src="https://user-images.githubusercontent.com/37120889/196003635-761eadff-d218-43d3-a79e-1365ca3c6225.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200180887-3dc61141-264e-4e8f-9a7f-1091a009c951.jpg" alt="" width="400" />
 
 
 ## Restaurants🍴
@@ -597,7 +626,7 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
  - [ ] **Mom's Kitchen Nybrogatan** 💸💸
 
-    Reasonably priced great Swedish food.
+    Reasonably priced great Swedish food. Takeaway is cheaper than eating there. The guy serving food is kind and likes talking/telling stories. They have Ärtsoppa with pannkakor on Thursdays if you ask for it. The serve cheaper lunch options until 14:00 on weekdays.
 
     <img src="https://user-images.githubusercontent.com/37120889/198880545-0e73afd3-cf86-4a3b-a558-654d6eb5ac8f.jpg" alt="" width="400" />
 
@@ -661,6 +690,12 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
     <img src="https://user-images.githubusercontent.com/37120889/198881416-b9f23428-c3b5-4722-b9a5-827a01614c61.jpg" alt="" width="400" />
     
+- [ ] **Restaurang Nymble** 💸
+
+    It is a good canteen housed in an open dining room. Located in Nymble, a student building at KTH, so forth it is cheap. Lunch consists of two options as well as the week's vegetarian, the week's fish & the week's salad offer. I think the food is great. They have Punsch lunch offer each Thursday (Ärtsoppa with pancakes). The staff is not always kind, and they close early (lunch is between 11:30–13:30).
+
+    <img src="https://user-images.githubusercontent.com/37120889/200180380-69fc18e0-204b-4fe5-8001-fe0b689a403c.jpg" alt="" width="400" />
+
 - [ ] **Taco Bar** (multiple places) 💸
 
     Mexican fast food franchise. Don’t tell Mexicans that I recommended this place, but it is good compared to the price. The places at Sergels and Gamla Stan are great.
@@ -698,19 +733,19 @@ Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout
 
     Nice fika place, good location, great Princess cake!
 
-    <img src="https://user-images.githubusercontent.com/37120889/196004004-04551ec8-dd4d-463e-85fd-cbe92d946188.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200181694-2a0cc230-a25e-4c23-8422-876bece03771.jpg" alt="" width="400" />
     
-- [ ] **Vete Katten Kungsgatan** 💸💸
+- [ ] **Vete Katten Kungsgatan** 💸💸 (Vete Katten is a franchise, the other places are also good)
 
     It is a fancy fika restaurant in a beautiful building. Their Princess cake or Budapest pastry is good.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196004010-7c7c855e-35a3-409d-ba46-8c31c1e90aa3.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200181640-4dc80932-f85f-40e2-b546-003ede5967b9.jpg" alt="" width="400" />
     
 - [ ] **Espresso House** (multiple places) 💸💸
 
     This is a Swedish branch, similar to Frei Coffee. They have great sweets. The ones at Sergels and Gamla Stan are my favourites.
 
-    <img src="https://user-images.githubusercontent.com/37120889/196004064-8f7959b5-1b79-4dc5-99b8-031ae43af7e0.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200181563-5124ff6f-042a-4136-b83c-04a84bd93c62.jpg" alt="" width="400" />
 
 - [ ] **Långängens Gård** 💸💸
 
@@ -734,7 +769,13 @@ Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout
 
     Another traditional fika franchise.
 
-    <img src="https://user-images.githubusercontent.com/37120889/197342496-622e16ee-b55b-4823-8078-fc449c0ac1c0.jpg" alt="" width="400" />
+    <img src="https://user-images.githubusercontent.com/37120889/200181516-6c8d4952-a113-475a-9ba0-2ae74f1167a2.jpg" alt="" width="400" />
+
+- [ ] **Thelins Konditori** (multiple places) 💸💸
+
+    Thelins has been around for over 100 years. It is a traditional artisan pastry franchise that offers everything from bread, classic princess cakes and mazarins to more modern pastries, pralines & croissants. They offer lunch too. The staff is not so nice, expect them to be rude around the closing hours. They have great Chocoloco.
+
+    <img src="https://user-images.githubusercontent.com/37120889/200181468-81009037-4cd9-4d09-93c0-706e87e8c8c5.jpg" alt="" width="400" />
 
 - [ ] **Mr. Churros** (multiple places) 💸💸
 
