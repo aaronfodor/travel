@@ -729,23 +729,33 @@ If you need a car, I can recommend [Circle K](https://www.circlek.se/biluthyrnin
 
 Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout the day to help them refresh their minds and make the most of the day. Commonly, Fika just translates to “coffee and cake,” but it’s a lot more for most Swedes. Fika is a state of mind, a crucial part of Swedish culture, and a must-have part of any day. Fika isn’t just about stocking up on caffeine. This mini-break focuses more on the importance of making time for friends, family, and colleagues in everyday life. 
 
+- [ ] **Kaffekoppen & Chokladkoppen** 💸💸
+
+    Feel the wings of history over a cup of good coffee in Kaffekoppen's and Chokladkoppen's cellar vault in the heart of the Old Town, right next to the Great Church and the Royal Palace, at Stortorget. The two places look separate, but they are connected underground (clever). They seem small, but the underground cellars are pretty spacy and have a historic atmosphere. They bake the pastries there, their kanelbulle is huge and very good! They serve good glögg, too.
+
+    <img src="https://user-images.githubusercontent.com/37120889/201525900-18641cc6-3a76-48b7-a385-5b81a921fb03.PNG" alt="" width="300" />
+
+    <img src="https://user-images.githubusercontent.com/37120889/201525901-8d051ec6-bd83-4485-a2db-4af698b2abd2.PNG" alt="" width="300" />
+
+    <img src="https://user-images.githubusercontent.com/37120889/201525903-0fdac1ec-494b-4002-99ba-5bc3f4b38808.PNG" alt="" width="200" />
+
 - [ ] **Grillska Huset (Stockholms Standmission Stortorget)** 💸💸
 
     Nice fika place, good location, great Princess cake!
 
     <img src="https://user-images.githubusercontent.com/37120889/200181694-2a0cc230-a25e-4c23-8422-876bece03771.jpg" alt="" width="400" />
     
-- [ ] **Vete Katten Kungsgatan** 💸💸 (Vete Katten is a franchise, the other places are also good)
+- [ ] **Rosendals Trädgårdskafé** 💸💸
 
-    It is a fancy fika restaurant in a beautiful building. Their Princess cake or Budapest pastry is good.
+    It is a very good fika and lunch place. Authentic food craftsmanship. When the season permits, their gardeners harvest vegetables, herbs and fruit directly from the biodynamic farms next to the place. All bread and pastries are baked by hand in their wood oven bakery right next to the garden cafe.
 
-    <img src="https://user-images.githubusercontent.com/37120889/200181640-4dc80932-f85f-40e2-b546-003ede5967b9.jpg" alt="" width="400" />
-    
-- [ ] **Espresso House** (multiple places) 💸💸
+    <img src="https://user-images.githubusercontent.com/37120889/201524943-9659dbe4-337a-4e59-86a7-3f1de798fbf9.jpg" alt="" width="400" />
 
-    This is a Swedish branch, similar to Frei Coffee. They have great sweets. The ones at Sergels and Gamla Stan are my favourites.
+- [ ] **Vete Katten** 💸💸 (multiple places)
 
-    <img src="https://user-images.githubusercontent.com/37120889/200181563-5124ff6f-042a-4136-b83c-04a84bd93c62.jpg" alt="" width="400" />
+    It is a fika franchise. My favourite is at Kungsgatan (which is in a beautiful building). Their Princess cake or Budapest pastry is good.
+
+    <img src="https://user-images.githubusercontent.com/37120889/201524777-3e6a38fe-2c09-443b-a56a-e026a39fa7d4.jpg" alt="" width="400" />
 
 - [ ] **Långängens Gård** 💸💸
 
@@ -770,6 +780,12 @@ Fika is a coffee break the Swedish style. Swedes have periods of Fika throughout
     Another traditional fika franchise.
 
     <img src="https://user-images.githubusercontent.com/37120889/200181516-6c8d4952-a113-475a-9ba0-2ae74f1167a2.jpg" alt="" width="400" />
+
+- [ ] **Espresso House** (multiple places) 💸💸
+
+    This is a Swedish branch, similar to Coffee Frei. They have great sweets. The ones at Kungsgatan and Gamla Stan are my favourites.
+
+    <img src="https://user-images.githubusercontent.com/37120889/200181563-5124ff6f-042a-4136-b83c-04a84bd93c62.jpg" alt="" width="400" />
 
 - [ ] **Thelins Konditori** (multiple places) 💸💸
 
